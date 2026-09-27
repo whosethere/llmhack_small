@@ -24,7 +24,7 @@ bash gpu/serve_bielik.sh || exit 1
 t0=$(date +%s)
 CONCURRENCY=${CONCURRENCY:-8} DEADLINE=${DEADLINE:-900} bash gpu/exam_run.sh "$EXAM" "$NAME" single-vlm --text-only ${TEXT_HEADERS:+--text-headers} --think off \
   --llm-url http://localhost:8002/v1 --llm-model solver --ocr "$OCR" --ocr-scale "${OCR_SCALE:-2}" --img-scale none \
-  --max-tokens "${MAXTOK:-1200}" --essay-max-tokens "${ESSAYTOK:-2000}" --essay-rag-k "${ESSAY_RAG_K:-4}" "${RAG_ARGS[@]}" "${IMG_ARGS[@]}"
+  --max-tokens "${MAXTOK:-1200}" --essay-max-tokens "${ESSAYTOK:-2000}" --temperature "${TEMP:-0}" --essay-rag-k "${ESSAY_RAG_K:-4}" "${RAG_ARGS[@]}" "${IMG_ARGS[@]}"
 echo "czas: $(( $(date +%s) - t0 )) s"
 [ -f "results/exam/$NAME/answers.json" ] || { echo "BŁĄD: brak answers.json"; tail -20 "results/exam/$NAME/solver.log"; exit 1; }
 python3 exam/validate.py --exam "$EXAM" "results/exam/$NAME/answers.json" && echo "-> results/exam/$NAME/answers.json"

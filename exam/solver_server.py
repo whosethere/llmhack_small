@@ -387,7 +387,7 @@ class Solver:
         import essay_small as ES
         penalty = {"repeat_penalty": 1.05, "repetition_penalty": 1.05}   # llama.cpp / vLLM: bez tego 1.5B przy temp 0 potrafi się zapętlić
         def ch(system, user, max_tokens):
-            raw, _ = chat(self.a.llm_url, self.a.llm_model, [{"role": "system", "content": system}, {"role": "user", "content": user}], max_tokens, 0.0, think=False, extra=penalty)
+            raw, _ = chat(self.a.llm_url, self.a.llm_model, [{"role": "system", "content": system}, {"role": "user", "content": user}], max_tokens, self.a.temperature, think=False, extra=penalty)
             return raw
         writer = ES.EssaySmall(ch, rag_url=self.a.rag_url if not debug.get("fast") else None, rag_k=self.a.essay_rag_k)
         text = writer.write(item.get("question") or "", debug)

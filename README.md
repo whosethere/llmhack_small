@@ -54,7 +54,7 @@ python exam/to_eval.py --exam submission/history-2023-mock-v1 --answers results/
 python eval/calibrate.py grade --judge gpt-6-sol-v4 --as gpt-6-sol-v4-opis --desc results/org-opisy/opisy_2023.jsonl --desc-all --runs exam-nazwa
 ```
 
-Zmienne `exam_small.sh`: `RAG` (1), `RAG_SCOPE` (essay|open|all), `OCR` (tesseract|none), `TEXT_HEADERS`, `ESSAY_RAG_K` (4), `CONCURRENCY` (8).
+Zmienne `exam_small.sh`: `TEMP` (0; 0,2 i 0,4 dawały 18 i 17/60 na 2023), `RAG` (1), `RAG_SCOPE` (essay|open|all), `OCR` (tesseract|none), `TEXT_HEADERS`, `ESSAY_RAG_K` (4), `CONCURRENCY` (8).
 Laboratorium eseju: `python small_model/essay_lab.py gen|judge|report --variants facts5_years ...` (model pod `--llm-url`, retrieval pod `--rag-url`).
 
 ## Struktura
