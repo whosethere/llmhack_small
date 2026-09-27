@@ -402,6 +402,32 @@ def v_facts(llm, q, n, rag_url, debug, filt="none", fewshot=False, nfacts=5, min
     return f"Temat nr {n}\n\n{text}"
 
 
+# ---------- krótki prompt z szablonem trzech części (wstęp: nawiązanie do tematu i stanowisko; rozwinięcie: wszystkie wątki z tematu; zakończenie: podsumowanie) ----------
+SYS_TPL = """Jesteś maturzystą. Piszesz wypracowanie z historii po polsku, ciągłym tekstem w akapitach, bez list i nagłówków. Podajesz tylko fakty, których jesteś pewien."""
+
+
+def v_tpl(llm, q, n, rag_url, debug, facts=False):
+    topic = parse_topics(q["tresc"])[n]; kind, els = elements(topic); th = thesis(topic).rstrip(".")
+    threads = ", ".join(els) if kind == "aspekty" else els
+    block = ""
+    if facts and rag_url:
+        hits = retrieve(rag_url, [th] + ([f"{th} – {e}" for e in els] if kind == "aspekty" else []), k=6, min_score=0.3)
+        fs = fact_sentences(hits, topic, limit=6); debug["facts"] = len(fs)
+        if fs: block = "Fakty, z których możesz skorzystać:\n" + "\n".join(f"{i + 1}. {f}" for i, f in enumerate(fs)) + "\n\n"
+    u = (block + f"Temat wypracowania: {topic}\n\nNapisz wypracowanie (co najmniej 350 wyrazów) w trzech częściach:\n"
+         f"wstęp: zajmij stanowisko wobec tezy i nawiąż ogólnie do tematu;\n"
+         f"rozwinięcie: rozwiń wszystkie wątki wymienione w temacie ({threads}), każdy w osobnym akapicie z konkretnymi faktami;\n"
+         f"zakończenie: podsumowanie argumentów i wniosek.\nTylko tekst wypracowania.")
+    debug["prompt_words"] = words(u)
+    text = clean(llm(SYS_TPL, u, 1500))
+    if len(BULLET.findall(text)) >= 4: text = debullet(text)
+    if facts: text, _ = (lambda r: (r, None))(text)   # bez filtra lat: test samego promptu
+    for i in range(2):
+        if words(text) >= 320: break
+        text = add_paragraph(llm, topic, kind, els, text, debug, i)
+    return f"Temat nr {n}\n\n{text}"
+
+
 VARIANTS = {
     "base": (v_base, False),
     "simple": (lambda *a: v_simple(*a, rag=False), True),
@@ -417,6 +443,8 @@ VARIANTS = {
     "facts5_fs": (lambda *a: v_facts(*a, filt="years", fewshot=True), True),   # + wzorcowy akapit
     "facts5_years_m05": (lambda *a: v_facts(*a, filt="years", min_score=0.5), True),   # próg rerankera 0.5 zamiast 0.3
     "facts3_years": (lambda *a: v_facts(*a, filt="years", nfacts=3), True),            # 3 fakty na aspekt zamiast 5
+    "tpl": (lambda *a: v_tpl(*a, facts=False), True),         # krótki prompt: szablon wstęp/rozwinięcie/zakończenie, jeden strzał
+    "tpl_facts": (lambda *a: v_tpl(*a, facts=True), True),    # jw. + 6 zdań-faktów z retrievalu
 }
 
 # ---------- przebieg ----------

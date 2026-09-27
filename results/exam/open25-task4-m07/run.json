@@ -1,0 +1,32 @@
+{
+  "exam_id": "history-2025-mock-v1",
+  "solver": {
+    "version": "exam-solver-1",
+    "strategy": "single-vlm",
+    "multimodal": false,
+    "think": "off",
+    "rag": "http://localhost:8010",
+    "img_scale": "none",
+    "img_index": true,
+    "describe": {
+      "prompt": "v2",
+      "lang": "pl",
+      "ocr": "tesseract"
+    },
+    "llm": {
+      "url": "http://localhost:8002/v1",
+      "model": "solver"
+    },
+    "vlm": null
+  },
+  "seconds": 18.2,
+  "answered": 38,
+  "failed": [],
+  "guessed": [],
+  "errors": [],
+  "warnings": [
+    "6: brak etykiet z polecenia: ['rozstrzygnięcie']",
+    "8: brak etykiet z polecenia: ['nazwa stylu 1', 'cecha', 'nazwa stylu 2']",
+    "21.2: brak etykiet z polecenia: ['rozstrzygnięcie']"
+  ]
+}

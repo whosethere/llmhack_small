@@ -9,10 +9,16 @@ Wydzielone z repo [llmhack](https://github.com/whosethere/llmhack) (rozwiązanie
 Konfiguracja docelowa `gpu/exam_small.sh`, średnia z 3 przebiegów na mock (rozrzut identycznej konfiguracji ±2 pkt: llama.cpp
 z 8 slotami nie jest deterministyczne, sędzia też):
 
-| arkusz | zamknięte | otwarte z obrazem | otwarte tekstowe | wypracowanie | **razem /60** | **%** | rozrzut |
+| arkusz (mock = arkusz CKE w formacie organizatorów) | zamknięte | otwarte z obrazem | otwarte tekstowe | wypracowanie | **razem /60** | **%** | przebiegi (rozrzut) |
 |---|---|---|---|---|---|---|---|
-| mock 2023 | 2,0 / 3 | 4,3 / 26 | 9,3 / 16 | 5,0 / 15 | **20,7** | **34,4%** | 18–22 |
-| mock 2025 | 3,0 / 8 | 8,3 / 24 | 3,0 / 13 | 5,3 / 15 | **19,7** | **32,8%** | 18–22 |
+| 2023 | 2,0 / 3 | 4,3 / 26 | 9,3 / 16 | 5,0 / 15 | **20,7** | **34,4%** | 3 (18–22) |
+| 2024 | 0,0 / 4 | 5,5 / 31 | 5,0 / 10 | 2,5 / 15 | **13,0** | **21,7%** | 2 (12–14) |
+| 2025 | 3,0 / 8 | 8,3 / 24 | 3,0 / 13 | 5,3 / 15 | **19,7** | **32,8%** | 3 (18–22) |
+| 2026 | 3,0 / 6 | 7,0 / 29 | 2,0 / 10 | 6,5 / 15 | **18,5** | **30,8%** | 2 (17–20) |
+| **średnia 4 arkuszy** | | | | 4,8 / 15 | **18,0** | **30,0%** | |
+
+Arkusz 2024 jest najtrudniejszy dla modelu tekstowego (30 z 40 zadań z ilustracją, 31 pkt) i ma temat wypracowania o osobie (Piłsudski);
+zadanie 21 (kadr z „Triumfu woli”) odrzuca filtr treści sędziego i jest oceniane ręcznie (0 pkt).
 
 Goły model (prompt benchmarkowy, bez niczego): 2023 18–19/60, wypracowanie 0–1/15. Cały zysk to wypracowanie.
 

@@ -1,0 +1,519 @@
+{
+  "exam_id": "history-2026-mock-v1",
+  "title": "Historia — matura rozszerzona, maj 2026",
+  "source_exam_id": "MHIP-R0-100-2605",
+  "source_url": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2026/Historia/MHIP-R0-100-A-2605-arkusz.pdf",
+  "input_format": "separate-text-and-images-v1",
+  "language": "pl",
+  "max_points": 60,
+  "instructions": "Rozwiąż zadania po polsku. Czytaj question, source_text i wszystkie powiązane images. Wzory answer_format pokazują tylko składnię, nie poprawne odpowiedzi.",
+  "items": [
+    {
+      "id": "1",
+      "group": 1,
+      "max_points": 2,
+      "question": "Uzupełnij tabelę. Wpisz obok fragmentów opisów odkryć archeologicznych nazwy\nwłaściwych cywilizacji starożytnych oraz numery, którymi na mapie oznaczono\nobszary tych cywilizacji.\nFragment A –\nFragment B –",
+      "source_text": "Źródło 1. Mapa\n[Obraz: images/Z01-S1.png]\n\nNa podstawie: J.M. Roberts, Ilustrowana historia świata. Prehistoria […], t. I, Warszawa 1999, s. 66.\nŹródło 2. Fragmenty opracowań historycznych\nFragment A:\nPodczas wyprawy wojennej w 1798 roku wraz z oddziałami Napoleona przybyła duża grupa\nbadaczy. W trakcie prac fortyfikacyjnych w mieście Rosetta kpt. F. Bouchard 15 lipca\n1799 roku odkrył czarną kamienną (bazaltową) płytę z tekstem wyrytym w trzech wersjach.\nZnalezisko, znane jako kamień z Rosetty, pozwoliło na rozszyfrowanie starożytnego pisma.\nFragment B:\nArcheolodzy rozpoczęli prace wykopaliskowe i w 1974 roku odkryli tajne wojsko. 7000\nnaturalnej wielkości żołnierzy z terakoty strzegło ciała cesarza. Każdy z posągów miał\nindywidualne rysy twarzy – zapewne są to portrety wojowników cesarskiej armii.\nNa podstawie: M. Karpińska, Bitwa pod piramidami […], „Mówią wieki” 2013, nr 7, s. 42–44;\nJ. Dineen, 100 największych odkryć archeologicznych, Poznań 2007, s. 68.",
+      "images": [
+        {
+          "path": "images/Z01-S1.png",
+          "source_page": 3,
+          "sha256": "411a4c927f131c4aae0105f6e2f278573cba17bd582e84bbb006e7c4e181715e"
+        }
+      ],
+      "answer_format": "A: nazwa cywilizacji, numer na mapie\nB: nazwa cywilizacji, numer na mapie"
+    },
+    {
+      "id": "2",
+      "group": 2,
+      "max_points": 1,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Tekst przedstawia działalność Platona.\n2. Opisana w tekście postać należała do stoickiej szkoły filozoficznej.",
+      "source_text": "Fragment opracowania\nSamo sedno działalności [filozofa] kryło się w tym, że pozornie nie starał się wcale pouczać\nludzi. Przeciwnie: sprawiał wrażenie, że to on pragnie się czegoś od nich nauczyć. Nie dawał\nlekcji jak pierwszy lepszy nauczyciel, o nie, [on] jedynie rozmawiał. Nie zostałby jednak\nsławnym filozofem, gdyby tylko przysłuchiwał się, co mówią inni, ani rzecz jasna nie skazano\nby go na śmierć. [Filozof] rozpoczynał rozmowę od zadawania pytań. W ten sposób udawał,\nże nic nie wie. W trakcie pogawędki zmuszał rozmówcę, by ten dostrzegł słabości w swoim\nsposobie myślenia. Przyparty do muru, rozmówca musiał wreszcie rozróżnić, co jest\nprawdziwe, a co – nie.\nNa podstawie: J. Gaarder, Świat Zofii, Warszawa 1995, s. 85–86.",
+      "images": [],
+      "answer_format": "1: P\n2: F"
+    },
+    {
+      "id": "3.1",
+      "group": 3,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy bitwa przedstawiona w źródle 1. była decydującą bitwą wojny\nopisanej w źródle 2. Odpowiedź uzasadnij, odwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Plan bitwy\n[Obraz: images/Z03-S1.png]\n\nNa podstawie: Wielka Encyklopedia PWN, red. J. Wojnowski, t. 1, Warszawa 1995, s. 265.\nŹródło 2. Fragment opracowania historycznego\nW styczniu [wódz rzymski] przekroczył Rubikon stanowiący granicę między Galią\nPrzedalpejską a właściwą Italią. „Kości zostały rzucone” – rozpoczęła się wojna domowa.\nJego przeciwnik również dysponował silną armią, ale stacjonowała ona w Hiszpanii. Italia\njednak była właściwie bezbronna, większość senatorów w panice opuściła stolicę. Ciesząc\nsię poparciem arystokracji, [wódz rzymski] szybko opanował Italię i Rzym. Czekała go jednak\nciężka rozprawa w Hiszpanii, a następnie w Grecji. Do decydującej bitwy doszło w Tracji.\nNa podstawie: M. Jaczynowska, D. Musiał, M. Stępień, Historia starożytna, Warszawa 2010, s. 479.",
+      "images": [
+        {
+          "path": "images/Z03-S1.png",
+          "source_page": 4,
+          "sha256": "328f8967abf90c412766e91d3c930a4b34b464edf6ac29e465ebfc60adc29e8d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "3.2",
+      "group": 3,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nOpisane w źródle 2. wydarzenia rozegrały się przed\nA. zburzeniem Kartaginy.\nB. reformą braci Grakchów.\nC. powstaniem Spartakusa.\nD. ustanowieniem pryncypatu.",
+      "source_text": "Źródło 1. Plan bitwy\n[Obraz: images/Z03-S1.png]\n\nNa podstawie: Wielka Encyklopedia PWN, red. J. Wojnowski, t. 1, Warszawa 1995, s. 265.\nŹródło 2. Fragment opracowania historycznego\nW styczniu [wódz rzymski] przekroczył Rubikon stanowiący granicę między Galią\nPrzedalpejską a właściwą Italią. „Kości zostały rzucone” – rozpoczęła się wojna domowa.\nJego przeciwnik również dysponował silną armią, ale stacjonowała ona w Hiszpanii. Italia\njednak była właściwie bezbronna, większość senatorów w panice opuściła stolicę. Ciesząc\nsię poparciem arystokracji, [wódz rzymski] szybko opanował Italię i Rzym. Czekała go jednak\nciężka rozprawa w Hiszpanii, a następnie w Grecji. Do decydującej bitwy doszło w Tracji.\nNa podstawie: M. Jaczynowska, D. Musiał, M. Stępień, Historia starożytna, Warszawa 2010, s. 479.",
+      "images": [
+        {
+          "path": "images/Z03-S1.png",
+          "source_page": 4,
+          "sha256": "328f8967abf90c412766e91d3c930a4b34b464edf6ac29e465ebfc60adc29e8d"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "4.1",
+      "group": 4,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy relacja ze źródła 1. opisuje zdobycie miasta, którego plan\nprzedstawia źródło 2. Odpowiedź uzasadnij, odwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment kroniki\n[Sułtan Mehmet] kazał ustawić w stosownych miejscach baterie i rozpoczął postępować ku\nmiastu przy pomocy janczarów […], a ledwo działa zostały ustawione, polecił im kierować\nsilny ogień na mury, nic już nie mówiąc o nieprzerwanym gradzie strzał i kamieni, miotanych\nprzez machiny, jednocześnie jak deszcz, spadających na miasto. Oblężeni ze swej strony\nposyłali bez przerwy salwy z muszkietów i dział ładowanych kamiennymi kulami, którymi\nsprawiali męki wielu muzułmanom […]. W tym czasie przybyły dwa wielkie statki przysłane\nprzez Franków na pomoc cesarzowi […]. Opór ze strony oblężonych był tak silny, że Turcy,\ndopiero gdy noc zapadła, byli w stanie wedrzeć się do miasta przez wyłom w murze. […]\nGrabież trwała trzy pełne dni […]. [Z]mieniono dotychczasową […] postać [kościołów, w tym\nkościoła Hagia Sophia], […] ażeby uczynić z nich miejsca modlitwy dla muzułmanów.\nWiek V–XV w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1997, s. 321–322.\nŹródło 2. Plan miasta\n[Obraz: images/Z04-S2.png]\n\nS. Runciman, Dzieje […], t. III, Warszawa 1988, s. 385.",
+      "images": [
+        {
+          "path": "images/Z04-S2.png",
+          "source_page": 6,
+          "sha256": "1b668eb945ce687c34e63e34567f21369b2955f2919ff88ab5d725419c2483c3"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "4.2",
+      "group": 4,
+      "max_points": 1,
+      "question": "Uzasadnij, odwołując się do informacji zamieszczonych na planie, że miasto na nim\nprzedstawione uczestniczyło w handlu lewantyńskim.",
+      "source_text": "Źródło 1. Fragment kroniki\n[Sułtan Mehmet] kazał ustawić w stosownych miejscach baterie i rozpoczął postępować ku\nmiastu przy pomocy janczarów […], a ledwo działa zostały ustawione, polecił im kierować\nsilny ogień na mury, nic już nie mówiąc o nieprzerwanym gradzie strzał i kamieni, miotanych\nprzez machiny, jednocześnie jak deszcz, spadających na miasto. Oblężeni ze swej strony\nposyłali bez przerwy salwy z muszkietów i dział ładowanych kamiennymi kulami, którymi\nsprawiali męki wielu muzułmanom […]. W tym czasie przybyły dwa wielkie statki przysłane\nprzez Franków na pomoc cesarzowi […]. Opór ze strony oblężonych był tak silny, że Turcy,\ndopiero gdy noc zapadła, byli w stanie wedrzeć się do miasta przez wyłom w murze. […]\nGrabież trwała trzy pełne dni […]. [Z]mieniono dotychczasową […] postać [kościołów, w tym\nkościoła Hagia Sophia], […] ażeby uczynić z nich miejsca modlitwy dla muzułmanów.\nWiek V–XV w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1997, s. 321–322.\nŹródło 2. Plan miasta\n[Obraz: images/Z04-S2.png]\n\nS. Runciman, Dzieje […], t. III, Warszawa 1988, s. 385.",
+      "images": [
+        {
+          "path": "images/Z04-S2.png",
+          "source_page": 6,
+          "sha256": "1b668eb945ce687c34e63e34567f21369b2955f2919ff88ab5d725419c2483c3"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.1",
+      "group": 5,
+      "max_points": 1,
+      "question": "Podaj imię wystawcy dokumentu lokacyjnego oraz imię zasadźcy.\nWystawca:\nZasadźca:",
+      "source_text": "Fragment dokumentu lokacyjnego\nW imię Pańskie, Amen. My, komes Jan, syn Czechosława z Galewa […], chcemy, aby do\nkażdego z współczesnych i przyszłych, patrząc na tę kartę, doszła wiadomość, że\ndziedzictwo nasze, Radlino powszechnie zwane, Marcinowi zwanemu ze Staniewa i jego\ndziedzicom oddaliśmy w celu lokacji na prawie niemieckim, tym mianowicie prawem, którym\nmieszczanie i miasto Nowego Targu w swoich prawach się posługuje, tym układem\ni kształtem, iż mieszkańcy przerzeczonej wsi przez poszczególne lata z każdego łanu\nmałego w dzień św. Marcina płacić będą obowiązani 2 miary pszenicy, 4 miary żyta, 6 miar\nowsa […], [oraz miarę] srebra będącego w obiegu i ten czynsz zwozić będą obowiązani na\nnasz dwór bliższy. Ażeby ci uprawiający przerzeczoną wioskę mogli wypłacić to wszystko,\notrzymują 9 lat wolnych od wszelkich danin i opłat.\nNa podstawie: Wiek V–XV w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 232.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.2",
+      "group": 5,
+      "max_points": 1,
+      "question": "Wymień obowiązki mieszkańców Radlina w zakresie uiszczania renty naturalnej,\nprzywołane w cytowanym dokumencie.",
+      "source_text": "Fragment dokumentu lokacyjnego\nW imię Pańskie, Amen. My, komes Jan, syn Czechosława z Galewa […], chcemy, aby do\nkażdego z współczesnych i przyszłych, patrząc na tę kartę, doszła wiadomość, że\ndziedzictwo nasze, Radlino powszechnie zwane, Marcinowi zwanemu ze Staniewa i jego\ndziedzicom oddaliśmy w celu lokacji na prawie niemieckim, tym mianowicie prawem, którym\nmieszczanie i miasto Nowego Targu w swoich prawach się posługuje, tym układem\ni kształtem, iż mieszkańcy przerzeczonej wsi przez poszczególne lata z każdego łanu\nmałego w dzień św. Marcina płacić będą obowiązani 2 miary pszenicy, 4 miary żyta, 6 miar\nowsa […], [oraz miarę] srebra będącego w obiegu i ten czynsz zwozić będą obowiązani na\nnasz dwór bliższy. Ażeby ci uprawiający przerzeczoną wioskę mogli wypłacić to wszystko,\notrzymują 9 lat wolnych od wszelkich danin i opłat.\nNa podstawie: Wiek V–XV w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 232.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "6.1",
+      "group": 6,
+      "max_points": 1,
+      "question": "Podaj nazwy dynastii, których dotyczą fragmenty A–B opracowania historycznego.\nFragment A –\nFragment B –",
+      "source_text": "Fragmenty opracowania historycznego\nFragment A:\nDynastia pochodzenia normańskiego rządząca Rusią od końca IX wieku do 1598 roku.\nZa założyciela dynastii uchodzi legendarny wódz Waregów, który miał przybyć w 862 roku\nna Ruś, zdobyć Wielki Nowogród, Białe Jezioro, Izborsk i założyć tam własne państwo.\nFragment B:\nDynastia królewska, wywodząca swą nazwę od hrabiów w zachodniej Francji. Karol I dążył\ndo stworzenia władztwa sięgającego wschodnich wybrzeży Morza Śródziemnego.\nTa polityka wymagała zbliżenia z Węgrami. Karol Robert objął w 1308 roku tron węgierski.\nNa podstawie: Słownik dynastii Europy, red. J. Dobosz, M. Serwański, Poznań 1999, s. 158–159, 354–355.",
+      "images": [],
+      "answer_format": "A: nazwa dynastii\nB: nazwa dynastii"
+    },
+    {
+      "id": "6.2",
+      "group": 6,
+      "max_points": 1,
+      "question": "Rozstrzygnij, który z fragmentów – A czy B – dotyczy dynastii zasiadającej\nw XIV wieku na polskim tronie, oraz wyjaśnij okoliczności objęcia przez nią władzy\nw Polsce.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragmenty opracowania historycznego\nFragment A:\nDynastia pochodzenia normańskiego rządząca Rusią od końca IX wieku do 1598 roku.\nZa założyciela dynastii uchodzi legendarny wódz Waregów, który miał przybyć w 862 roku\nna Ruś, zdobyć Wielki Nowogród, Białe Jezioro, Izborsk i założyć tam własne państwo.\nFragment B:\nDynastia królewska, wywodząca swą nazwę od hrabiów w zachodniej Francji. Karol I dążył\ndo stworzenia władztwa sięgającego wschodnich wybrzeży Morza Śródziemnego.\nTa polityka wymagała zbliżenia z Węgrami. Karol Robert objął w 1308 roku tron węgierski.\nNa podstawie: Słownik dynastii Europy, red. J. Dobosz, M. Serwański, Poznań 1999, s. 158–159, 354–355.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "7",
+      "group": 7,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę procesu historycznego zilustrowanego\nna mapie oraz wyjaśnij, na czym ten proces polegał.\nNazwa:\nWyjaśnienie:",
+      "source_text": "Mapa\n[Obraz: images/Z07.png]\n\nNa podstawie: Encyklopedia szkolna. Historia, Warszawa 1995, s. 259.",
+      "images": [
+        {
+          "path": "images/Z07.png",
+          "source_page": 8,
+          "sha256": "4c7ad663699ad00c45ba154e5cb7aeeb82352c9d9c48140c95a12658fffdecbf"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "8",
+      "group": 8,
+      "max_points": 1,
+      "question": "Rozstrzygnij, w którym fragmencie – A czy B – scharakteryzowano szlachtę\nzaściankową. Odpowiedź uzasadnij, odwołując się do informacji zawartych\nw wybranym fragmencie tekstu.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragmenty opracowania historycznego\nFragment A:\nLudzie posiadający prywatne i publiczne prawo szlacheckie, po udział w sejmikach, sejmie\ni elekcji króla, pod względem społecznym zbliżający się do warstwy chłopskiej. Mając\nniewielkie gospodarstwa, sami pracowali na roli, a nawet płacili analogiczne podatki jak\nchłopi. Świadomość społeczna łączyła ich raczej ze stanem szlacheckim jako całością,\na oddzielała od bliższego im materialnie i kulturalnie sąsiedztwa chłopskiego,\nnie bezpośredniego zresztą, gdyż szlachta ta zamieszkiwała zwykle odrębne wsie.\nFragment B:\nNajniższa kategoria szlachty, nieposiadająca w ogóle własności ziemskiej. Zajmując płatne\nstanowiska służby, żołnierzy, drobnych urzędników, dzierżawców lub żyjąc w mieście z zajęć\nrzemieślniczo-handlowych, nie cieszyła się pełnią swoich szlacheckich praw. Odmawiano jej\npraw politycznych – udziału w sejmach i sejmikach, ale nie odbierano jej szlachectwa.\nZ chwilą gdy szlachcic nabywał własność ziemską lub ją wydzierżawiał, odzyskiwał pełne\nprawa szlacheckie, niekwestionowane przez nikogo.\nNa podstawie: Polska w epoce […], red. A. Wyczański, Warszawa 1986, s. 139–140.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9",
+      "group": 9,
+      "max_points": 2,
+      "question": "Porównaj zaprezentowane w zacytowanym tekście poglądy Lutra i Kalwina na temat\nsztuki sakralnej. Przedstaw jedno podobieństwo i jedną różnicę między tymi\npoglądami.\nPodobieństwo:\nRóżnica:",
+      "source_text": "Fragment artykułu naukowego\n[P]oglądy Marcina Lutra co do kultu obrazu są poglądami augustianina wychowanego na\nZachodzie, który nie podziela wschodniej wrażliwości obrazu jako nośnika, komunikatora\nobecności przedstawianej w nim postaci […]. W swoich kazaniach Luter przeciwstawia się\nnadużyciom związanym z kultem obrazów, obawia się tego, że niektórzy pokładają\nw obrazach nadzieję bardziej niż w Panu Bogu. Luter – augustianin – podkreśla rolę miłości\ni priorytet miłosierdzia przed wszelkimi formami artystycznego wyrazu […]. Jednocześnie\nLuter nie tylko przeciwstawia się [niszczeniu obrazów], a wręcz przeciwnie, podkreśla ich\npozytywną rolę w rozpamiętywaniu i rozumieniu Biblii. Niekwestionowalny jest priorytet\nSłowa nad obrazem. Luter zupełnie zrywa z obrazem kultycznym, akceptując i w teorii,\ni w praktyce obraz narracyjny. Sytuacja […] [u] Jana Kalwina wygląda odmiennie:\nteoretycznie akceptuje […] obraz narracyjny (historie), w praktyce jednak skłania się\ndo zakwestionowania jakiegokolwiek obrazu w przestrzeni sakralnej. Pozwala na kolekcje\nświeckie, choć z bardzo wąskim repertuarem tematycznym […]. Jego zdaniem zamykanie\nnieskończonego Boga w skończonej formie jest bluźnierstwem. Kalwin podkreśla\nobowiązywalność Starego Testamentu, w ogóle nie odnosząc się do Wcielenia w kwestii\nprzedstawień, a w pewien zawiły sposób tłumaczy, że naśladowaniem Chrystusa jest właśnie\nnietworzenie obrazów. Jan Kalwin ewidentnie wiąże obraz i jego kult z papieską władzą […].\nNa podstawie: D. Klejnowski-Różycki, Kult obrazów […], „Studia Oecumenica” 2017, nr 17, s. 190–191.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "10.1",
+      "group": 10,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nAkt prawny, który nie dotyczył kościołów reformowanych, to dokument\nA. 1.\nB. 2.\nC. 3.\nD. 4.",
+      "source_text": "Fragmenty aktów prawnych\nDokument 1:\nA iż w Rzeczypospolitej naszej jest różność niemała w sprawie religii chrześcijańskiej,\nobiecujemy to sobie spólnie za nas i potomków naszych na wieczne czasy pod obowiązkiem\nprzysięgi, iż którzy jesteśmy rozróżnieni w wierze, pokój między sobą zachować.\nDokument 2:\nNie ma Cesarski Majestat, ani elektorowie, ani książęta, ni stany świętego państwa,\nprześladować żadnego stanu państwa z powodu wyznawania konfesji augsburskiej.\nW zamian zaś stany, które należą do wyznania augsburskiego, w równej mierze mają\npozostawić bez nagabywania przy ich religii rzymskiej Majestat Cesarski i elektorów, książąt\ni inne stany państwa świętego.\nDokument 3:\nMy, nie chcąc rozerwania kościelnej św. jedności, wyprawiliśmy do Ojca św. Klemensa VIII\nposły nasze, prosząc, aby nas do swego posłuszeństwa przyjął i od zwierzchności\npatriarchów carogrodzkich wyzwolił, zachowując nam obrządki i ceremonie kościołów\nwschodnich greckich. Co iż uczynił, tośmy dziś na tym synodzie uczynili przy bytności\nposłów Króla J.M. Zygmunta III.\nDokument 4:\nHenryk, z łaski Bożej król Francji i Nawarry, pozwoliliśmy wszystkim panom, szlachcie\ni innym osobom wyznającym religię reformowaną odprawiać nabożeństwo rzeczonej religii\nw głównym miejscu zamieszkania, gdy będą tam przebywać. Ogłaszamy wszystkich, którzy\nwyznają rzeczoną religię, za zdolnych do sprawowania wszystkich godności, urzędów\nw miastach naszego królestwa.\nNa podstawie: Wiek XVI–XVIII […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 137–152.",
+      "images": [],
+      "answer_format": "A"
+    },
+    {
+      "id": "10.2",
+      "group": 10,
+      "max_points": 1,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Dokument 1. wprowadzał równouprawnienie dla wyznawców judaizmu\nw Rzeczypospolitej Obojga Narodów w XVI wieku.\n2. Dokument 2. regulował stosunki między wyznawcami katolicyzmu\ni luteranizmu.",
+      "source_text": "Fragmenty aktów prawnych\nDokument 1:\nA iż w Rzeczypospolitej naszej jest różność niemała w sprawie religii chrześcijańskiej,\nobiecujemy to sobie spólnie za nas i potomków naszych na wieczne czasy pod obowiązkiem\nprzysięgi, iż którzy jesteśmy rozróżnieni w wierze, pokój między sobą zachować.\nDokument 2:\nNie ma Cesarski Majestat, ani elektorowie, ani książęta, ni stany świętego państwa,\nprześladować żadnego stanu państwa z powodu wyznawania konfesji augsburskiej.\nW zamian zaś stany, które należą do wyznania augsburskiego, w równej mierze mają\npozostawić bez nagabywania przy ich religii rzymskiej Majestat Cesarski i elektorów, książąt\ni inne stany państwa świętego.\nDokument 3:\nMy, nie chcąc rozerwania kościelnej św. jedności, wyprawiliśmy do Ojca św. Klemensa VIII\nposły nasze, prosząc, aby nas do swego posłuszeństwa przyjął i od zwierzchności\npatriarchów carogrodzkich wyzwolił, zachowując nam obrządki i ceremonie kościołów\nwschodnich greckich. Co iż uczynił, tośmy dziś na tym synodzie uczynili przy bytności\nposłów Króla J.M. Zygmunta III.\nDokument 4:\nHenryk, z łaski Bożej król Francji i Nawarry, pozwoliliśmy wszystkim panom, szlachcie\ni innym osobom wyznającym religię reformowaną odprawiać nabożeństwo rzeczonej religii\nw głównym miejscu zamieszkania, gdy będą tam przebywać. Ogłaszamy wszystkich, którzy\nwyznają rzeczoną religię, za zdolnych do sprawowania wszystkich godności, urzędów\nw miastach naszego królestwa.\nNa podstawie: Wiek XVI–XVIII […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 137–152.",
+      "images": [],
+      "answer_format": "1: P\n2: F"
+    },
+    {
+      "id": "11",
+      "group": 11,
+      "max_points": 1,
+      "question": "Uzasadnij, że tabela ilustruje zjawisko dualizmu gospodarczego Europy\nw XVI–XVII wieku.",
+      "source_text": "Tabela. Struktura handlu morskiego Gdańska i Elbląga w II połowie XVI i na początku\nXVII wieku\n| towary/lata | 1595/1605/1615* | 1625/1635/1646* |\n|---|---:|---:|\n| Eksport w procentach | | |\n| zboże | 69,6 | 77,0 |\n| drewno | 6,7 | 0,8 |\n| przetwory drzewne | 13,5 | 9,4 |\n| tkaniny, włókna | 7,9 | 9,4 |\n| skóry i futra | 0,9 | 2,2 |\n| Import w procentach | | |\n| sól i śledzie | 27,0 | 26,0 |\n| wina | 18,7 | 10,7 |\n| towary kolonialne | 1,0 | 8,2 |\n| tkaniny | 50,8 | 53,9 |\n| skóry i futra | 2,5 | 1,2 |\n\n* W tabeli podano średnie wartości dla podanych lat (w odniesieniu do wybranych kategorii towarów).\nNa podstawie: B. Zientara i in., Dzieje gospodarcze Polski do roku 1939, Warszawa 1973, s. 222.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "12.1",
+      "group": 12,
+      "max_points": 1,
+      "question": "Podaj, jak nazywał się starożytny wódz, którego słowa sparafrazował autor listu.",
+      "source_text": "Źródło 1. List do papieża Innocentego IX z 13 września 1683 roku\nVenimus, vidimus, Deus vicit¹.\nZechciej, Wasza Świętobliwość, uniżenie proszę, przyjąć łaskawie […] wiadomość\no świetnym zwycięstwie użyczonym wczoraj przez Boski Majestat całemu Chrześcijaństwu\n[…]. [Udało mi się] [u]chwycić wszystkie główne sztandary wielkiego wezyra, całą artylerię,\njego własne konie, broń, sprzęty i namioty, aż ostatecznie, po krwawej a nader zaciętej\nwalce ośmiogodzinnej oraz ucieczce tegoż wezyra z resztą jego ludzi, zostało w mym\nposiadaniu całe jego obozowisko, które się rozciąga na ponad milę od Miasta.\nWaszej Świątobliwości najposłuszniejszy Syn – Jan, król Polski.\n¹ Przybyliśmy, zobaczyliśmy, Bóg zwyciężył.\nNa podstawie: J. Wimmer, […], Warszawa 1983, s. 97.\nŹródło 2. Plan bitwy\n[Obraz: images/Z12-S2.png]\n\nNa podstawie: Wielka Encyklopedia PWN, red. J. Wojnowski, t. 5, Warszawa 1995, s. 488.",
+      "images": [
+        {
+          "path": "images/Z12-S2.png",
+          "source_page": 13,
+          "sha256": "31c4b850afb163899c93072ff7897f7f56d4f356277ae114efb2ad0cace41f6e"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "12.2",
+      "group": 12,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy źródła 1. i 2. dotyczą tej samej bitwy. Odpowiedź uzasadnij,\nodwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. List do papieża Innocentego IX z 13 września 1683 roku\nVenimus, vidimus, Deus vicit¹.\nZechciej, Wasza Świętobliwość, uniżenie proszę, przyjąć łaskawie […] wiadomość\no świetnym zwycięstwie użyczonym wczoraj przez Boski Majestat całemu Chrześcijaństwu\n[…]. [Udało mi się] [u]chwycić wszystkie główne sztandary wielkiego wezyra, całą artylerię,\njego własne konie, broń, sprzęty i namioty, aż ostatecznie, po krwawej a nader zaciętej\nwalce ośmiogodzinnej oraz ucieczce tegoż wezyra z resztą jego ludzi, zostało w mym\nposiadaniu całe jego obozowisko, które się rozciąga na ponad milę od Miasta.\nWaszej Świątobliwości najposłuszniejszy Syn – Jan, król Polski.\n¹ Przybyliśmy, zobaczyliśmy, Bóg zwyciężył.\nNa podstawie: J. Wimmer, […], Warszawa 1983, s. 97.\nŹródło 2. Plan bitwy\n[Obraz: images/Z12-S2.png]\n\nNa podstawie: Wielka Encyklopedia PWN, red. J. Wojnowski, t. 5, Warszawa 1995, s. 488.",
+      "images": [
+        {
+          "path": "images/Z12-S2.png",
+          "source_page": 13,
+          "sha256": "31c4b850afb163899c93072ff7897f7f56d4f356277ae114efb2ad0cace41f6e"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "13",
+      "group": 13,
+      "max_points": 2,
+      "question": "Przyporządkuj poniższym opisom 1–2 właściwe znaczki (A–C). Odpowiedź uzasadnij,\nodwołując się do elementów graficznych lub napisów zamieszczonych na znaczkach.\n1. Znaczek upamiętniający wojnę o niepodległość Stanów Zjednoczonych:\nUzasadnienie:\n2. Znaczek upamiętniający wojnę secesyjną:\nUzasadnienie:",
+      "source_text": "Pamiątkowe znaczki z XX wieku\n[Obraz: images/Z13.png]\n\nTłumaczenie napisu na znaczku B: Wojna między siłami króla i parlamentu.\nTłumaczenie napisu na pieczęci (znaczek C): Filadelfia, 29 maja 1976.\nNa podstawie: stamps.org; pl.wikipedia.org; www.collectgbstamps\n\nNapisy na znaczkach: znaczek A – „GETTYSBURG”, „1963”; znaczek B – „39”, „WAR between the forces of KING & PARLIAMENT”.",
+      "images": [
+        {
+          "path": "images/Z13.png",
+          "source_page": 14,
+          "sha256": "ccd5a67cf327ae1d17ddd7e30853c4d56902f9cb21bb43fb1f35db015e2b0fb2"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.1",
+      "group": 14,
+      "max_points": 1,
+      "question": "Podaj nazwę dokumentu, który został zastąpiony przez cara statutem wspomnianym\nw źródle 1.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nFeldmarszałek Iwan Paskiewicz otrzymał tytuł księcia warszawskiego i stanowisko\nnamiestnika Królestwa Polskiego. Car Mikołaj ogłosił Statut organiczny dla Królestwa\nPolskiego. Traciło ono swoją odrębność państwową i stanowić miało integralną część\ncesarstwa rosyjskiego.\nNa podstawie: M. Zgórniak, Polska w […], Kraków 2001, s. 143–144.\nŹródło 2. Moneta Królestwa Polskiego\n[Obraz: images/Z14-S2.png]\n\nTłumaczenie: 3 ruble, 81 części czystego złota.\nNa podstawie: pl.wikipedia.org\n\nNapisy na monecie (rewers): „ЧИСТАГО ЗОЛОТА 81 ДОЛЯ”, „3 РУБЛЯ”, „20 ZŁOTYCH”, „1835”.",
+      "images": [
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 15,
+          "sha256": "ba0645a8a905c770e99c600af590709051e67f8f4a4548bbdcc5ae5dc1ef065a"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.2",
+      "group": 14,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy moneta ze źródła 2. i tekst ze źródła 1. przedstawiają skutki tego\nsamego wydarzenia historycznego. Odpowiedź uzasadnij, odwołując się do obu\nźródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nFeldmarszałek Iwan Paskiewicz otrzymał tytuł księcia warszawskiego i stanowisko\nnamiestnika Królestwa Polskiego. Car Mikołaj ogłosił Statut organiczny dla Królestwa\nPolskiego. Traciło ono swoją odrębność państwową i stanowić miało integralną część\ncesarstwa rosyjskiego.\nNa podstawie: M. Zgórniak, Polska w […], Kraków 2001, s. 143–144.\nŹródło 2. Moneta Królestwa Polskiego\n[Obraz: images/Z14-S2.png]\n\nTłumaczenie: 3 ruble, 81 części czystego złota.\nNa podstawie: pl.wikipedia.org\n\nNapisy na monecie (rewers): „ЧИСТАГО ЗОЛОТА 81 ДОЛЯ”, „3 РУБЛЯ”, „20 ZŁOTYCH”, „1835”.",
+      "images": [
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 15,
+          "sha256": "ba0645a8a905c770e99c600af590709051e67f8f4a4548bbdcc5ae5dc1ef065a"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.3",
+      "group": 14,
+      "max_points": 1,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Car przywołany w źródle 1. sprawował władzę podczas obrad kongresu\nwiedeńskiego.\n2. Królestwo, o którym mowa w źródle 1., powstało na mocy postanowień pokoju\nw Tylży.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nFeldmarszałek Iwan Paskiewicz otrzymał tytuł księcia warszawskiego i stanowisko\nnamiestnika Królestwa Polskiego. Car Mikołaj ogłosił Statut organiczny dla Królestwa\nPolskiego. Traciło ono swoją odrębność państwową i stanowić miało integralną część\ncesarstwa rosyjskiego.\nNa podstawie: M. Zgórniak, Polska w […], Kraków 2001, s. 143–144.\nŹródło 2. Moneta Królestwa Polskiego\n[Obraz: images/Z14-S2.png]\n\nTłumaczenie: 3 ruble, 81 części czystego złota.\nNa podstawie: pl.wikipedia.org\n\nNapisy na monecie (rewers): „ЧИСТАГО ЗОЛОТА 81 ДОЛЯ”, „3 РУБЛЯ”, „20 ZŁOTYCH”, „1835”.",
+      "images": [
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 15,
+          "sha256": "ba0645a8a905c770e99c600af590709051e67f8f4a4548bbdcc5ae5dc1ef065a"
+        }
+      ],
+      "answer_format": "1: P\n2: F"
+    },
+    {
+      "id": "15.1",
+      "group": 15,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy rysunek ze źródła 1. nawiązuje do wydarzenia, które było skutkiem\npublikacji dokumentu zacytowanego w źródle 2. Odpowiedź uzasadnij, odwołując się\ndo informacji zawartych w obu źródłach.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Chrzest bojowy – rysunek satyryczny z epoki\n[Obraz: images/Z15-S1.png]\n\nNa podstawie: commons.wikimedia.org\nŹródło 2. Dokument z epoki\nJak tylko wiadomość o zrzeczeniu się księcia Hohenzollern została przez królewsko-\n-hiszpański rząd oficjalnie zakomunikowana gabinetowi cesarsko-francuskiemu, zażądał\nambasador francuski w Ems od [króla] upoważnienia do depeszowania do Paryża, że […]\nkról zobowiązuje się po wsze czasy nie dać nigdy swojego przyzwolenia w wypadku, jeżeli\nHohenzollernowie zechcą powrócić do wysuwania swej kandydatury. [Król] na to odmówił\nprzyjęcia jeszcze raz ambasadora francuskiego i przez adiutanta urzędowo go zawiadomić\npolecił, że […] nie ma nic więcej do zakomunikowania ambasadorowi.\nNa podstawie: Wiek XIX […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 268.",
+      "images": [
+        {
+          "path": "images/Z15-S1.png",
+          "source_page": 16,
+          "sha256": "06e5bb8638c19b4dd1ea597204a80befb98facd1fc4146b59cecd17b61a0d1ab"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "15.2",
+      "group": 15,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWydarzenia przedstawione w obu źródłach miały miejsce w okresie między\nA. bitwą pod Austerlitz a zwołaniem kongresu wiedeńskiego.\nB. zwołaniem kongresu wiedeńskiego a początkiem Wiosny Ludów.\nC. początkiem Wiosny Ludów a koronacją Wilhelma I na cesarza.\nD. koronacją Wilhelma I na cesarza a wybuchem I wojny światowej.",
+      "source_text": "Źródło 1. Chrzest bojowy – rysunek satyryczny z epoki\n[Obraz: images/Z15-S1.png]\n\nNa podstawie: commons.wikimedia.org\nŹródło 2. Dokument z epoki\nJak tylko wiadomość o zrzeczeniu się księcia Hohenzollern została przez królewsko-\n-hiszpański rząd oficjalnie zakomunikowana gabinetowi cesarsko-francuskiemu, zażądał\nambasador francuski w Ems od [króla] upoważnienia do depeszowania do Paryża, że […]\nkról zobowiązuje się po wsze czasy nie dać nigdy swojego przyzwolenia w wypadku, jeżeli\nHohenzollernowie zechcą powrócić do wysuwania swej kandydatury. [Król] na to odmówił\nprzyjęcia jeszcze raz ambasadora francuskiego i przez adiutanta urzędowo go zawiadomić\npolecił, że […] nie ma nic więcej do zakomunikowania ambasadorowi.\nNa podstawie: Wiek XIX […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 268.",
+      "images": [
+        {
+          "path": "images/Z15-S1.png",
+          "source_page": 16,
+          "sha256": "06e5bb8638c19b4dd1ea597204a80befb98facd1fc4146b59cecd17b61a0d1ab"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "16.1",
+      "group": 16,
+      "max_points": 1,
+      "question": "Uzasadnij, że plan zabudowy kompleksu fabryki świadczy o trosce właściciela o jego\npracowników.",
+      "source_text": "Plan zabudowy kompleksu fabryk\n[Obraz: images/Z16.png]\n\nNa podstawie: www.researchgate.net\n\nOznaczenia na planie:\na – famuły (domy robotnicze)\nb – budynki użyteczności publicznej\nc – budynki przemysłowe\nd – budynki pomocnicze\n1 – przędzalnia\n2 – remiza strażacka\n3 – szkoła\n4 – stołówka i sklep\n5 – szpital św. Anny\n6 – bocznica kolejowa\n7 – willa dyrektora",
+      "images": [
+        {
+          "path": "images/Z16.png",
+          "source_page": 17,
+          "sha256": "e26163f37374d665cf25d769850e0bf15882c36f9e46b14e752649cc293b7102"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.2",
+      "group": 16,
+      "max_points": 1,
+      "question": "Podaj nazwę miasta położonego na obszarze tzw. Kongresówki i będącego głównym\nośrodkiem gałęzi przemysłu, w której specjalizowała się fabryka przedstawiona\nna planie.",
+      "source_text": "Plan zabudowy kompleksu fabryk\n[Obraz: images/Z16.png]\n\nNa podstawie: www.researchgate.net\n\nOznaczenia na planie:\na – famuły (domy robotnicze)\nb – budynki użyteczności publicznej\nc – budynki przemysłowe\nd – budynki pomocnicze\n1 – przędzalnia\n2 – remiza strażacka\n3 – szkoła\n4 – stołówka i sklep\n5 – szpital św. Anny\n6 – bocznica kolejowa\n7 – willa dyrektora",
+      "images": [
+        {
+          "path": "images/Z16.png",
+          "source_page": 17,
+          "sha256": "e26163f37374d665cf25d769850e0bf15882c36f9e46b14e752649cc293b7102"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "17",
+      "group": 17,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy źródła 1. i 2. dotyczą tego samego zaboru. Odpowiedź uzasadnij,\nodwołując się do obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Rozporządzenie językowe\n§ 1. C.k. władze i urzędy […] dalej c.k. Krajowa Rada Szkolna i c.k. sądy używać będą tak\nw służbie wewnętrznej, jako też w korespondencji z sądowymi niewojskowymi władzami,\nurzędami i sądami w kraju języka polskiego […].\n§ 2. Podobnież będą i prokuratorie państwowe w kraju używać języka polskiego\nw stosunkach służbowych z władzami, urzędami i sądami w kraju […].\nNa podstawie: G. Chomicki, L. Śliwa, Wiek XIX. Teksty źródłowe, Kraków 2021, s. 244.\nŹródło 2. Fragment relacji\nDo ferii wielkanocnych 1901 roku naukę religii pobieraliśmy w języku polskim. Dnia\n24 stycznia nauczyciele zaczęli nas obdarowywać niemieckimi katechizmami. […]\nZa sprzeciwianie się nauczycielowi odebraliśmy w dniu 2 V karę chłosty od nauczyciela\nKoralewskiego […]. Inspektor szkolny […] [c]zęsto pytał nas: „Kim jesteście?”. Odpowiedź\nbyła jedna: „Jesteśmy Polakami”.\nNa podstawie: Źródła i materiały do nauczania historii, red. S. Sierpowski, Warszawa 1998, s. 210–211.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "18.1",
+      "group": 18,
+      "max_points": 1,
+      "question": "Podaj nazwisko jednego z dwóch delegatów Polski upamiętnionych na znaczku\nze źródła 1.",
+      "source_text": "Źródło 1. Znaczek pocztowy\n[Obraz: images/Z18-S1.png]\n\nNa podstawie: katalogznaczkow.net\n\nNapisy na znaczku: „POLSKA 1,40 ZŁ”; „80. ROCZNICA PODPISANIA TRAKTATU WERSALSKIEGO”.\nŹródło 2. Fragment dokumentu\nDawne ziemie niemieckie na wschód od linii idącej od Morza Bałtyckiego bezpośrednio na\nzachód od Świnoujścia i stąd wzdłuż rzeki Odry, łącznie z częścią Prus Wschodnich oraz\nłącznie z obszarem dawnego Wolnego Miasta Gdańska, będą pod administracją Państwa\nPolskiego.\nNa podstawie: Teksty źródłowe do nauki historii w szkole, Nr 61, Warszawa 1959, s. 41.",
+      "images": [
+        {
+          "path": "images/Z18-S1.png",
+          "source_page": 19,
+          "sha256": "42376e8e7b8d08f29498638f69615d8687fd0fa3d1163dd36b7e5671414cfc67"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "18.2",
+      "group": 18,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy fragment dokumentu przedstawiony w źródle 2. jest częścią traktatu,\ndo którego odnosi się znaczek ze źródła 1. Odpowiedź uzasadnij, odwołując się do\ninformacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Znaczek pocztowy\n[Obraz: images/Z18-S1.png]\n\nNa podstawie: katalogznaczkow.net\n\nNapisy na znaczku: „POLSKA 1,40 ZŁ”; „80. ROCZNICA PODPISANIA TRAKTATU WERSALSKIEGO”.\nŹródło 2. Fragment dokumentu\nDawne ziemie niemieckie na wschód od linii idącej od Morza Bałtyckiego bezpośrednio na\nzachód od Świnoujścia i stąd wzdłuż rzeki Odry, łącznie z częścią Prus Wschodnich oraz\nłącznie z obszarem dawnego Wolnego Miasta Gdańska, będą pod administracją Państwa\nPolskiego.\nNa podstawie: Teksty źródłowe do nauki historii w szkole, Nr 61, Warszawa 1959, s. 41.",
+      "images": [
+        {
+          "path": "images/Z18-S1.png",
+          "source_page": 19,
+          "sha256": "42376e8e7b8d08f29498638f69615d8687fd0fa3d1163dd36b7e5671414cfc67"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "19.1",
+      "group": 19,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy sytuacja polityczna przedstawiona w źródle 1. była przyczyną\nwydarzeń opisanych w źródle 2. Odpowiedź uzasadnij, odwołując się do obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment strony tytułowej czasopisma\n[Obraz: images/Z19-S1.png]\n\nNa podstawie: crispa.uw.edu.pl\n\nTranskrypcja nagłówków: Warszawa, PIĄTEK 14 Maja 1926 r. / ROBOTNIK / CENTRALNY ORGAN P.P.S. / PROLETARJUSZE WSZYSTKICH KRAJÓW ŁĄCZCIE SIĘ! / Niech żyje rząd robotniczy i włościański! / NIECH ŻYJE SOCJALIZM! / Belweder zdobyty! / Wieści z pola walki. / Marsz. Piłsudski na froncie bojowym / Wezwanie Warsz. Rady Zw. Zawodowych / Jeszcze jedno barbarzyństwo\nŹródło 2. Fragment opracowania historycznego\nWarszawa stała się widownią gorszących scen. Zwolennicy prawicy usiłowali przeszkodzić\nw dotarciu do sejmu zarówno prezydentowi, jak i przedstawicielom ugrupowań, których\ngłosami został wybrany. Agresja tłumu zwróciła się przeciwko posłom mniejszości\nnarodowych, przede wszystkim Żydom, i parlamentarzystom lewicowym. Ignacego\nDaszyńskiego oblężono w bramie jednego z domów; pojawiła się odsiecz, między\nantagonistami doszło do walki na pałki i rewolwery. Kontrakcja prawicy nie przyniosła\nspodziewanych rezultatów, gdyż prezydent […] dotarł do sejmu i w obecności\nzdekompletowanego Zgromadzenia Narodowego złożył przewidzianą konstytucją przysięgę.\nNa podstawie: C. Brzoza, Polska w czasach niepodległości i II wojny światowej, Kraków 2003, s. 112.",
+      "images": [
+        {
+          "path": "images/Z19-S1.png",
+          "source_page": 20,
+          "sha256": "eee0c88d1e2d95cf459b664a9c7c142dd898cfda7bed02c1f2c3a3ec642084ab"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "19.2",
+      "group": 19,
+      "max_points": 1,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Prezydent, którego okoliczności zaprzysiężenia opisano w źródle 2., został\nwybrany w wyborach powszechnych.\n2. Ignacy Daszyński był działaczem partii, której organ prasowy zaprezentowano\nw źródle 1.",
+      "source_text": "Źródło 1. Fragment strony tytułowej czasopisma\n[Obraz: images/Z19-S1.png]\n\nNa podstawie: crispa.uw.edu.pl\n\nTranskrypcja nagłówków: Warszawa, PIĄTEK 14 Maja 1926 r. / ROBOTNIK / CENTRALNY ORGAN P.P.S. / PROLETARJUSZE WSZYSTKICH KRAJÓW ŁĄCZCIE SIĘ! / Niech żyje rząd robotniczy i włościański! / NIECH ŻYJE SOCJALIZM! / Belweder zdobyty! / Wieści z pola walki. / Marsz. Piłsudski na froncie bojowym / Wezwanie Warsz. Rady Zw. Zawodowych / Jeszcze jedno barbarzyństwo\nŹródło 2. Fragment opracowania historycznego\nWarszawa stała się widownią gorszących scen. Zwolennicy prawicy usiłowali przeszkodzić\nw dotarciu do sejmu zarówno prezydentowi, jak i przedstawicielom ugrupowań, których\ngłosami został wybrany. Agresja tłumu zwróciła się przeciwko posłom mniejszości\nnarodowych, przede wszystkim Żydom, i parlamentarzystom lewicowym. Ignacego\nDaszyńskiego oblężono w bramie jednego z domów; pojawiła się odsiecz, między\nantagonistami doszło do walki na pałki i rewolwery. Kontrakcja prawicy nie przyniosła\nspodziewanych rezultatów, gdyż prezydent […] dotarł do sejmu i w obecności\nzdekompletowanego Zgromadzenia Narodowego złożył przewidzianą konstytucją przysięgę.\nNa podstawie: C. Brzoza, Polska w czasach niepodległości i II wojny światowej, Kraków 2003, s. 112.",
+      "images": [
+        {
+          "path": "images/Z19-S1.png",
+          "source_page": 20,
+          "sha256": "eee0c88d1e2d95cf459b664a9c7c142dd898cfda7bed02c1f2c3a3ec642084ab"
+        }
+      ],
+      "answer_format": "1: P\n2: F"
+    },
+    {
+      "id": "20",
+      "group": 20,
+      "max_points": 2,
+      "question": "Rozstrzygnij, czy karykatura komentuje rzeczywistość polityczną z lat 20. czy 30.\nXX wieku. Odpowiedź uzasadnij, formułując dwa argumenty.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Wiosenne porządki w Europie – karykatura polityczna z okresu międzywojennego\n[Obraz: images/Z20.png]\n\nNa podstawie: crispa.uw.edu.pl",
+      "images": [
+        {
+          "path": "images/Z20.png",
+          "source_page": 21,
+          "sha256": "587bf46a6230344fb426e010b537666fe7e9787cc0b20093b593b547bb67f485"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "21",
+      "group": 21,
+      "max_points": 2,
+      "question": "Na podstawie fragmentów biografii zamieszczonych poniżej oraz własnej wiedzy\nuzupełnij tabelę. Obok fragmentów biografii wpisz właściwe nazwiska.\nA. Francuski polityk i dowódca. Po klęsce Francji w 1940 roku nie\nzłożył broni i nie przystał na współpracę z Niemcami. Stanął na\nczele Komitetu Wolnej Francji i kontynuował walkę o wolność\nswojej ojczyzny. Po II wojnie światowej wprowadził Francję do\ngrona wielkich mocarstw.\nB. Został premierem polskiego rządu na uchodźstwie po tragicznej\nśmierci gen. Władysława Sikorskiego. W 1945 roku wrócił do\nWarszawy, podjął tam nieudaną próbę kompromisu\nz rządzącymi krajem komunistami i ze Związkiem Sowieckim.\nW obliczu zagrożenia aresztowaniem uciekł do Wielkiej Brytanii.\nC. Jedyny w historii USA prezydent wybrany na 4 kolejne kadencje.\nPo przystąpieniu USA do II wojny światowej odegrał dużą rolę\nw kształtowaniu planów militarnych i dyplomatycznych aliantów.\nUczestniczył we wszystkich najważniejszych konferencjach\nmiędzynarodowych tego okresu.",
+      "source_text": "Na podstawie: encyklopedia.pwn.pl; muzeum1939.pl",
+      "images": [],
+      "answer_format": "A: nazwisko\nB: nazwisko\nC: nazwisko"
+    },
+    {
+      "id": "22",
+      "group": 22,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy pomoc przedstawiona na wykresie została udzielona w ramach\ntzw. planu Marshalla. Odpowiedź uzasadnij, odwołując się do informacji z wykresu\ni własnej wiedzy.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Wykres. Wielkość pomocy dla wybranych krajów (w mln dolarów amerykańskich)\nudzielonej w ramach jednego z planów odbudowy\n[Obraz: images/Z22.png]\n\nNa podstawie: R. Antosiak, E. Pustuła, C. Tulin, Historia […], Gdynia 2011, s. 529.\n\nDane z wykresu (kraj – pomoc w mln dolarów): Albania – 27,2; Austria – 136,1; Białoruś – 60,8; Chiny – 529,7; Czechosłowacja – 264,1; Etiopia – 1; Filipiny – 10,4; Finlandia – 2,5; Grecja – 350,5; Jugosławia – 420,5; Korea – 1; Polska – 481,2; Ukraina – 188,2; Węgry – 4,5; Włochy – 420,7.",
+      "images": [
+        {
+          "path": "images/Z22.png",
+          "source_page": 23,
+          "sha256": "320000486883f1638128f8073b91e2c7b90cba2c3c59143592c3e5226ac3f627"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "23.1",
+      "group": 23,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy ilustracja ze źródła 2. powstała w kręgu zwolenników orędzia\nscharakteryzowanego w źródle 1. Odpowiedź uzasadnij, odwołując się do obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nWyrażone w orędziu wezwanie do dialogu między skonfliktowanymi narodami, stojącymi po\nprzeciwnych stronach żelaznej kurtyny, wyrastało z Ewangelii i ducha [II Soboru\nWatykańskiego]. Gest ten miał w ówczesnych uwarunkowaniach politycznych charakter\nrewolucyjny i wizjonerski. W ocenie polskich biskupów dialog został nawiązany w duchu\nmiłości i pokoju; służył pośrednio zbliżeniu narodów nie tylko Europy, lecz także całego\nświata, „przeciwstawiając braterskie współżycie i twórczą współpracę widmom wojennym,\nktóre tak bardzo nękają ludzkość”.\nB. Noszczak, […] Konflikt państwa z Kościołem […], Warszawa 2020, s. 216.\nŹródło 2. Strona tytułowa „Szpilek” z 1966 roku\n[Obraz: images/Z23-S2.png]\n\nNa podstawie: Historia PRL, t. 12, Warszawa 2009, s. 69.\n\nPodpis pod rysunkiem: „– Musimy ich nawrócić, żeby jako chrześcijanie mogli nam wybaczać i prosić o wybaczenie…”",
+      "images": [
+        {
+          "path": "images/Z23-S2.png",
+          "source_page": 24,
+          "sha256": "f79555b6d94e28b39d704b566dd76407fbfde30ce74886ebea4a67c30b85c7eb"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "23.2",
+      "group": 23,
+      "max_points": 1,
+      "question": "Podaj nazwisko prymasa Polski, który przewodniczył polskim biskupom w chwili\npowstania orędzia scharakteryzowanego w źródle 1.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nWyrażone w orędziu wezwanie do dialogu między skonfliktowanymi narodami, stojącymi po\nprzeciwnych stronach żelaznej kurtyny, wyrastało z Ewangelii i ducha [II Soboru\nWatykańskiego]. Gest ten miał w ówczesnych uwarunkowaniach politycznych charakter\nrewolucyjny i wizjonerski. W ocenie polskich biskupów dialog został nawiązany w duchu\nmiłości i pokoju; służył pośrednio zbliżeniu narodów nie tylko Europy, lecz także całego\nświata, „przeciwstawiając braterskie współżycie i twórczą współpracę widmom wojennym,\nktóre tak bardzo nękają ludzkość”.\nB. Noszczak, […] Konflikt państwa z Kościołem […], Warszawa 2020, s. 216.\nŹródło 2. Strona tytułowa „Szpilek” z 1966 roku\n[Obraz: images/Z23-S2.png]\n\nNa podstawie: Historia PRL, t. 12, Warszawa 2009, s. 69.\n\nPodpis pod rysunkiem: „– Musimy ich nawrócić, żeby jako chrześcijanie mogli nam wybaczać i prosić o wybaczenie…”",
+      "images": [
+        {
+          "path": "images/Z23-S2.png",
+          "source_page": 24,
+          "sha256": "f79555b6d94e28b39d704b566dd76407fbfde30ce74886ebea4a67c30b85c7eb"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "24",
+      "group": 24,
+      "max_points": 3,
+      "question": "Wyjaśnij wymowę rysunku, interpretując jego dwa elementy graficzne. W odpowiedzi\nuwzględnij kontekst historyczny.",
+      "source_text": "Rysunek Herberta Blocka z końca lat 60. XX wieku\n[Obraz: images/Z24.png]\n\nTłumaczenie: Czeski duch.\nNa podstawie: www.loc.gov",
+      "images": [
+        {
+          "path": "images/Z24.png",
+          "source_page": 25,
+          "sha256": "23044a847f9aba45d656cf91604a9833830b03f5cf67b41a3b7727fef3c837c4"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "25",
+      "group": 25,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy zaprezentowana ulotka powstała przed wprowadzeniem stanu\nwojennego, czy po jego wprowadzeniu. Odpowiedź uzasadnij, odwołując się do treści\nulotki.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Ulotka z lat 80. XX wieku\n[Obraz: images/Z25.png]\n\nNa podstawie: dlibra.wimbp.gorzow.pl\n\nTranskrypcja napisów na ulotce: „SIERPIEŃ”; „1980”; „1981”; „Solidarność”; „1 ROCZNICA POROZUMIEŃ społecznych”.",
+      "images": [
+        {
+          "path": "images/Z25.png",
+          "source_page": 26,
+          "sha256": "07d67ee993f281b503f1c8c5b2851e2af382e7a76b64c9112fdac76eb9e357f7"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "26",
+      "group": 26,
+      "max_points": 15,
+      "question": "Zadanie zawiera trzy tematy. Wybierz jeden z nich do opracowania. Twoja wypowiedź\npowinna liczyć minimum 300 wyrazów.\n1. Unia w Krewie okazała się bardziej korzystna dla Litwy niż dla Polski. Zajmij stanowisko\nwobec powyższej tezy i je uzasadnij, uwzględniając w swojej argumentacji aspekty:\npolityczny, społeczno-gospodarczy i kulturowy.\n2. Rewolucja przemysłowa przyniosła społeczeństwom europejskim więcej szkody niż\npożytku. Zajmij stanowisko wobec powyższej tezy i je uzasadnij, uwzględniając w swojej\nargumentacji aspekty: społeczny, gospodarczy i kulturowy.\n3. Klęska Polski w 1939 roku była nieunikniona. Zajmij stanowisko wobec powyższej tezy i je\nuzasadnij, uwzględniając w swojej argumentacji aspekty: polityczny, militarny i społeczno-\n-gospodarczy.",
+      "source_text": "",
+      "images": [],
+      "answer_format": "Jeden tekst: numer wybranego tematu i całe wypracowanie. Minimum 300 wyrazów zgodnie z poleceniem."
+    }
+  ]
+}

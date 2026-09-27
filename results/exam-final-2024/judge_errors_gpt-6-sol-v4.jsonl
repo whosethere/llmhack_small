@@ -1,0 +1,1 @@
+{"id": "2024_f2023_z21", "error": "BadRequestError: Error code: 400 - {'error': {'message': 'Azure rejected the request parameters', 'type': 'proxy_error', 'code': 'llm_upstream_error'}, 'requestId': '01a0e1f5-28f9-76fe-879a-35c213a5b986'}"}
