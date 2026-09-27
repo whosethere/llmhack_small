@@ -1,0 +1,25 @@
+{
+  "exam_id": "history-2023-mock-v1",
+  "solver": {
+    "version": "exam-solver-1",
+    "strategy": "single-vlm",
+    "multimodal": false,
+    "think": "on",
+    "rag": "http://localhost:8010",
+    "describe": {
+      "prompt": "v2",
+      "lang": "pl",
+      "ocr": "tesseract"
+    },
+    "llm": {
+      "url": "http://localhost:8000/v1",
+      "model": "solver"
+    },
+    "vlm": null
+  },
+  "seconds": 331.4,
+  "answered": 37,
+  "failed": [],
+  "errors": [],
+  "warnings": []
+}

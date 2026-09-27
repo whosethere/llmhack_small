@@ -1,0 +1,513 @@
+{
+  "exam_id": "history-2023-mock-v1",
+  "title": "Historia — matura rozszerzona, maj 2023",
+  "source_exam_id": "MHIP-R0-100-2305",
+  "source_url": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Historia/MHIP-R0-100-2305.pdf",
+  "input_format": "separate-text-and-images-v1",
+  "language": "pl",
+  "max_points": 60,
+  "instructions": "Rozwiąż zadania po polsku. Czytaj question, source_text i wszystkie powiązane images. Wzory answer_format pokazują tylko składnię, nie poprawne odpowiedzi.",
+  "items": [
+    {
+      "id": "1",
+      "group": 1,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy przedstawiona rekonstrukcja dotyczy epoki paleolitu czy neolitu.\nOdpowiedź uzasadnij, odwołując się do ilustracji i własnej wiedzy.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Ilustracja przedstawiająca rekonstrukcję zabudowań\n[Obraz: images/Z01.png]\n\nG. Lazarovici, C.M. Lazarovici, Are there […], Acta Terrae Septemcastrensis XVIII (2019), s. 27.",
+      "images": [
+        {
+          "path": "images/Z01.png",
+          "source_page": 4,
+          "sha256": "4d0ff9329b3c695f5337d320e408a063946f6ffb966c9b907523b224006f218c"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "2.1",
+      "group": 2,
+      "max_points": 1,
+      "question": "Rozstrzygnij, który z fragmentów 1–3 zawiera opis starożytnej Sparty. Odpowiedź\nuzasadnij, odwołując się do informacji z tego fragmentu.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragmenty źródeł z epoki\nFragment 1.: Temistokles przystąpił natychmiast do odbudowy miasta i do wznoszenia\nmurów obronnych. Sprzeciwiali się budowie tych murów […] eforowie, ale podobno przekupił\nich złotem. […] Następnie przeprowadził rozbudowę Pireusu, widząc dogodność naturalnego\npołożenia tego portu, i w ogóle całe miasto związał ściślej z morzem […].\nFragment 2.: Jeśliby bowiem miasto Lacedemończyków opustoszało, a pozostały tylko\nświątynie i fundamenty budowli, to […] nikt z potomnych nie chciałby uwierzyć, że potęga\nLacedemończyków była tak wielka, za jaką uchodzi; a przecież mają oni w swym posiadaniu\ndwie piąte Peloponezu [wraz z helotami] oraz hegemonię nad całym półwyspem i nad\nlicznymi sprzymierzeńcami […].\nFragment 3.: [N]ie było w skarbie publicznym żadnej gotówki. Wobec tego sami areopagici\nuchwalili z własnych funduszów żołd w wysokości ośmiu drachm dla każdego żołnierza,\nbiorącego udział w tej wojnie, i w ten sposób najbardziej się przyczynili do skompletowania\nzałóg na trierach.\nPlutarch, Żywoty sławnych mężów, Wrocław 1953, s. 22, 35–36;\nTukidydes, Wojna peloponeska, Warszawa 1988, s. 6–7.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "2.2",
+      "group": 2,
+      "max_points": 1,
+      "question": "Na podstawie tekstów i własnej wiedzy uzupełnij tabelę – obok opisu wpisz numer fragmentu tekstu zawierającego informacje o grupach, których opis dotyczy.\nA. Członkowie najwyższej rady złożonej z byłych archontów.\nB. Należeli do najniższej warstwy mieszkańców polis i byli pozbawieni praw.",
+      "source_text": "Fragmenty źródeł z epoki\nFragment 1.: Temistokles przystąpił natychmiast do odbudowy miasta i do wznoszenia\nmurów obronnych. Sprzeciwiali się budowie tych murów […] eforowie, ale podobno przekupił\nich złotem. […] Następnie przeprowadził rozbudowę Pireusu, widząc dogodność naturalnego\npołożenia tego portu, i w ogóle całe miasto związał ściślej z morzem […].\nFragment 2.: Jeśliby bowiem miasto Lacedemończyków opustoszało, a pozostały tylko\nświątynie i fundamenty budowli, to […] nikt z potomnych nie chciałby uwierzyć, że potęga\nLacedemończyków była tak wielka, za jaką uchodzi; a przecież mają oni w swym posiadaniu\ndwie piąte Peloponezu [wraz z helotami] oraz hegemonię nad całym półwyspem i nad\nlicznymi sprzymierzeńcami […].\nFragment 3.: [N]ie było w skarbie publicznym żadnej gotówki. Wobec tego sami areopagici\nuchwalili z własnych funduszów żołd w wysokości ośmiu drachm dla każdego żołnierza,\nbiorącego udział w tej wojnie, i w ten sposób najbardziej się przyczynili do skompletowania\nzałóg na trierach.\nPlutarch, Żywoty sławnych mężów, Wrocław 1953, s. 22, 35–36;\nTukidydes, Wojna peloponeska, Warszawa 1988, s. 6–7.",
+      "images": [],
+      "answer_format": "A: 1\nB: 1"
+    },
+    {
+      "id": "3",
+      "group": 3,
+      "max_points": 2,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Wyspa, o której mowa w źródle 1., została przyłączona do Rzymu\nw wyniku II wojny punickiej.\n2. Sprawowanie przez Luciusa Corneliusa Scipiona jednego z urzędów\nwymienionych w źródle 1. wiązało się ze sporządzaniem list senatorów.\n3. Na mapie zaznaczono miejsce bitwy, w której potomek wodza\nwspomnianego w źródle 1. pokonał wodza Kartaginy.",
+      "source_text": "Źródło 1. Napis na sarkofagu Luciusa Corneliusa Scipiona\nOn to, Lucius Scipio, był w Rzymie, jak przyznaje większość, najlepszym z dobrych mężów.\nSyn Barbatusa. Był wśród nas konsulem, cenzorem i edylem. On to zdobył Korsykę wraz\nz miastem Alerią. Poświęcił Burzom świątynię, na jaką zasłużyły.\nA. Ziółkowski, Dzieje starożytne, Warszawa 1999, s. 225.\nŹródło 2. Mapa. Wojny Rzymu z Kartaginą\n[Obraz: images/Z03-S2.png]\n\nWielka Encyklopedia PWN, t. 29 (2005), s. 531.",
+      "images": [
+        {
+          "path": "images/Z03-S2.png",
+          "source_page": 6,
+          "sha256": "dd6f7a86072ac62716ffe4051cfa3a302ea0b1695e5d32321b237deb2636a8d0"
+        }
+      ],
+      "answer_format": "1: P\n2: F\n3: P"
+    },
+    {
+      "id": "4.1",
+      "group": 4,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę średniowiecznego związku handlowego miast,\no którym mowa w źródle 1.",
+      "source_text": "Źródło 1. O prawie lokacyjnym\nPrawo lubeckie to – obok prawa magdeburskiego – najbardziej rozpowszechnione prawo\nzwiązane z lokacją miast w okresie średniowiecza. Od XIII wieku stanowiło wzór\nprawno-organizacyjny dla miast, głównie położonych wzdłuż południowego wybrzeża Bałtyku\ni na przyległych terenach, które współtworzyły związek handlowy. Cechą charakterystyczną\nkompozycji miast lokowanych na prawie lubeckim jest regularny, prostopadły do nabrzeża\nukład ulic i brak placu rynkowego. Funkcje rynku spełnia szeroka ulica.\nNa podstawie: Z. Paszkowski, Historia idei miasta […], Szczecin 2015, s. 64–67.\nŹródło 2. Plan późnośredniowiecznego Elbląga\n[Obraz: images/Z04-S2.png]\n\nG. Nawrolska, Rozwój przestrzenny Elbląga […], Archaeologia Historica Polona 23 (2015), s. 168.",
+      "images": [
+        {
+          "path": "images/Z04-S2.png",
+          "source_page": 7,
+          "sha256": "7cb3e99c206985c47839f10c81dce61faae7e68957277f8f0fdc490ad63fae9f"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "4.2",
+      "group": 4,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy plan ze źródła 2. przedstawia miasto lokowane na prawie opisanym\nw źródle 1. Odpowiedź uzasadnij, odwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. O prawie lokacyjnym\nPrawo lubeckie to – obok prawa magdeburskiego – najbardziej rozpowszechnione prawo\nzwiązane z lokacją miast w okresie średniowiecza. Od XIII wieku stanowiło wzór\nprawno-organizacyjny dla miast, głównie położonych wzdłuż południowego wybrzeża Bałtyku\ni na przyległych terenach, które współtworzyły związek handlowy. Cechą charakterystyczną\nkompozycji miast lokowanych na prawie lubeckim jest regularny, prostopadły do nabrzeża\nukład ulic i brak placu rynkowego. Funkcje rynku spełnia szeroka ulica.\nNa podstawie: Z. Paszkowski, Historia idei miasta […], Szczecin 2015, s. 64–67.\nŹródło 2. Plan późnośredniowiecznego Elbląga\n[Obraz: images/Z04-S2.png]\n\nG. Nawrolska, Rozwój przestrzenny Elbląga […], Archaeologia Historica Polona 23 (2015), s. 168.",
+      "images": [
+        {
+          "path": "images/Z04-S2.png",
+          "source_page": 7,
+          "sha256": "7cb3e99c206985c47839f10c81dce61faae7e68957277f8f0fdc490ad63fae9f"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.1",
+      "group": 5,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę konfliktu zbrojnego, podczas którego została\nstoczona bitwa uwieczniona na ilustracji.",
+      "source_text": "Źródło 1. Fragment ilustracji przedstawiającej wojska dwóch stron konfliktu w bitwie pod Crécy w 1346 roku.\nŹródło 2. Fragment tablicy genealogicznej ukazującej związki Kapetyngów z Plantagenetami.\n[Obraz: images/Z05-S1.png]\n\n[Obraz: images/Z05-S2.png]\n\ngallica.bnf.fr; T. Manteuffel, Historia powszechna. Średniowiecze (1998), s. 288–299.",
+      "images": [
+        {
+          "path": "images/Z05-S1.png",
+          "source_page": 8,
+          "sha256": "52d8c00805795371a096114fd111b54f23172184338aead15b38f25aef510dd8"
+        },
+        {
+          "path": "images/Z05-S2.png",
+          "source_page": 9,
+          "sha256": "0d7a4e8337d8755912219f37036d8f1a15b70c8d6e11e4d14b9bb73235cf748b"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.2",
+      "group": 5,
+      "max_points": 1,
+      "question": "Wyjaśnij, odwołując się do źródła 2., w jakich okolicznościach król Anglii Edward III\nzgłosił pretensje do tronu francuskiego.",
+      "source_text": "Źródło 1. Fragment ilustracji przedstawiającej wojska dwóch stron konfliktu w bitwie pod Crécy w 1346 roku.\nŹródło 2. Fragment tablicy genealogicznej ukazującej związki Kapetyngów z Plantagenetami.\n[Obraz: images/Z05-S1.png]\n\n[Obraz: images/Z05-S2.png]\n\ngallica.bnf.fr; T. Manteuffel, Historia powszechna. Średniowiecze (1998), s. 288–299.",
+      "images": [
+        {
+          "path": "images/Z05-S1.png",
+          "source_page": 8,
+          "sha256": "52d8c00805795371a096114fd111b54f23172184338aead15b38f25aef510dd8"
+        },
+        {
+          "path": "images/Z05-S2.png",
+          "source_page": 9,
+          "sha256": "0d7a4e8337d8755912219f37036d8f1a15b70c8d6e11e4d14b9bb73235cf748b"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.3",
+      "group": 5,
+      "max_points": 1,
+      "question": "Wyjaśnij, odwołując się do elementów graficznych ze źródła 1., w jaki sposób malarz\nprzedstawił manifestowanie przez Edwarda III pretensji do korony francuskiej.",
+      "source_text": "Źródło 1. Fragment ilustracji przedstawiającej wojska dwóch stron konfliktu w bitwie pod Crécy w 1346 roku.\nŹródło 2. Fragment tablicy genealogicznej ukazującej związki Kapetyngów z Plantagenetami.\n[Obraz: images/Z05-S1.png]\n\n[Obraz: images/Z05-S2.png]\n\ngallica.bnf.fr; T. Manteuffel, Historia powszechna. Średniowiecze (1998), s. 288–299.",
+      "images": [
+        {
+          "path": "images/Z05-S1.png",
+          "source_page": 8,
+          "sha256": "52d8c00805795371a096114fd111b54f23172184338aead15b38f25aef510dd8"
+        },
+        {
+          "path": "images/Z05-S2.png",
+          "source_page": 9,
+          "sha256": "0d7a4e8337d8755912219f37036d8f1a15b70c8d6e11e4d14b9bb73235cf748b"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "6",
+      "group": 6,
+      "max_points": 2,
+      "question": "Porównaj zaprezentowane w źródłach 1. i 2. opinie historyków na temat Władysława\nŁokietka. Przedstaw jedno podobieństwo i jedną różnicę między nimi.\nPodobieństwo:\nRóżnica:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nŁokietek wzrósł i wychował się w smutnych czasach zupełnego rozstroju politycznego\nw końcu XIII stulecia, otaczał go ze wszystkich stron przykład na wpół dzikich,\nniepohamowanych w swych namiętnościach, krótkowidzących pod względem politycznym,\nczyhających nawzajem na swoje dzierżawy książąt piastowskich. Nie lepszym też był od nich\nw pierwszych swoich występach, mimo wyższego swego niezaprzeczalnie umysłu, Łokietek.\nDopiero ciężkie przejścia zrobiły zeń inszego człowieka, wielkiego bohatera i przezornego\nkróla, ale nie złagodziły jego charakteru, pozostawiły go zawsze wierzącym w tę siłę\nfizyczną, w tę energię woli, której państwo swoje i utrzymanie jego całości zawdzięczał.\nM. Bobrzyński, Dzieje Polski w zarysie, Warszawa 1987, s. 182.\nŹródło 2. Fragment opracowania historycznego\nZ pewnością Władysław Łokietek był właściwym człowiekiem na ówczesne, tak bardzo\nskomplikowane czasy. Wypłynął przecież z absolutnej nicości, z peryferyjnego księstewka,\na zdobył i utrzymał do naturalnej śmierci najwyższą nagrodę, czyli koronę, co nie udało się\nwielu innym […]. W czasach zamętu za jedyne prawo uznawał miecz, nie do końca zresztą\nwłasny, choć nie zawsze umiał się nim właściwie posłużyć. Doskonale za to radził sobie\nw wirze intryg i wiarołomstwa, niewątpliwie znacznie lepiej niż w bezpośredniej walce\no władzę. […] [G]orzej spisywał się później – już jako gospodarz kraju […]. Podejmowane\nprzez niego decyzje miały z reguły podłoże emocjonalne, bez żadnej próby refleksji czy\nanalizowania ich skutków. Nigdy nie wyrósł ze swego księstwa brzesko-kujawskiego.\nA. Zieliński, Władysław Łokietek […], Warszawa 2010, s. 12–13.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "7",
+      "group": 7,
+      "max_points": 2,
+      "question": "Podaj nazwy dwóch stylów architektonicznych, które reprezentuje kościół przedstawiony na fotografii, oraz po jednej widocznej na tej fotografii cesze każdego z nich.\nNazwa stylu 1.:\nCecha:\nNazwa stylu 2.:\nCecha:",
+      "source_text": "Fotografia kościoła pw. św. Krzysztofa we Wrocławiu.\nNa podstawie: https://miejscawewrocławiu.pl",
+      "images": [
+        {
+          "path": "images/Z07.png",
+          "source_page": 11,
+          "sha256": "112cabc9ab4d2fa1c7de55e50bc5633174073bd02e062ca99a384b493aa1730f"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "8",
+      "group": 8,
+      "max_points": 2,
+      "question": "Sformułuj dwa argumenty potwierdzające tezę, że rycina powstała w kręgu zwolenników reformacji.",
+      "source_text": "Rycina z XVI wieku.\nNa podstawie: https://www.tagblatt.ch",
+      "images": [
+        {
+          "path": "images/Z08.png",
+          "source_page": 12,
+          "sha256": "2a32f5aaf1ce4c75c696d612c03d032fcaf73f53dc2a99521c7e544312002d46"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9.1",
+      "group": 9,
+      "max_points": 1,
+      "question": "Podaj imię władcy, za panowania którego doszło do zerwania unii personalnej\nwspomnianej w źródle 1.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nZapewne przesadą jest twierdzić, że długoletnie wojny polsko-szwedzkie, ciągnące się\nz przerwami aż do pokoju w Oliwie, były tylko skutkiem zerwania unii personalnej i polityki\ndynastycznej polskich Wazów. Stawka była poważniejsza. Nie ulega wszakże wątpliwości,\nże spory dynastyczne dodawały walkom polsko-szwedzkim zaciętości.\nNa podstawie: Poczet królów i książąt polskich, red. A. Garlicki, Warszawa 1987, s. 371.\nŹródło 2. Fragment tablicy genealogicznej Jagiellonów i Wazów\n[Obraz: images/Z09-S2.png]\n\nPoczet królów i książąt polskich, red. A. Garlicki (1987), tablice genealogiczne.",
+      "images": [
+        {
+          "path": "images/Z09-S2.png",
+          "source_page": 13,
+          "sha256": "e5012960357a2a268393c67b645d5c03f859da2d7a41c4014f0f12183e83735d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9.2",
+      "group": 9,
+      "max_points": 1,
+      "question": "Przedstaw inną – niż wspomniane w źródle 1. – przyczynę wojen polsko-szwedzkich.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nZapewne przesadą jest twierdzić, że długoletnie wojny polsko-szwedzkie, ciągnące się\nz przerwami aż do pokoju w Oliwie, były tylko skutkiem zerwania unii personalnej i polityki\ndynastycznej polskich Wazów. Stawka była poważniejsza. Nie ulega wszakże wątpliwości,\nże spory dynastyczne dodawały walkom polsko-szwedzkim zaciętości.\nNa podstawie: Poczet królów i książąt polskich, red. A. Garlicki, Warszawa 1987, s. 371.\nŹródło 2. Fragment tablicy genealogicznej Jagiellonów i Wazów\n[Obraz: images/Z09-S2.png]\n\nPoczet królów i książąt polskich, red. A. Garlicki (1987), tablice genealogiczne.",
+      "images": [
+        {
+          "path": "images/Z09-S2.png",
+          "source_page": 13,
+          "sha256": "e5012960357a2a268393c67b645d5c03f859da2d7a41c4014f0f12183e83735d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9.3",
+      "group": 9,
+      "max_points": 1,
+      "question": "Wyjaśnij różnicę między okolicznościami zwolnienia tronu polskiego przez ostatniego\nmęskiego przedstawiciela dynastii Jagiellonów a okolicznościami zwolnienia tego\ntronu przez ostatniego władcę z dynastii Wazów.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nZapewne przesadą jest twierdzić, że długoletnie wojny polsko-szwedzkie, ciągnące się\nz przerwami aż do pokoju w Oliwie, były tylko skutkiem zerwania unii personalnej i polityki\ndynastycznej polskich Wazów. Stawka była poważniejsza. Nie ulega wszakże wątpliwości,\nże spory dynastyczne dodawały walkom polsko-szwedzkim zaciętości.\nNa podstawie: Poczet królów i książąt polskich, red. A. Garlicki, Warszawa 1987, s. 371.\nŹródło 2. Fragment tablicy genealogicznej Jagiellonów i Wazów\n[Obraz: images/Z09-S2.png]\n\nPoczet królów i książąt polskich, red. A. Garlicki (1987), tablice genealogiczne.",
+      "images": [
+        {
+          "path": "images/Z09-S2.png",
+          "source_page": 13,
+          "sha256": "e5012960357a2a268393c67b645d5c03f859da2d7a41c4014f0f12183e83735d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "10",
+      "group": 10,
+      "max_points": 2,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Największy udział podatków stałych w skarbie koronnym miał miejsce\nw początkowym okresie panowania Michała Korybuta Wiśniowieckiego.\n2. Podatki niestałe stanowiły największy udział w skarbie koronnym podczas\npotopu szwedzkiego.\n3. Najazd turecki i jego skutek w postaci traktatu pokojowego podpisanego\nw Buczaczu spowodowały wzrost dochodów skarbu koronnego.",
+      "source_text": "Tabela statystyczna. Podatki stałe i niestałe\nW złotych polskich; udziały procentowe dochodów skarbu koronnego.\n| Okres | Podatki stałe: kwota | Podatki stałe: % | Podatki niestałe: kwota | Podatki niestałe: % |\n|---|---:|---:|---:|---:|\n| 15 XI 1649 – 15 VII 1652 | 1 828 740 | 16,0 | 9 612 570 | 84,0 |\n| 16 VII 1652 – 15 VI 1654 | 1 274 365 | 12,9 | 8 581 888 | 87,1 |\n| 16 VI 1654 – 1 VII 1658 | 1 540 934 | 14,6 | 8 988 244 | 85,4 |\n| 2 VII 1658 – 15 II 1662 | 2 609 977 | 32,1 | 5 524 099 | 67,9 |\n| 16 II 1662 – 15 XI 1664 | 2 287 709 | 20,3 | 8 977 938 | 79,7 |\n| 16 XI 1664 – 15 VIII 1668 | 3 112 641 | 46,2 | 3 631 664 | 53,8 |\n| 16 VIII 1668 – 15 I 1672 | 2 466 585 | 56,4 | 1 904 225 | 43,6 |\n| 16 I 1672 – 1 II 1676 | 2 853 599 | 30,7 | 6 446 383 | 69,3 |\n| 2 II 1676 – 1 XII 1678 | 1 888 651 | 12,5 | 13 252 913 | 87,5 |\n\nPrzypisy: podatki stałe pobierano stale, np. cło, kwartę i podatek od kupców. Podatki niestałe uchwalano zależnie od potrzeb, np. pogłówne.\n\nHistoria Polski w liczbach. Gospodarka (2006), s. 158–159.",
+      "images": [],
+      "answer_format": "1: P\n2: F\n3: P"
+    },
+    {
+      "id": "11.1",
+      "group": 11,
+      "max_points": 1,
+      "question": "Wyjaśnij, na czym polegało wypaczenie zasady opisanej w tekście w praktyce\npolskiego parlamentaryzmu począwszy od poł. XVII wieku.",
+      "source_text": "Fragment opracowania historycznego\n[T]o nie ustrój Rzeczypospolitej był wypaczony, to nie liberum veto było problemem […], tylko\nświadomość polityczna społeczeństwa szlacheckiego, a właściwie jej brak. Liberum veto\nużyte w sposób zgodny z duchem „złotej wolności” epoki odrodzenia było rzeczywiście\nsposobem ostatecznym, drastycznym, a jednak mogącym uratować państwo przed\nuchwaleniem nietrafnej lub wadliwej ustawy. Jednak mentalność wszystkich stanów\nsejmujących w Rzeczypospolitej […] wypaczyła ten jakże cenny i niespotykany w innych\nustrojach demokratycznych wentyl bezpieczeństwa, czyniąc z niego najprymitywniejszą broń\nw walce politycznej, rażącą nie tylko wroga, ale i pośrednio własne szeregi.\nNa podstawie: M.Z. Dankowski, Liberum veto. Chluba czy przekleństwo? […], Toruń 2019, s. 412–413.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "11.2",
+      "group": 11,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nZasada opisana w tekście została zniesiona w Rzeczypospolitej na mocy postanowień\nA. Sejmu Niemego.\nB. praw kardynalnych.\nC. Sejmu Wielkiego.\nD. uniwersału połanieckiego.",
+      "source_text": "Fragment opracowania historycznego\n[T]o nie ustrój Rzeczypospolitej był wypaczony, to nie liberum veto było problemem […], tylko\nświadomość polityczna społeczeństwa szlacheckiego, a właściwie jej brak. Liberum veto\nużyte w sposób zgodny z duchem „złotej wolności” epoki odrodzenia było rzeczywiście\nsposobem ostatecznym, drastycznym, a jednak mogącym uratować państwo przed\nuchwaleniem nietrafnej lub wadliwej ustawy. Jednak mentalność wszystkich stanów\nsejmujących w Rzeczypospolitej […] wypaczyła ten jakże cenny i niespotykany w innych\nustrojach demokratycznych wentyl bezpieczeństwa, czyniąc z niego najprymitywniejszą broń\nw walce politycznej, rażącą nie tylko wroga, ale i pośrednio własne szeregi.\nNa podstawie: M.Z. Dankowski, Liberum veto. Chluba czy przekleństwo? […], Toruń 2019, s. 412–413.",
+      "images": [],
+      "answer_format": "A"
+    },
+    {
+      "id": "12",
+      "group": 12,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy w tekście przedstawiono monteskiuszowską zasadę trójpodziału\nwładzy. Odpowiedź uzasadnij.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragment dokumentu\nMoc prawodawstwa dla Rzpltej w trzech stanach, to jest: królewskim, senatorskim,\ni rycerskim, dotąd trwająca, niewzruszoną na zawsze zostawać powinna, i tej mocy jeden\nstan bez drugich dwóch, ani dwa bez trzeciego przywłaszczać sobie ani zażywać nie będą\nmogły […].\nNa podstawie: A. Bereza i in., Historia administracji w Polsce 1764–1989. Wybór źródeł, Warszawa 2006, s. 19.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "13.1",
+      "group": 13,
+      "max_points": 1,
+      "question": "Rozstrzygnij, na którym z planów ukazanych w źródle 1. (A czy B) przedstawiono\nprzebieg bitwy opisanej w źródle 2. W uzasadnieniu podaj nazwę bitwy i odwołaj się\ndo informacji zawartych w obu źródłach.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Plany bitew z okresu powstania listopadowego\n[Obraz: images/Z13-A.png]\n\n[Obraz: images/Z13-B.png]\n\nŹródło 2. Fragment opracowania historycznego\nZachowawcza taktyka wodza polegała na unikaniu walk z głównymi siłami nieprzyjaciela.\nWódz odrzucił plan natarcia przedstawiony przez Prądzyńskiego. Główne siły polskie\nwycofały się na prawy brzeg rzeki. Polacy nie zdołali zniszczyć mostów, które opanowali\nRosjanie. Przeprawa kolejnych batalionów rosyjskich wprawiła w panikę wodza, lękającego\nsię uniemożliwienia posiłkom z Łomży przyjścia mu na pomoc. Wódz naczelny kierował\nbitwą fatalnie, choć sam wykazał wiele odwagi. Brawurowa szarża artylerii konnej\ndowodzonej przez późniejszego bohatera Wiosny Ludów na Węgrzech zaimponowała\nRosjanom i wstrzymała dalsze ataki rosyjskiego feldmarszałka. Wyniku przegranej bitwy\nzmienić jednak nie mogła.\nNa podstawie: T. Łepkowski, Powstanie listopadowe, Warszawa 1987, s. 30–33.\n\nT. Łepkowski, Powstanie listopadowe (1987), s. 30, 33.",
+      "images": [
+        {
+          "path": "images/Z13-A.png",
+          "source_page": 16,
+          "sha256": "4f1f8c064910476a573b8a27367176ebed5cbebd32032f0389c645bda7610d3e"
+        },
+        {
+          "path": "images/Z13-B.png",
+          "source_page": 16,
+          "sha256": "3b817ec3c0f4c4d3b2d6dca019f84dbd9140225dfe45a0296eef12f9a65a21a8"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "13.2",
+      "group": 13,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nDo bitwy, której dotyczy źródło 2., doszło\nA. przed objęciem dyktatury przez gen. Józefa Chłopickiego.\nB. przed detronizacją cara Mikołaja I przez sejm powstańczy.\nC. po nierozstrzygniętej bitwie pod Olszynką Grochowską.\nD. po bohaterskiej obronie Woli przez gen. Józefa Sowińskiego.",
+      "source_text": "Źródło 1. Plany bitew z okresu powstania listopadowego\n[Obraz: images/Z13-A.png]\n\n[Obraz: images/Z13-B.png]\n\nŹródło 2. Fragment opracowania historycznego\nZachowawcza taktyka wodza polegała na unikaniu walk z głównymi siłami nieprzyjaciela.\nWódz odrzucił plan natarcia przedstawiony przez Prądzyńskiego. Główne siły polskie\nwycofały się na prawy brzeg rzeki. Polacy nie zdołali zniszczyć mostów, które opanowali\nRosjanie. Przeprawa kolejnych batalionów rosyjskich wprawiła w panikę wodza, lękającego\nsię uniemożliwienia posiłkom z Łomży przyjścia mu na pomoc. Wódz naczelny kierował\nbitwą fatalnie, choć sam wykazał wiele odwagi. Brawurowa szarża artylerii konnej\ndowodzonej przez późniejszego bohatera Wiosny Ludów na Węgrzech zaimponowała\nRosjanom i wstrzymała dalsze ataki rosyjskiego feldmarszałka. Wyniku przegranej bitwy\nzmienić jednak nie mogła.\nNa podstawie: T. Łepkowski, Powstanie listopadowe, Warszawa 1987, s. 30–33.\n\nT. Łepkowski, Powstanie listopadowe (1987), s. 30, 33.",
+      "images": [
+        {
+          "path": "images/Z13-A.png",
+          "source_page": 16,
+          "sha256": "4f1f8c064910476a573b8a27367176ebed5cbebd32032f0389c645bda7610d3e"
+        },
+        {
+          "path": "images/Z13-B.png",
+          "source_page": 16,
+          "sha256": "3b817ec3c0f4c4d3b2d6dca019f84dbd9140225dfe45a0296eef12f9a65a21a8"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "14.1",
+      "group": 14,
+      "max_points": 1,
+      "question": "Podaj nazwisko postaci przedstawionej na monecie.",
+      "source_text": "Moneta okolicznościowa\n[Obraz: images/Z14.png]\n\nnbp.pl",
+      "images": [
+        {
+          "path": "images/Z14.png",
+          "source_page": 17,
+          "sha256": "a2ec564c34ec714bf5cb89a94edf542a53b6f1ce968697c05c8ed79f9412cb1a"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.2",
+      "group": 14,
+      "max_points": 1,
+      "question": "Podaj nazwę zaboru, na którego terenie narodził się przemysł naftowy.",
+      "source_text": "Moneta okolicznościowa\n[Obraz: images/Z14.png]\n\nnbp.pl",
+      "images": [
+        {
+          "path": "images/Z14.png",
+          "source_page": 17,
+          "sha256": "a2ec564c34ec714bf5cb89a94edf542a53b6f1ce968697c05c8ed79f9412cb1a"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "15",
+      "group": 15,
+      "max_points": 1,
+      "question": "Podaj nazwę stylu w malarstwie, którego przykładem jest zaprezentowany obraz. Odpowiedź uzasadnij, podając jedną widoczną na obrazie cechę tego stylu.\nNazwa stylu:\nUzasadnienie:",
+      "source_text": "Józef Chełmoński, Bociany.\nhttp://cyfrowe.mnw.art.pl",
+      "images": [
+        {
+          "path": "images/Z15.png",
+          "source_page": 18,
+          "sha256": "d5ecddfda41e177455237f939cdf3beb7c37c9ec391f51072f3176378fdd68de"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.1",
+      "group": 16,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy przesłanie pieśni ze źródła 1. jest zgodne z treścią manifestu\nprzytoczonego w źródle 2. Odpowiedź uzasadnij, odwołując się do treści obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment pieśni\nKrew naszą długo leją katy,\nWciąż płyną ludu gorzkie łzy,\nNadejdzie jednak dzień zapłaty,\nSędziami będziem wtedy my!\n[…]\nPorządek stary już się wali,\nŻywotem dla nas jego zgon,\nBędziemy wspólnie pracowali,\nI wspólnym będzie pracy plon!\n[…]\nPrecz z tyranami, precz z zdziercami!\nNiech zginie stary, podły świat!\nMy nowe życie stworzym sami,\nI nowy zaprowadzim ład!\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1998, s. 299.\nŹródło 2. Fragment Manifestu Partii Komunistycznej\nHistoria wszystkich dotychczasowych społeczeństw jest historią walk klasowych. Nasza\nepoka uprościła przeciwieństwa klasowe. Całe społeczeństwo rozszczepia się coraz bardziej\nna burżuazję i proletariat. Podstawowym warunkiem istnienia i panowania klasy burżuazji\njest nagromadzanie bogactwa w rękach osób prywatnych, tworzenie i pomnażanie kapitału;\nwarunkiem istnienia kapitału jest praca najemna. Kapitał jest wytworem zbiorowym i może\nbyć uruchomiony tylko przez zbiorową działalność wielu członków społeczeństwa. Kapitał nie\njest więc potęgą osobistą, lecz społeczną. Niech drżą panujące klasy przed rewolucją\nkomunistyczną. Proletariusze nie mają nic do stracenia prócz swych kajdan.\nhttps://www.ce.uw.edu.pl",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.2",
+      "group": 16,
+      "max_points": 1,
+      "question": "Podaj nazwisko jednego z autorów manifestu cytowanego w źródle 2.",
+      "source_text": "Źródło 1. Fragment pieśni\nKrew naszą długo leją katy,\nWciąż płyną ludu gorzkie łzy,\nNadejdzie jednak dzień zapłaty,\nSędziami będziem wtedy my!\n[…]\nPorządek stary już się wali,\nŻywotem dla nas jego zgon,\nBędziemy wspólnie pracowali,\nI wspólnym będzie pracy plon!\n[…]\nPrecz z tyranami, precz z zdziercami!\nNiech zginie stary, podły świat!\nMy nowe życie stworzym sami,\nI nowy zaprowadzim ład!\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1998, s. 299.\nŹródło 2. Fragment Manifestu Partii Komunistycznej\nHistoria wszystkich dotychczasowych społeczeństw jest historią walk klasowych. Nasza\nepoka uprościła przeciwieństwa klasowe. Całe społeczeństwo rozszczepia się coraz bardziej\nna burżuazję i proletariat. Podstawowym warunkiem istnienia i panowania klasy burżuazji\njest nagromadzanie bogactwa w rękach osób prywatnych, tworzenie i pomnażanie kapitału;\nwarunkiem istnienia kapitału jest praca najemna. Kapitał jest wytworem zbiorowym i może\nbyć uruchomiony tylko przez zbiorową działalność wielu członków społeczeństwa. Kapitał nie\njest więc potęgą osobistą, lecz społeczną. Niech drżą panujące klasy przed rewolucją\nkomunistyczną. Proletariusze nie mają nic do stracenia prócz swych kajdan.\nhttps://www.ce.uw.edu.pl",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "17",
+      "group": 17,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy opinia na temat polityki Brytyjczyków w Indiach wyrażona w źródle 1.\nznajduje potwierdzenie na ilustracji ze źródła 2. Odpowiedź uzasadnij, odwołując się\ndo treści obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment przemówienia brytyjskiego polityka Johna Brighta z 1877 roku\nNasze panowanie nad Indiami trwa niewiele więcej niż stulecie. […] Co się zaś tyczy\ndochodów, to otrzymujemy od Indii około 50 milionów funtów rocznie […]. Pobieramy podatki\ngruntowe, cła wwozowe, opłaty stemplowe i niektóre inne opłaty […], podatek od soli.\nPodatek ten jest niezwykle ciężki dla ludności, a dla biedoty jest wprost okrutny. Do\npobierania go wysyłamy poborców do najbiedniejszej chałupy ogromnego imperium. Trzeba\njednak pamiętać, że cała ta […] ludność nie ma prawa głosu w swych własnych sprawach.\nD. Ostapowicz, S. Suchodolski, D. Szymikowski, Od Hammurabiego […], t. 2, Gdańsk 2000, s. 59.\nŹródło 2. Brytyjczycy i Hindusi – fragment strony tytułowej czasopisma „Le Petit Journal” z 1897 roku\n[Obraz: images/Z17-S2.png]\n\nedition-originale.com",
+      "images": [
+        {
+          "path": "images/Z17-S2.png",
+          "source_page": 20,
+          "sha256": "2c49c2c46bd6e4eb6d21473be8210940ef8298eb269e3f0a4d7f35478dda2f3f"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "18",
+      "group": 18,
+      "max_points": 3,
+      "question": "Wyjaśnij wymowę rysunku, interpretując jego dwa elementy graficzne i tytuł.\nW odpowiedzi uwzględnij kontekst historyczny z roku powstania tego rysunku.",
+      "source_text": "Duch roku ’76 – rysunek z 1917 roku\n[Obraz: images/Z18.png]\n\nupload.wikimedia.org",
+      "images": [
+        {
+          "path": "images/Z18.png",
+          "source_page": 21,
+          "sha256": "a07b69b1bf7b1eed689cec2f64eff226f9d6cac5127798c03d9ff8d8de6b0639"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "19",
+      "group": 19,
+      "max_points": 2,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. W źródle 1. jest mowa o okolicznościach uchwalenia konstytucji, która\nwprowadzała w Polsce system prezydencki.\n2. Na mapie literą B zaznaczono przebieg granicy wschodniej\nII Rzeczypospolitej, ustalonej na mocy pokoju, o którym mowa\nw źródle 1.\n3. Plebiscyt, o którym mowa w źródle 1., odbył się na terytorium\noznaczonym na mapie literą A.",
+      "source_text": "Źródło 1. Fragment wspomnień ambasadora amerykańskiego w Polsce\nWiele rzeczy w Polsce działo się szybko i nie mieliśmy szansy na ich przetrawienie na\nbieżąco. O przyjętej wczoraj konstytucji dzisiaj już zapomniano w podnieceniu wywołanym\npodpisaniem tego wieczoru […] pokoju z bolszewikami. Jutro szybko to przeminie, [na\nskutek] plebiscytu […], który odbędzie się w niedzielę. Kręci mi się od tego w głowie, a jeśli\nchodzi o Polaków, to nawet zaczynają się uśmiechać. Wydawało się, że żadna z tych spraw\nnigdy nie zostanie załatwiona i że obecne pokolenie będzie egzystować bez konstytucji, bez\npokoju i bez granic. Jednocześnie załatwienie wszystkich tych spraw bynajmniej nie oznacza\nnowego początku, ale jest bardzo pomocne.\nW. Mędrzecki, Naród malkontentów […], „Mówią Wieki” 2019, nr 4, s. 48.\nŹródło 2. Mapa\n[Obraz: images/Z19-S2.png]\n\nWielka historia Polski, t. 5 (2003), s. 41.",
+      "images": [
+        {
+          "path": "images/Z19-S2.png",
+          "source_page": 22,
+          "sha256": "8e7e540f37ace07b32b713dfca8ae22c7cbe1ceb43d2b7a0274d72fb5fcd55f2"
+        }
+      ],
+      "answer_format": "1: P\n2: F\n3: P"
+    },
+    {
+      "id": "20",
+      "group": 20,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy źródła 1. i 2. nawiązują do łamania postanowień traktatu\nwersalskiego przez Niemcy. Odpowiedź uzasadnij, odwołując się do treści obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nRok 1935 przyniósł Hitlerowi większe sukcesy w polityce międzynarodowej. Przede\nwszystkim Niemcy przejęli terytorium Saary […]. 13 stycznia 1935 roku przeprowadzono\nplebiscyt. Na 534 tys. uprawnionych głosy oddało 528 tys. osób. Za przyłączeniem obszaru\nSaary do Rzeszy głosowało 477 tys., tj. 90,4% […].\nT. Kotłowski, Niemcy 1890–1945. Dzieje państwa i społeczeństwa, Kraków 2008, s. 163–164.\nŹródło 2. Fragment strony tytułowej dziennika\n[Obraz: images/Z20-S2.png]\n\nsbc.org.pl\n\nTranskrypcja nagłówków: ŚLĄSKI KURJER PORANNY. DZIENNIK NIEZALEŻNY POLITYCZNO-SPOŁECZNO-GOSPODARCZY, POŚWIĘCONY OBRONIE ŚWIATA PRACY. Nr 69, Rok II. Chorzów-Katowice, wtorek 10 marca 1936 r. Cena 10 groszy. Zanim Niemcy nie wycofają wojska z Nadrenji / nie może być mowy o rokowaniach francusko-niemieckich.",
+      "images": [
+        {
+          "path": "images/Z20-S2.png",
+          "source_page": 23,
+          "sha256": "fc913907b1cec8e7392fb6f7897bc58192c2a85571044eb43b27d0f81db1b3dc"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "21",
+      "group": 21,
+      "max_points": 2,
+      "question": "Dokończ zdania 1. i 2. Zaznacz właściwą odpowiedź spośród podanych.\n1. Depesza przedstawiona w źródle była skierowana do generała\nA. Michała Karaszewicza-Tokarzewskiego.\nB. Stefana Roweckiego „Grota”.\nC. Tadeusza Komorowskiego „Bora”.\nD. Leopolda Okulickiego „Niedźwiadka”.\n2. Zaprezentowaną depeszę podpisał generał\nA. Władysław Anders.\nB. Kazimierz Sosnkowski.\nC. Władysław Sikorski.\nD. August Emil Fieldorf.",
+      "source_text": "Fragment depeszy Naczelnego Wodza\n[Obraz: images/Z21.png]\n\nMultimedialna historia Polski […], t. 26 (2007), s. 37.\n\nTranskrypcja depeszy:\nW ślad za moim rozkazem L.2926\n\n1/ Znoszę dla użytku zewnętrznego nazwę Z.W.Z. – Wszyscy żołnierze w czynnej służbie wojskowej w Kraju stanowią „Armię Krajową” podległą Panu Generałowi, jako jej dowódcy.\n\n2/ Stanowisko Pana Generała nosi nazwę Dowódcy Armii Krajowej.\n\n3/ Pewne specjalne uprawnienia Pana Generała w powyższym charakterze zostaną określone w osobnej instrukcji.\n\n4/ Nazwa Z.W.Z. lub inne nazwy konspiracyjne mogą być zachowane na użytek wewnętrzny według uznania Pana Generała.\n\n5/ Rozkaz powyższy proszę podać do wiadomości Delegata Rządu.\n\nNACZELNY WÓDZ",
+      "images": [
+        {
+          "path": "images/Z21.png",
+          "source_page": 24,
+          "sha256": "f4609ad5788fb2826fbb727495dc271d2a094149dee32b80e86250c3d5918b68"
+        }
+      ],
+      "answer_format": "1: A\n2: A"
+    },
+    {
+      "id": "22",
+      "group": 22,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy traktaty A i B odnoszą się do procesów integracyjnych\nodbywających się po tej samej stronie żelaznej kurtyny. Odpowiedź uzasadnij,\nodwołując się do treści obu traktatów i własnej wiedzy.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragmenty traktatów międzynarodowych\nFragment traktatu A:\nStrony zgadzają się, że zbrojna napaść na jedną lub więcej z nich w Europie lub Ameryce\nPółnocnej będzie uznana za napaść przeciwko nim wszystkim i dlatego zgadzają się, że\njeżeli taka zbrojna napaść nastąpi, to każda z nich, w ramach wykonywania prawa do\nindywidualnej lub zbiorowej samoobrony, uznanego na mocy artykułu 51 Karty Narodów\nZjednoczonych, udzieli pomocy Stronie lub Stronom napadniętym, podejmując niezwłocznie,\nsamodzielnie, jak i w porozumieniu z innymi Stronami, działania, jakie uzna za konieczne,\nłącznie z użyciem siły zbrojnej […].\nFragment traktatu B:\nUkładające się strony […], uwzględniając jednocześnie sytuację, w wyniku ratyfikacji\nukładów paryskich, przewidujących utworzenie nowego ugrupowania wojennego w postaci\n„Unii Zachodnioeuropejskiej” z udziałem remilitaryzowanych Niemiec Zachodnich i ich\nwłączeniem do bloku północnoatlantyckiego, co wzmaga niebezpieczeństwo nowej wojny\ni stwarza groźbę dla bezpieczeństwa narodowego państw miłujących pokój, […] postanowiły\nzawrzeć niniejszy Układ o przyjaźni, współpracy i pomocy wzajemnej […].\nWiek XX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2002, s. 318, 336.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "23",
+      "group": 23,
+      "max_points": 1,
+      "question": "Wyjaśnij, dlaczego w PRL nie można było pisać o okolicznościach śmierci przyjaciół\nCzesława Miłosza.",
+      "source_text": "Fragment mowy noblowskiej Czesława Miłosza\nAntologie poezji polskiej podają nazwiska moich przyjaciół, Władysława Sebyły i Lecha\nPiwowara, oraz datę ich śmierci […]. Jest absurdem, że nie wolno napisać, jak zginęli,\nchociaż każdy w Polsce zna prawdę: podzielili los wielu tysięcy oficerów polskich,\nrozbrojonych i internowanych przez ówczesnego wspólnika Hitlera, i są pochowani\nw masowym grobie.\nWielkie mowy historii, t. 4, red. W. Władyka i in., Warszawa 2006, s. 200.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "24",
+      "group": 24,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy zaprezentowane źródła 1. i 2. powstały w ramach tej samej kampanii\npropagandowej z okresu PRL. Odpowiedź uzasadnij, odwołując się do treści obu\nźródeł i własnej wiedzy.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment strony tytułowej gazety z okresu PRL.\nŹródło 2. Rysunek propagandowy z okresu PRL.\n[Obraz: images/Z24-S1.png]\n\n[Obraz: images/Z24-S2.png]\n\nhistoria.interia.pl; Propaganda Polski Ludowej (2007), s. 18.\n\nTranskrypcja źródła 1.: W odpowiedzi burzycielom / Powszechne poparcie dla Wł. Gomułki / Studenci i inteligencja – tak! Syjoniści i przewrót – nie! / Masowe wiece w całej Polsce.",
+      "images": [
+        {
+          "path": "images/Z24-S1.png",
+          "source_page": 26,
+          "sha256": "5a4cad1ad46b1b00631ac708a008797a2e66467fe30560d200e4fcd172adaef6"
+        },
+        {
+          "path": "images/Z24-S2.png",
+          "source_page": 26,
+          "sha256": "a3cf2d86fbd741a02c5bfbc057ded725022134902b79a8cad06188a87799db01"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "25.1",
+      "group": 25,
+      "max_points": 1,
+      "question": "Podaj nazwisko polityka A i wyjaśnij, o jakiej ciężkiej chorobie wspomniał on w swojej\nwypowiedzi. W odpowiedzi odwołaj się do faktografii.\nNazwisko:\nWyjaśnienie:",
+      "source_text": "Fragment stenogramu rozmowy z października 1981 roku\nPolityk A:\n[J]uż wysłaliśmy do ciebie oficjalne gratulacje, ale ja chciałbym także osobiście pogratulować\nci wyboru na stanowisko I sekretarza KC PZPR. Słusznie zrobiłeś, wyrażając zgodę na taką\ndecyzję […]. W PZPR teraz nie ma działacza, który cieszyłby się autorytetem równym\ntwojemu – świadczą o tym także wyniki głosowania na plenum. Rozumiemy, że stoją przed\ntobą całkiem niełatwe zadania. Ale jesteśmy przekonani, że sobie z nimi poradzisz, uczynisz\nwszystko, by pokonać tę ciężką chorobę, która dotknęła wasz kraj.\nPolityk B:\nBardzo wam dziękuję […] za gratulacje i przede wszystkim za zaufanie, którym mnie\nobdarzyliście. Chcę wam otwarcie powiedzieć, że zgodziłem się przyjąć to stanowisko po\ndużej wewnętrznej walce i tylko dlatego, iż wiedziałem, że wy mnie popieracie i że wy\njesteście za taką decyzją. Jeżeli byłoby inaczej, nigdy bym się na to nie zgodził. Jest to\nbardzo ciężkie, bardzo trudne zadanie w tej złożonej sytuacji w kraju, w jakiej obecnie się\nznajduję jako premier i jako minister obrony. Ale zrozumiałem, że jest to właściwe\ni niezbędne, jeśli wy tak uważacie. […] Uczynię, Leonidzie Iljiczu, wszystko, jako komunista\ni jako żołnierz, aby było lepiej, aby osiągnąć przełom w sytuacji w kraju i w naszej partii.\nA. Dziurok i in., Od niepodległości do niepodległości. Historia Polski 1918–1989, Warszawa 2010, s. 427.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "25.2",
+      "group": 25,
+      "max_points": 1,
+      "question": "Podaj nazwisko polityka B i wyjaśnij, w jaki sposób osiągnął on przełom w sytuacji\nw kraju. W odpowiedzi odwołaj się do faktografii.\nNazwisko:\nWyjaśnienie:",
+      "source_text": "Fragment stenogramu rozmowy z października 1981 roku\nPolityk A:\n[J]uż wysłaliśmy do ciebie oficjalne gratulacje, ale ja chciałbym także osobiście pogratulować\nci wyboru na stanowisko I sekretarza KC PZPR. Słusznie zrobiłeś, wyrażając zgodę na taką\ndecyzję […]. W PZPR teraz nie ma działacza, który cieszyłby się autorytetem równym\ntwojemu – świadczą o tym także wyniki głosowania na plenum. Rozumiemy, że stoją przed\ntobą całkiem niełatwe zadania. Ale jesteśmy przekonani, że sobie z nimi poradzisz, uczynisz\nwszystko, by pokonać tę ciężką chorobę, która dotknęła wasz kraj.\nPolityk B:\nBardzo wam dziękuję […] za gratulacje i przede wszystkim za zaufanie, którym mnie\nobdarzyliście. Chcę wam otwarcie powiedzieć, że zgodziłem się przyjąć to stanowisko po\ndużej wewnętrznej walce i tylko dlatego, iż wiedziałem, że wy mnie popieracie i że wy\njesteście za taką decyzją. Jeżeli byłoby inaczej, nigdy bym się na to nie zgodził. Jest to\nbardzo ciężkie, bardzo trudne zadanie w tej złożonej sytuacji w kraju, w jakiej obecnie się\nznajduję jako premier i jako minister obrony. Ale zrozumiałem, że jest to właściwe\ni niezbędne, jeśli wy tak uważacie. […] Uczynię, Leonidzie Iljiczu, wszystko, jako komunista\ni jako żołnierz, aby było lepiej, aby osiągnąć przełom w sytuacji w kraju i w naszej partii.\nA. Dziurok i in., Od niepodległości do niepodległości. Historia Polski 1918–1989, Warszawa 2010, s. 427.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "26",
+      "group": 26,
+      "max_points": 15,
+      "question": "Zadanie zawiera trzy tematy. Wybierz jeden z nich do opracowania. Twoja wypowiedź\npowinna liczyć minimum 300 wyrazów.\n1. W życiu politycznym państwa polskiego w okresie XI–XII wieku dominowały tendencje\ndecentralizacyjne. Zajmij stanowisko wobec powyższej tezy i je uzasadnij, uwzględniając\nw swojej argumentacji panowanie trzech wybranych władców z tego okresu.\n2. Rewolucja amerykańska i francuska z końca XVIII wieku miały podobne przyczyny. Zajmij\nstanowisko wobec powyższej tezy i je uzasadnij, uwzględniając w swojej argumentacji\naspekt polityczny, społeczno-gospodarczy i kulturowy.\n3. Zimna wojna osiągnęła apogeum w latach 50. XX wieku. Zajmij stanowisko wobec\npowyższej tezy i je uzasadnij, charakteryzując trzy wybrane wydarzenia z tego okresu.",
+      "source_text": "",
+      "images": [],
+      "answer_format": "Jeden tekst: numer wybranego tematu i całe wypracowanie. Minimum 300 wyrazów zgodnie z poleceniem."
+    }
+  ]
+}

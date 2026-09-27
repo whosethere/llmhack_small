@@ -1,0 +1,32 @@
+{
+  "exam_id": "history-2023-mock-v1",
+  "solver": {
+    "version": "exam-solver-1",
+    "strategy": "single-vlm",
+    "multimodal": false,
+    "think": "off",
+    "rag": "http://localhost:8010",
+    "img_scale": "none",
+    "img_index": true,
+    "describe": {
+      "prompt": "v2",
+      "lang": "pl",
+      "ocr": "tesseract"
+    },
+    "llm": {
+      "url": "http://localhost:8002/v1",
+      "model": "solver"
+    },
+    "vlm": null
+  },
+  "seconds": 16.4,
+  "answered": 37,
+  "failed": [],
+  "guessed": [],
+  "errors": [],
+  "warnings": [
+    "16.1: brak etykiet z polecenia: ['rozstrzygnięcie']",
+    "20: brak etykiet z polecenia: ['rozstrzygnięcie']",
+    "25.2: brak etykiet z polecenia: ['nazwisko', 'wyjaśnienie']"
+  ]
+}

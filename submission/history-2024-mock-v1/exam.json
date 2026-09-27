@@ -1,0 +1,552 @@
+{
+  "exam_id": "history-2024-mock-v1",
+  "title": "Historia — matura rozszerzona, maj 2024",
+  "source_exam_id": "MHIP-R0-100-2405",
+  "source_url": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Historia/MHIP-R0-100-A-2405-arkusz.pdf",
+  "input_format": "separate-text-and-images-v1",
+  "language": "pl",
+  "max_points": 60,
+  "instructions": "Rozwiąż zadania po polsku. Czytaj question, source_text i wszystkie powiązane images. Wzory answer_format pokazują tylko składnię, nie poprawne odpowiedzi.",
+  "items": [
+    {
+      "id": "1",
+      "group": 1,
+      "max_points": 1,
+      "question": "Rozstrzygnij, który z reliefów przedstawionych w źródle 2. – A czy B – nawiązuje do\nprocesu historycznego opisanego w źródle 1. Odpowiedź uzasadnij, odwołując się\ndo treści obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nZdaniem dawniejszych badaczy początek panowania I dynastii […] przypadał na okres\nzjednoczenia Egiptu, czyli utworzenia jednolitego systemu zarządzania kierowanego przez\nkróla, którego władza obejmowała terytorium Dolnego i Górnego Egiptu. Był to bez wątpienia\nproces skomplikowany i długotrwały, a jego zwieńczeniem miało być właśnie przyjęcie\nkorony Górnego i Dolnego Egiptu przez Narmera […].\nEncyklopedia historyczna świata, t. II, Kraków 2000, s. 12.\nŹródło 2. Fotografie reliefów\n[Obraz: images/Z01-S2.png]\n\nhttps://www.britannica.com",
+      "images": [
+        {
+          "path": "images/Z01-S2.png",
+          "source_page": 4,
+          "sha256": "e1c4b822a96291f2163c25ae1b554bf501031db3d954487900e54ffa6982b65e"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "2",
+      "group": 2,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy mapa ze źródła 2. przedstawia sytuację polityczną w czasie, gdy\nzostała wygłoszona mowa przytoczona w źródle 1. Odpowiedź uzasadnij, odwołując\nsię do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment mowy starożytnego władcy\nZwyciężywszy konnicę satrapów Dariusza, dodałem do mego państwa całą Jonię i kraj\nEolów, obie Frygie i Lidię, a Milet zdobyłem po oblężeniu. Wszystkie inne krainy przyłączyły\nsię do nas dobrowolnie. Wam je oddałem, żebyście mogli się wzbogacić. Wasze są\nbogactwa Egiptu i Cyreny, zajętych bez walki, waszym łupem jest Syria, Palestyna\ni Mezopotamia, i Babilon, i Baktria, i Suza wasza! Wasze jest złoto Lidów, skarby Persów,\nzasoby Indów.\nA. Świderkówna, Hellenika […], Warszawa 1978, s. 16.\nŹródło 2. Mapa państw starożytnych\n[Obraz: images/Z02-S2.png]\n\nEncyklopedia historyczna świata, t. II, cz.1, Kraków 2000, s. 166.\n\nLegenda mapy: państwo Ptolemeuszy; państwo Seleukidów; państwo Attalidów; państwa greckie.",
+      "images": [
+        {
+          "path": "images/Z02-S2.png",
+          "source_page": 5,
+          "sha256": "7b01773a135d109cfdfcf56c85c62a20e51db262744dc5744baf0d15611f21e0"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "3.1",
+      "group": 3,
+      "max_points": 1,
+      "question": "Podaj imię i przydomek polityka, którego działania opisano w tekście.",
+      "source_text": "Fragment opracowania historycznego\nUstanowił monarchię, która miała wszelkie pozory republiki […]. Dobił się władzy z bronią\nw ręku i przez prawie pół wieku był człowiekiem, który faktycznie sam decydował\no wszystkich ważkich kwestiach, wewnętrznych i zewnętrznych, dotyczących przyszłości\nimperium. Jednakże, aczkolwiek sprawował tę władzę, nie miał żadnego tytułu, który by\njednoznacznie nadawał jego pozycji rangę najznamienitszą. Przez większość czasu nie\npiastował nawet godności najwyższego urzędu w Rzymie; sprawował jedynie urząd, który, to\nprawda, czynił jego osobę nienaruszalną […].\nR. Auguet, […], Warszawa 1990, s. 20–21.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "3.2",
+      "group": 3,
+      "max_points": 1,
+      "question": "Podaj nazwy dwóch urzędów republikańskich, o których mowa w ostatnim zdaniu\ntekstu.",
+      "source_text": "Fragment opracowania historycznego\nUstanowił monarchię, która miała wszelkie pozory republiki […]. Dobił się władzy z bronią\nw ręku i przez prawie pół wieku był człowiekiem, który faktycznie sam decydował\no wszystkich ważkich kwestiach, wewnętrznych i zewnętrznych, dotyczących przyszłości\nimperium. Jednakże, aczkolwiek sprawował tę władzę, nie miał żadnego tytułu, który by\njednoznacznie nadawał jego pozycji rangę najznamienitszą. Przez większość czasu nie\npiastował nawet godności najwyższego urzędu w Rzymie; sprawował jedynie urząd, który, to\nprawda, czynił jego osobę nienaruszalną […].\nR. Auguet, […], Warszawa 1990, s. 20–21.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "4",
+      "group": 4,
+      "max_points": 1,
+      "question": "Sformułuj jeden argument na poparcie tezy, że budowla zaprezentowana na fotografii\nstanowi przykład inspiracji zarówno greckimi, jak i rzymskimi rozwiązaniami\nw architekturze.",
+      "source_text": "Współczesna fotografia kościoła św. Aleksandra w Warszawie\n[Obraz: images/Z04.png]\n\nhttps://pl.wikipedia.org",
+      "images": [
+        {
+          "path": "images/Z04.png",
+          "source_page": 7,
+          "sha256": "648eb5867519a50004ce9227d0c85a06eb8fb75d69479a31c0cbf7c75026d2ac"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.1",
+      "group": 5,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy wezwanie papieża cytowane w źródle 1. przyczyniło się do\nrozpoczęcia wypraw, których przebieg zaznaczono na mapie przedstawionej\nw źródle 2. Odpowiedź uzasadnij, odwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment mowy papieża\nWszak jest koniecznością, abyście niezwłocznie podążyli z pomocą waszym braciom\nzamieszkującym na Wschodzie i potrzebującym waszej, niejednokrotnie obiecywanej im\npomocy. Na nich zwalili się bowiem, jak o tym większości z was już doniesiono, Turcy\ni Arabowie, którzy dotarli aż do Morza Śródziemnego [...]. Zajmując coraz dalsze ziemie\ntychże chrześcijan, oni uzyskali nad nimi przewagę, niejednokrotnie rozbijając ich w walce,\nwielu zabili lub wzięli do niewoli, kościoły porozbijali, a imperium spustoszyli.\nT. Maresz, K. Juszczyk, Historia w tekstach źródłowych […], t. 1, Rzeszów 2000, s. 47–48.\nŹródło 2. Mapa przedstawiająca trasy średniowiecznych wypraw\n[Obraz: images/Z05-S2.png]\n\nEncyklopedia szkolna. Historia, Warszawa 1993, s. 337.",
+      "images": [
+        {
+          "path": "images/Z05-S2.png",
+          "source_page": 8,
+          "sha256": "32e30782e91485f698407fa32c0fc28d1e72c8535c12fa344688331f23563508"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "5.2",
+      "group": 5,
+      "max_points": 1,
+      "question": "Podaj nazwę państwa, w którego stolicy kończył się szlak „od Waregów do Greków”.",
+      "source_text": "Źródło 1. Fragment mowy papieża\nWszak jest koniecznością, abyście niezwłocznie podążyli z pomocą waszym braciom\nzamieszkującym na Wschodzie i potrzebującym waszej, niejednokrotnie obiecywanej im\npomocy. Na nich zwalili się bowiem, jak o tym większości z was już doniesiono, Turcy\ni Arabowie, którzy dotarli aż do Morza Śródziemnego [...]. Zajmując coraz dalsze ziemie\ntychże chrześcijan, oni uzyskali nad nimi przewagę, niejednokrotnie rozbijając ich w walce,\nwielu zabili lub wzięli do niewoli, kościoły porozbijali, a imperium spustoszyli.\nT. Maresz, K. Juszczyk, Historia w tekstach źródłowych […], t. 1, Rzeszów 2000, s. 47–48.\nŹródło 2. Mapa przedstawiająca trasy średniowiecznych wypraw\n[Obraz: images/Z05-S2.png]\n\nEncyklopedia szkolna. Historia, Warszawa 1993, s. 337.",
+      "images": [
+        {
+          "path": "images/Z05-S2.png",
+          "source_page": 8,
+          "sha256": "32e30782e91485f698407fa32c0fc28d1e72c8535c12fa344688331f23563508"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "6",
+      "group": 6,
+      "max_points": 2,
+      "question": "Wyjaśnij zilustrowaną na drzeworycie strukturę społeczeństwa średniowiecznego.\nW odpowiedzi odwołaj się do trzech elementów graficznych drzeworytu.",
+      "source_text": "Drzeworyt z okresu średniowiecza\n[Obraz: images/Z06.png]\n\nhttps://bildungsserver.berlin-brandenburg.de\n\nNapisy w ramkach objaśnień przy drzeworycie (strzałki wskazują postacie): „Ty módl się”; „Ty ochraniaj”; „A ty pracuj”.",
+      "images": [
+        {
+          "path": "images/Z06.png",
+          "source_page": 9,
+          "sha256": "9389f642fd4feaf8b246a5b55500bab10230ae0677c6e8bb9d1e018886a599a3"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "7",
+      "group": 7,
+      "max_points": 1,
+      "question": "Rozstrzygnij, w którym fragmencie kroniki – A czy B – zostały opisane wydarzenia\nchronologicznie późniejsze. Odpowiedź uzasadnij, odwołując się do informacji\nzawartych w obu fragmentach.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragmenty kroniki średniowiecznej\nFragment A:\n[Henryk V,] przygotowując się do wkroczenia do Polski z potężnym wojskiem, przesłał\n[władcy Polski] wprzód poselstwo w te słowa: „Winieneś […] przyjąć z powrotem brata swego\n[…], a mnie płacić rocznie 300 grzywien trybutu, lub tyluż rycerzy dostarczyć na wyprawę\n[…]”. Na to [władca Polski] odpowiedział: „Jeśli pieniędzy naszych lub rycerzy polskich\nżądasz tytułem trybutu, to mielibyśmy się za niewiasty, a nie za mężów, gdybyśmy wolności\nswej nie bronili. Do przyjęcia zaś buntownika lub do podzielenia się z nim niepodzielnym\nkrólestwem, nie zmusi mnie przemoc żadnej [obcej] władzy […]”.\nFragment B:\nJak zaś doszło do wypędzenia króla […] z Polski, długo byłoby o tym mówić; tyle wszakże\nmożna powiedzieć, że sam będąc pomazańcem [,] nie powinien był pomazańca za ten\ngrzech karać cieleśnie. Wiele mu to bowiem zaszkodziło, gdy przeciw grzechowi grzech\nzastosował i za zdradę wydał biskupa na obcięcie członków. My zaś ani nie\nusprawiedliwiamy biskupa – zdrajcy, ani nie zalecamy króla, który tak szpetnie dochodził\nswych praw.\nAnonim tzw. Gall, Kronika polska, Wrocław 1989, s. 54, 132.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "8.1",
+      "group": 8,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę dokumentu cytowanego w źródle 1.",
+      "source_text": "Źródło 1. Fragment dokumentu\nPonieważ prawa ogólne i ustawy publiczne dotyczą nie pojedynczego człowieka, ale ogółu\nnarodu, przeto na tym walnym sejmie […] wraz z wszystkimi Królestwa naszego prałatami,\nradami i posłami ziemskimi za słuszne i sprawiedliwe uznaliśmy, jakoż postanowiliśmy,\niż odtąd na potomne czasy nic nowego stanowionym być nie ma przez nas i naszych\nnastępców, bez wspólnego zezwolenia senatorów i posłów ziemskich […].\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 95.\nŹródło 2. Ilustracja z epoki\n[Obraz: images/Z08-S2.png]\n\nLiterami oznaczono: A – króla, B – arcybiskupa gnieźnieńskiego (prymasa), C – arcybiskupa\nlwowskiego, D – senatorów-biskupów, E – senatorów-wojewodów i kasztelanów,\nF i G – senatorów-urzędników, H – szlachtę.\nNa podstawie: https://zpe.gov.pl",
+      "images": [
+        {
+          "path": "images/Z08-S2.png",
+          "source_page": 11,
+          "sha256": "368d8928c2235e0ae159ce201f3814a1443e457808241234cdb661d7745c1e48"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "8.2",
+      "group": 8,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy ilustracja załączona w źródle 2. odzwierciedla strukturę sejmu\nprzedstawioną w źródle 1. Odpowiedź uzasadnij, odwołując się do informacji z obu\nźródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment dokumentu\nPonieważ prawa ogólne i ustawy publiczne dotyczą nie pojedynczego człowieka, ale ogółu\nnarodu, przeto na tym walnym sejmie […] wraz z wszystkimi Królestwa naszego prałatami,\nradami i posłami ziemskimi za słuszne i sprawiedliwe uznaliśmy, jakoż postanowiliśmy,\niż odtąd na potomne czasy nic nowego stanowionym być nie ma przez nas i naszych\nnastępców, bez wspólnego zezwolenia senatorów i posłów ziemskich […].\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 95.\nŹródło 2. Ilustracja z epoki\n[Obraz: images/Z08-S2.png]\n\nLiterami oznaczono: A – króla, B – arcybiskupa gnieźnieńskiego (prymasa), C – arcybiskupa\nlwowskiego, D – senatorów-biskupów, E – senatorów-wojewodów i kasztelanów,\nF i G – senatorów-urzędników, H – szlachtę.\nNa podstawie: https://zpe.gov.pl",
+      "images": [
+        {
+          "path": "images/Z08-S2.png",
+          "source_page": 11,
+          "sha256": "368d8928c2235e0ae159ce201f3814a1443e457808241234cdb661d7745c1e48"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9",
+      "group": 9,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy Stanisław Orzechowski propagował idee braci polskich (arian).\nOdpowiedź uzasadnij, odwołując się do napisu i wybranego elementu graficznego\ndrzeworytu.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Alegoria władzy, drzeworyt z dzieła Stanisława Orzechowskiego Quincunx, to jest\nwzór Korony Polskiej na cynku wystawiony\n[Obraz: images/Z09.png]\n\nTekst łaciński umieszczony na drzeworycie: Państwo opiera się na barkach papieża i króla; jeśli ruszy\nsię jedną z tych podpór, zostanie zniszczona cała struktura królestwa.\nhttps://polona.pl",
+      "images": [
+        {
+          "path": "images/Z09.png",
+          "source_page": 12,
+          "sha256": "f4dba78c9fdd8d307f936e0ca8ca9bbc92f17ae81fa014805ebe568f20d432dd"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "10",
+      "group": 10,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nPodział dochodów zaprezentowany w źródle wprowadzono na mocy postanowień sejmu\nA. egzekucyjnego 1562–1563.\nB. konwokacyjnego 1573.\nC. Niemego 1717.\nD. Wielkiego 1788–1792.",
+      "source_text": "Wykres dochodów z królewszczyzn\n[Obraz: images/Z10.png]\n\nJ. Choińska-Mika, P. Szlanta, K. Zielińska, Historia […], Warszawa 2008, s. 83.",
+      "images": [
+        {
+          "path": "images/Z10.png",
+          "source_page": 13,
+          "sha256": "bfb37a1a97cd2ce88ab95a570856962a3aa54d3f38fe102ceaca6220871bc8ee"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "11.1",
+      "group": 11,
+      "max_points": 1,
+      "question": "Każdemu fragmentowi ze źródła 1. przyporządkuj władcę ze źródła 2., który panował\nwe Francji w czasie wydarzeń tam opisanych. Odpowiedzi zapisz poniżej.\nFragment A –\nFragment B –",
+      "source_text": "Źródło 1. Fragmenty opracowania historycznego\nFragment A:\nTak doszło do rzezi w dzień św. Bartłomieja, zwany niekiedy nocą, mylnie, jako że trwała od\n6 rano do 6 wieczorem 24 sierpnia […]. Padły tysiące hugenotów, głównie w Paryżu,\nczęściowo i w niektórych katolickich miastach na prowincji. Coligny i obecna w stolicy\nszlachta hugenocka zginęli pod nożami morderców.\nFragment B:\nWyrzekłszy pono słynne słowa: „Paryż wart mszy” […] zajął stolicę, przyjąwszy […]\nkapitulację hiszpańskiego garnizonu, i po kolejnych zwycięstwach […] zawarł […]\nz Hiszpanią pokój w [Vervins], który przywracał stan rzeczy sprzed lat czterdziestu\ni zapewniał Francji wreszcie bezpieczeństwo. W tymże roku edykt nantejski, gwarantujący\nprawa protestantów, położył kres, przynajmniej za jego panowania, waśniom religijnym.\nS. Grzybowski, Wielka historia świata […], t. 6, Warszawa 2005, s. 592–596.\nŹródło 2. Tablica genealogiczna władców Francji [fragment]\n[Obraz: images/Z11-S2.png]\n\nNa podstawie: Dynastie Europy, red. A. Mączak, Wrocław 2009, s. 385.",
+      "images": [
+        {
+          "path": "images/Z11-S2.png",
+          "source_page": 14,
+          "sha256": "6a6dcb65d73774b22cb41e2e8f526cab56f22fc82857417fcd93e037354dabe9"
+        }
+      ],
+      "answer_format": "A: władca\nB: władca"
+    },
+    {
+      "id": "11.2",
+      "group": 11,
+      "max_points": 1,
+      "question": "Wyjaśnij sens sformułowania „Paryż wart mszy”, które przytoczono we fragmencie B.",
+      "source_text": "Źródło 1. Fragmenty opracowania historycznego\nFragment A:\nTak doszło do rzezi w dzień św. Bartłomieja, zwany niekiedy nocą, mylnie, jako że trwała od\n6 rano do 6 wieczorem 24 sierpnia […]. Padły tysiące hugenotów, głównie w Paryżu,\nczęściowo i w niektórych katolickich miastach na prowincji. Coligny i obecna w stolicy\nszlachta hugenocka zginęli pod nożami morderców.\nFragment B:\nWyrzekłszy pono słynne słowa: „Paryż wart mszy” […] zajął stolicę, przyjąwszy […]\nkapitulację hiszpańskiego garnizonu, i po kolejnych zwycięstwach […] zawarł […]\nz Hiszpanią pokój w [Vervins], który przywracał stan rzeczy sprzed lat czterdziestu\ni zapewniał Francji wreszcie bezpieczeństwo. W tymże roku edykt nantejski, gwarantujący\nprawa protestantów, położył kres, przynajmniej za jego panowania, waśniom religijnym.\nS. Grzybowski, Wielka historia świata […], t. 6, Warszawa 2005, s. 592–596.\nŹródło 2. Tablica genealogiczna władców Francji [fragment]\n[Obraz: images/Z11-S2.png]\n\nNa podstawie: Dynastie Europy, red. A. Mączak, Wrocław 2009, s. 385.",
+      "images": [
+        {
+          "path": "images/Z11-S2.png",
+          "source_page": 14,
+          "sha256": "6a6dcb65d73774b22cb41e2e8f526cab56f22fc82857417fcd93e037354dabe9"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "12.1",
+      "group": 12,
+      "max_points": 1,
+      "question": "Podaj imiona władcy, którego dotyczą oba źródła.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nPo śmierci Ludwiki Marii […] nie był zdolny do kontynuowania podjętych wspólnie\nz małżonką działań. Przestał zajmować się sprawami publicznymi i […] w tej sytuacji\nwszyscy niemal sąsiedzi starali się pozyskać króla przez propozycje małżeńskie. Problem\nzajmował również jego poddanych, sam król jednak znalazł lepsze dla siebie wyjście. […]\n[N]a wspólnym posiedzeniu obu izb król zwrócił swój dyplom elekcyjny i uwolnił poddanych\nod posłuszeństwa. […] Władza w kraju przeszła w ręce prymasa.\nJ.A. Gierowski, Rzeczpospolita w dobie złotej wolności […], Kraków 2001, s. 108–109.\nŹródło 2. Fotografia pomnika nagrobnego w kościele w Paryżu\n[Obraz: images/Z12-S2.png]\n\nhttps://polonika.pl",
+      "images": [
+        {
+          "path": "images/Z12-S2.png",
+          "source_page": 15,
+          "sha256": "d12e9a24625886c83b11b472d117bb8cecba2202045284a7d7b209a81a3857d7"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "12.2",
+      "group": 12,
+      "max_points": 1,
+      "question": "Podaj pojęcie stosowane w historiografii, którym określa się działanie nazwane\nw tekście lepszym wyjściem.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nPo śmierci Ludwiki Marii […] nie był zdolny do kontynuowania podjętych wspólnie\nz małżonką działań. Przestał zajmować się sprawami publicznymi i […] w tej sytuacji\nwszyscy niemal sąsiedzi starali się pozyskać króla przez propozycje małżeńskie. Problem\nzajmował również jego poddanych, sam król jednak znalazł lepsze dla siebie wyjście. […]\n[N]a wspólnym posiedzeniu obu izb król zwrócił swój dyplom elekcyjny i uwolnił poddanych\nod posłuszeństwa. […] Władza w kraju przeszła w ręce prymasa.\nJ.A. Gierowski, Rzeczpospolita w dobie złotej wolności […], Kraków 2001, s. 108–109.\nŹródło 2. Fotografia pomnika nagrobnego w kościele w Paryżu\n[Obraz: images/Z12-S2.png]\n\nhttps://polonika.pl",
+      "images": [
+        {
+          "path": "images/Z12-S2.png",
+          "source_page": 15,
+          "sha256": "d12e9a24625886c83b11b472d117bb8cecba2202045284a7d7b209a81a3857d7"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "12.3",
+      "group": 12,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy pomnik nagrobny ukazany w źródle 2. jest przykładem sztuki baroku\nczy klasycyzmu. Odpowiedź uzasadnij, odwołując się do jednej cechy tego stylu\nwidocznej na fotografii.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nPo śmierci Ludwiki Marii […] nie był zdolny do kontynuowania podjętych wspólnie\nz małżonką działań. Przestał zajmować się sprawami publicznymi i […] w tej sytuacji\nwszyscy niemal sąsiedzi starali się pozyskać króla przez propozycje małżeńskie. Problem\nzajmował również jego poddanych, sam król jednak znalazł lepsze dla siebie wyjście. […]\n[N]a wspólnym posiedzeniu obu izb król zwrócił swój dyplom elekcyjny i uwolnił poddanych\nod posłuszeństwa. […] Władza w kraju przeszła w ręce prymasa.\nJ.A. Gierowski, Rzeczpospolita w dobie złotej wolności […], Kraków 2001, s. 108–109.\nŹródło 2. Fotografia pomnika nagrobnego w kościele w Paryżu\n[Obraz: images/Z12-S2.png]\n\nhttps://polonika.pl",
+      "images": [
+        {
+          "path": "images/Z12-S2.png",
+          "source_page": 15,
+          "sha256": "d12e9a24625886c83b11b472d117bb8cecba2202045284a7d7b209a81a3857d7"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "13",
+      "group": 13,
+      "max_points": 1,
+      "question": "Podaj nazwę wydarzenia z nowożytnych dziejów Anglii, do którego nawiązuje rycina.\nOdpowiedź uzasadnij, odwołując się do jej treści.\nWydarzenie:\nUzasadnienie:",
+      "source_text": "Rycina z epoki\n[Obraz: images/Z13.png]\n\nhttps://www.britishmuseum.org\n\nNapis w ramce objaśnienia na rycinie (strzałka wskazuje element ryciny): „30 stycznia 1649”.",
+      "images": [
+        {
+          "path": "images/Z13.png",
+          "source_page": 16,
+          "sha256": "9248bf0ad7ca43f9e15f322ec64a5d85fccadff2ee0a7fcd1e7be42adf69feac"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.1",
+      "group": 14,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy rozkaz cytowany w źródle 1. dotyczy działań wojennych ukazanych\nna mapie ze źródła 2. Odpowiedź uzasadnij, odwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment rozkazu\nŻołnierze! Druga wojna polska zaczęta. Pierwsza skończyła się pod Frydlandem i Tylżą;\nw Tylży Rosja poprzysięgła wieczne z Francją przymierze i wojnę z Anglią. Dziś łamie swe\nprzysięgi. […] Rosja idzie tam, gdzie ją ciągnie fatalność, jej przeznaczenie musi się\nwypełnić. Czyż sądzi, że ulegliśmy zwyrodnieniu? Czyż przestaliśmy być żołnierzami spod\nAusterlitz? Stawia nas między hańbą a wojną. Wybór nie może dla nas ulegać wątpliwości;\nmarsz więc naprzód! Przejdźmy Niemen! Przenieśmy na jej obszary wojnę! Druga wojna\npolska przyniesie taką dla oręża francuskiego sławę, jak pierwsza […].\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 53.\nŹródło 2. Mapa działań wojennych\n[Obraz: images/Z14-S2.png]\n\nS. Grodziski, Polska w czasach przełomu […], Kraków 2004, s. 257.",
+      "images": [
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 17,
+          "sha256": "80054df823077b9f98a57fe3ef42a677226f80d9a6fd30e6e1cd820143faae23"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.2",
+      "group": 14,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nGłównym dowódcą wojsk polskich w czasie działań wojennych ukazanych na mapie był\nA. Józef Zajączek.\nB. Tadeusz Kościuszko.\nC. Józef Poniatowski.\nD. Jan Henryk Dąbrowski.",
+      "source_text": "Źródło 1. Fragment rozkazu\nŻołnierze! Druga wojna polska zaczęta. Pierwsza skończyła się pod Frydlandem i Tylżą;\nw Tylży Rosja poprzysięgła wieczne z Francją przymierze i wojnę z Anglią. Dziś łamie swe\nprzysięgi. […] Rosja idzie tam, gdzie ją ciągnie fatalność, jej przeznaczenie musi się\nwypełnić. Czyż sądzi, że ulegliśmy zwyrodnieniu? Czyż przestaliśmy być żołnierzami spod\nAusterlitz? Stawia nas między hańbą a wojną. Wybór nie może dla nas ulegać wątpliwości;\nmarsz więc naprzód! Przejdźmy Niemen! Przenieśmy na jej obszary wojnę! Druga wojna\npolska przyniesie taką dla oręża francuskiego sławę, jak pierwsza […].\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 53.\nŹródło 2. Mapa działań wojennych\n[Obraz: images/Z14-S2.png]\n\nS. Grodziski, Polska w czasach przełomu […], Kraków 2004, s. 257.",
+      "images": [
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 17,
+          "sha256": "80054df823077b9f98a57fe3ef42a677226f80d9a6fd30e6e1cd820143faae23"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "15.1",
+      "group": 15,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę powstania, którego dotyczą źródła.",
+      "source_text": "Źródło 1. Fragment pamiętników z epoki\nChłopicki […] ciągle się droczył i wzdrygał objąć dowództwo nad wojskiem, a lud, gromadnie\nstojący pod oknami na placu Bankowym, uparcie wywoływał Chłopickiego na naczelnego\nwodza. […] Zły był okrutnie, wściekał się, brwi marszczył, klął powstanie po żołniersku, nie\ndobierając wyrazów. […] Niemcewicz jako przyjaciel, towarzysz i świadek wielkich cnót\nKościuszki, w którego sercu nieszczęsne losy kraju i włos biały nie wyziębiły miłości do\nojczyzny, przedsięwziął przełamać Chłopickiego opór. Prosił go, perswadował […].\nNiemcewicz kochał, z poświęceniem i zupełnym zaparciem samego siebie, ojczyznę.\nChłopicki nawet tego wyrażenia nie rozumiał.\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 180.\nŹródło 2. Mazur ex-dyktatora\nWersja A:\n[Nasz Chłopicki] wojak, dzielny, śmiały\nWykonywać rozkazy i szturmem brać wały,\nLecz by całkiem wojskiem władać,\nTrzeba coś więcej posiadać.\nWięc bez niego w imię Boga\nPobijemy wroga!\nSześć tygodni siedział, dumał, drzymał,\nBez granic dyktaturę w słabym ręku trzymał\nI z Lubeckim będąc w zmowie\nOczekiwał, co Car powie;\nA tymczasem, ach dlaboga!\nPuścił z kraju wroga.\nWersja B:\nNasz Chłopicki wojak dzielny, śmiały!\nPowiedzie naszych zuchów na pole\n[zwycięstw i chwały;\nHuk armat, szczęk pałaszy,\nBrodaczów wnet odstraszy!\nHej bracia! w imię Boże!\nBóg nam dopomoże! […]\nHej rodacy dalej hura! hura!\nNa dumnych wrogach naszych niechaj\n[zadrży skóra.\nNie zrazi nas car z Dybiczem,\nA pogróżki dla nas niczem.\nNa podstawie: Poezja powstania listopadowego, oprac. A. Zieliński, Wrocław 1971, s. 233; https://polona.pl",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "15.2",
+      "group": 15,
+      "max_points": 1,
+      "question": "Rozstrzygnij, która z wersji pieśni cytowanej w źródle 2. – A czy B – ma wymowę\nzgodną z oceną Chłopickiego wyrażoną w źródle 1. Odpowiedź uzasadnij, odwołując\nsię do źródła 1. i do wybranej wersji pieśni ze źródła 2.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment pamiętników z epoki\nChłopicki […] ciągle się droczył i wzdrygał objąć dowództwo nad wojskiem, a lud, gromadnie\nstojący pod oknami na placu Bankowym, uparcie wywoływał Chłopickiego na naczelnego\nwodza. […] Zły był okrutnie, wściekał się, brwi marszczył, klął powstanie po żołniersku, nie\ndobierając wyrazów. […] Niemcewicz jako przyjaciel, towarzysz i świadek wielkich cnót\nKościuszki, w którego sercu nieszczęsne losy kraju i włos biały nie wyziębiły miłości do\nojczyzny, przedsięwziął przełamać Chłopickiego opór. Prosił go, perswadował […].\nNiemcewicz kochał, z poświęceniem i zupełnym zaparciem samego siebie, ojczyznę.\nChłopicki nawet tego wyrażenia nie rozumiał.\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 180.\nŹródło 2. Mazur ex-dyktatora\nWersja A:\n[Nasz Chłopicki] wojak, dzielny, śmiały\nWykonywać rozkazy i szturmem brać wały,\nLecz by całkiem wojskiem władać,\nTrzeba coś więcej posiadać.\nWięc bez niego w imię Boga\nPobijemy wroga!\nSześć tygodni siedział, dumał, drzymał,\nBez granic dyktaturę w słabym ręku trzymał\nI z Lubeckim będąc w zmowie\nOczekiwał, co Car powie;\nA tymczasem, ach dlaboga!\nPuścił z kraju wroga.\nWersja B:\nNasz Chłopicki wojak dzielny, śmiały!\nPowiedzie naszych zuchów na pole\n[zwycięstw i chwały;\nHuk armat, szczęk pałaszy,\nBrodaczów wnet odstraszy!\nHej bracia! w imię Boże!\nBóg nam dopomoże! […]\nHej rodacy dalej hura! hura!\nNa dumnych wrogach naszych niechaj\n[zadrży skóra.\nNie zrazi nas car z Dybiczem,\nA pogróżki dla nas niczem.\nNa podstawie: Poezja powstania listopadowego, oprac. A. Zieliński, Wrocław 1971, s. 233; https://polona.pl",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.1",
+      "group": 16,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy karykatura ze źródła 1. jest komentarzem do polityki\nzapoczątkowanej orędziem zacytowanym w źródle 2. Odpowiedź uzasadnij, odwołując\nsię do treści obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Karykatura polityczna\n[Obraz: images/Z16-S1.png]\n\nhttps://commons.wikimedia.org\n\nTeksty w ramkach objaśnień na karykaturze (tłumaczenia napisów, strzałki wskazują elementy rysunku): „Portugalia, Francja, Hiszpania, Niemcy”; „Zakaz wstępu”; „Ameryka dla Amerykanów”; „Wuj Sam”; „Przejęcie Wenezueli”; „Nikaragua, Wenezuela”.\nŹródło 2. Fragment orędzia prezydenta Stanów Zjednoczonych\nPolityka, jaką prowadzimy w stosunku do Europy […], pozostała ta sama: polega ona na\nniewtrącaniu się w sprawy wewnętrzne jakiegokolwiek państwa […]. Jednakże w sprawach\ndotyczących […] kontynentów [amerykańskich] zmieniają się okoliczności. Jest niemożliwe,\naby mocarstwa sprzymierzone chciały narzucić swój system polityczny jakiejś części tych\nkontynentów bez zagrożenia naszemu szczęściu i naszemu pokojowi, i nie przypuszczamy,\naby nasi bracia z południa chcieli przyjąć go z własnej woli. Nie byłoby też możliwe przez nas\npozostanie w pozycji obojętnych widzów wobec interwencji, niezależnie od jej formy. […]\nPrawdziwa polityka Stanów Zjednoczonych polega na pozostawieniu stron samych\nw nadziei, że i inne państwa obiorą ten sam kierunek polityki zagranicznej.\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 94.",
+      "images": [
+        {
+          "path": "images/Z16-S1.png",
+          "source_page": 19,
+          "sha256": "0f2a595c0e670bea12deb5c08aa655199246352fe508067f406799478762b0af"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.2",
+      "group": 16,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nPrezydentem, który wygłosił orędzie przytoczone w źródle 2., był\nA. Abraham Lincoln.\nB. James Monroe.\nC. Harry Truman.\nD. Woodrow Wilson.",
+      "source_text": "Źródło 1. Karykatura polityczna\n[Obraz: images/Z16-S1.png]\n\nhttps://commons.wikimedia.org\n\nTeksty w ramkach objaśnień na karykaturze (tłumaczenia napisów, strzałki wskazują elementy rysunku): „Portugalia, Francja, Hiszpania, Niemcy”; „Zakaz wstępu”; „Ameryka dla Amerykanów”; „Wuj Sam”; „Przejęcie Wenezueli”; „Nikaragua, Wenezuela”.\nŹródło 2. Fragment orędzia prezydenta Stanów Zjednoczonych\nPolityka, jaką prowadzimy w stosunku do Europy […], pozostała ta sama: polega ona na\nniewtrącaniu się w sprawy wewnętrzne jakiegokolwiek państwa […]. Jednakże w sprawach\ndotyczących […] kontynentów [amerykańskich] zmieniają się okoliczności. Jest niemożliwe,\naby mocarstwa sprzymierzone chciały narzucić swój system polityczny jakiejś części tych\nkontynentów bez zagrożenia naszemu szczęściu i naszemu pokojowi, i nie przypuszczamy,\naby nasi bracia z południa chcieli przyjąć go z własnej woli. Nie byłoby też możliwe przez nas\npozostanie w pozycji obojętnych widzów wobec interwencji, niezależnie od jej formy. […]\nPrawdziwa polityka Stanów Zjednoczonych polega na pozostawieniu stron samych\nw nadziei, że i inne państwa obiorą ten sam kierunek polityki zagranicznej.\nWiek XIX w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 94.",
+      "images": [
+        {
+          "path": "images/Z16-S1.png",
+          "source_page": 19,
+          "sha256": "0f2a595c0e670bea12deb5c08aa655199246352fe508067f406799478762b0af"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "17.1",
+      "group": 17,
+      "max_points": 1,
+      "question": "Wyjaśnij związek przyczynowo-skutkowy między wydarzeniem, do którego nawiązuje\nźródło 2., a ceremonią opisaną przez Heinricha von Sybela w źródle 1. W odpowiedzi\nodwołaj się do treści obu źródeł.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\n„Łzy płynęły mi po policzkach – napisał […] w dniu ceremonii […] historyk Heinrich\nvon Sybel. – Czym zasłużyliśmy sobie na taką łaskę od Boga, że możemy być świadkami\ntych wielkich i wspaniałych czynów?” […] A nowy cesarz? Co czuł w tym dniu,\nnajdonioślejszym nie tylko na przestrzeni własnej kariery, ale również całej dynastii […],\nna której czele stał? Dzień 18 stycznia nie został wybrany przypadkowo. Była to rocznica\nkoronacji pierwszego króla pruskiego […] w Królewcu.\nT. Aronson, Cesarze […], Kraków 1998, s. 10.\nŹródło 2. Rysunek z epoki\n[Obraz: images/Z17-S2.png]\n\nhttps://upload.wikimedia.org\n\nNapis w ramce objaśnienia przy rysunku (strzałka wskazuje element rysunku): „Kapitulacja pod Sedanem”.",
+      "images": [
+        {
+          "path": "images/Z17-S2.png",
+          "source_page": 20,
+          "sha256": "caafa6992d4b5a4c1a2473efbe2a6c29de84dd098f95eefa614583a8c01c072e"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "17.2",
+      "group": 17,
+      "max_points": 1,
+      "question": "Podaj nazwę dynastii, z której pochodził wspomniany w źródle 1. nowy cesarz.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\n„Łzy płynęły mi po policzkach – napisał […] w dniu ceremonii […] historyk Heinrich\nvon Sybel. – Czym zasłużyliśmy sobie na taką łaskę od Boga, że możemy być świadkami\ntych wielkich i wspaniałych czynów?” […] A nowy cesarz? Co czuł w tym dniu,\nnajdonioślejszym nie tylko na przestrzeni własnej kariery, ale również całej dynastii […],\nna której czele stał? Dzień 18 stycznia nie został wybrany przypadkowo. Była to rocznica\nkoronacji pierwszego króla pruskiego […] w Królewcu.\nT. Aronson, Cesarze […], Kraków 1998, s. 10.\nŹródło 2. Rysunek z epoki\n[Obraz: images/Z17-S2.png]\n\nhttps://upload.wikimedia.org\n\nNapis w ramce objaśnienia przy rysunku (strzałka wskazuje element rysunku): „Kapitulacja pod Sedanem”.",
+      "images": [
+        {
+          "path": "images/Z17-S2.png",
+          "source_page": 20,
+          "sha256": "caafa6992d4b5a4c1a2473efbe2a6c29de84dd098f95eefa614583a8c01c072e"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "18",
+      "group": 18,
+      "max_points": 1,
+      "question": "Rozstrzygnij, która strona konfliktu – państwa centralne czy ententa – opublikowała\nzaprezentowany plakat. Odpowiedź uzasadnij, odwołując się do jego elementów\ngraficznych.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Plakat z okresu I wojny światowej\n[Obraz: images/Z18.png]\n\nhttps://upload.wikimedia.org",
+      "images": [
+        {
+          "path": "images/Z18.png",
+          "source_page": 21,
+          "sha256": "4c328aee08c8f7ebe51c198dc8f0f05660e929bace21de9d49e1c65ade8b8743"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "19.1",
+      "group": 19,
+      "max_points": 2,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Spośród wydarzeń, do których nawiązują znaczki A–D, z wydarzeniem\nnajpóźniejszym związany jest znaczek A.\n2. Znaczek C nawiązuje do plebiscytu, który się nie odbył.\n3. Wydanie znaczka D powiązane było z plebiscytem, w wyniku którego do\nPolski przyłączono mniejszą część spornych terenów.",
+      "source_text": "Znaczki pocztowe\n[Obraz: images/Z19.png]\n\nNapisy na znaczkach:\nZnaczek A. Plébiscite [fr.] – plebiscyt; Allenstein [niem.] – Olsztyn.\nZnaczek D. Commission de Gouvernement [fr.] – Komisja Rządowa; Haute Silesie [fr.] – Górny Śląsk;\nOberschlesien [niem.] – Górny Śląsk.\nhttps://katalogznaczkow.net",
+      "images": [
+        {
+          "path": "images/Z19.png",
+          "source_page": 22,
+          "sha256": "17442518ce3058e12490b66f813b6ddc3126a46aa5d5fbc6b4dcdd147ef92a6c"
+        }
+      ],
+      "answer_format": "1: P\n2: F\n3: P"
+    },
+    {
+      "id": "19.2",
+      "group": 19,
+      "max_points": 1,
+      "question": "Podaj nazwisko generała związanego z powstaniem organizmu państwowego,\nna którego obszarze był w obiegu znaczek B.",
+      "source_text": "Znaczki pocztowe\n[Obraz: images/Z19.png]\n\nNapisy na znaczkach:\nZnaczek A. Plébiscite [fr.] – plebiscyt; Allenstein [niem.] – Olsztyn.\nZnaczek D. Commission de Gouvernement [fr.] – Komisja Rządowa; Haute Silesie [fr.] – Górny Śląsk;\nOberschlesien [niem.] – Górny Śląsk.\nhttps://katalogznaczkow.net",
+      "images": [
+        {
+          "path": "images/Z19.png",
+          "source_page": 22,
+          "sha256": "17442518ce3058e12490b66f813b6ddc3126a46aa5d5fbc6b4dcdd147ef92a6c"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "20.1",
+      "group": 20,
+      "max_points": 1,
+      "question": "Rozstrzygnij, w którym źródle – 1. czy 2. – opisano przejawy Nowej Ekonomicznej\nPolityki. Odpowiedź uzasadnij, odwołując się do zawartych w nim informacji.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Relacja Wiktora Krawczenko\nWorwanowie – mąż, żona i dziecko… byli szczęśliwą rodziną. Ciężko pracowali. To byli\ndobrzy ludzie. Nie kułacy – mieli tylko dwa konie, krowę, świnię, kilka kur, tak jak wszyscy.\nNieważne jak usilnie go namawiali, nie chciał wstąpić do kołchozu. Zabrali mu całe zboże,\njakie mu zostało. I znów przekonywali i grozili. Ale nie ustąpił. „To moja ziemia” – powtarzał –\n„moje zwierzęta i mój dom i nie oddam ich rządowi”. Wtedy przyjechali ludzie z miasta.\nSpisali cały dobytek i wszystko zabrali, do ostatniego garnka i ścierki, a narzędzia i inwentarz\nprzekazali kołchozowi. Worwana ogłosili kułakiem, a wieczorem przyszli go aresztować.\nD.R. Marples, Historia ZSRR. Od rewolucji do rozpadu, Wrocław 2011, s. 125.\nŹródło 2. Fragment pamiętnika\n[N]a początek powstają pod gołym niebem na placach, w oznaczonych miejscach, rynki,\nzupełnie już legalne […]. Bajeczne były te rynki. Przypominam sobie zwłaszcza jeden przy\nmoście Obuchowskim. Dwie połowy. Na jednej tylko sprzedaż kasz, mąki, masła, cukru,\njarzyn, wędlin etc. Na drugiej można pod gołym niebem zjeść obiad z 2 i 3 dań, śniadanie,\nmieć kawę, herbatę…; można było także podzelować buty i ogolić się, i ostrzyc włosy. […]\nZniesiono nacjonalizację […] dla drobnych warsztatów pracy, zatrudniających nie więcej jak\n20 ludzi.\nNa podstawie: T. Parczewski, Pamiętniki gubernatora Kronsztadu, Warszawa 2006, s. 237–238.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "20.2",
+      "group": 20,
+      "max_points": 2,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Oba źródła dotyczą walki z Wielkim Głodem na Ukrainie..\n2. W źródle 1. opisano sytuację związaną z procesem kolektywizacji.\n3. W źródle 2. scharakteryzowano politykę gospodarczą zapoczątkowaną\nprzez Stalina.",
+      "source_text": "Źródło 1. Relacja Wiktora Krawczenko\nWorwanowie – mąż, żona i dziecko… byli szczęśliwą rodziną. Ciężko pracowali. To byli\ndobrzy ludzie. Nie kułacy – mieli tylko dwa konie, krowę, świnię, kilka kur, tak jak wszyscy.\nNieważne jak usilnie go namawiali, nie chciał wstąpić do kołchozu. Zabrali mu całe zboże,\njakie mu zostało. I znów przekonywali i grozili. Ale nie ustąpił. „To moja ziemia” – powtarzał –\n„moje zwierzęta i mój dom i nie oddam ich rządowi”. Wtedy przyjechali ludzie z miasta.\nSpisali cały dobytek i wszystko zabrali, do ostatniego garnka i ścierki, a narzędzia i inwentarz\nprzekazali kołchozowi. Worwana ogłosili kułakiem, a wieczorem przyszli go aresztować.\nD.R. Marples, Historia ZSRR. Od rewolucji do rozpadu, Wrocław 2011, s. 125.\nŹródło 2. Fragment pamiętnika\n[N]a początek powstają pod gołym niebem na placach, w oznaczonych miejscach, rynki,\nzupełnie już legalne […]. Bajeczne były te rynki. Przypominam sobie zwłaszcza jeden przy\nmoście Obuchowskim. Dwie połowy. Na jednej tylko sprzedaż kasz, mąki, masła, cukru,\njarzyn, wędlin etc. Na drugiej można pod gołym niebem zjeść obiad z 2 i 3 dań, śniadanie,\nmieć kawę, herbatę…; można było także podzelować buty i ogolić się, i ostrzyc włosy. […]\nZniesiono nacjonalizację […] dla drobnych warsztatów pracy, zatrudniających nie więcej jak\n20 ludzi.\nNa podstawie: T. Parczewski, Pamiętniki gubernatora Kronsztadu, Warszawa 2006, s. 237–238.",
+      "images": [],
+      "answer_format": "1: P\n2: F\n3: P"
+    },
+    {
+      "id": "21",
+      "group": 21,
+      "max_points": 1,
+      "question": "Na podstawie przedstawionego kadru sformułuj jeden argument potwierdzający tezę,\nże film służył celom propagandowym.",
+      "source_text": "Kadr z filmu Triumf woli w reżyserii Leni Riefenstahl, dokumentującego zjazd NSDAP\n[Obraz: images/Z21.png]\n\nNa podstawie: https://www.cda.pl",
+      "images": [
+        {
+          "path": "images/Z21.png",
+          "source_page": 24,
+          "sha256": "092663e36a45da871e0d7be3efd43b63a0e247a5e661a6aeb789db6c49ef280b"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "22.1",
+      "group": 22,
+      "max_points": 1,
+      "question": "Podaj datę dzienną wydarzenia określonego w źródle 1. jako godzina „W”.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nCo więc zostało z powstania? […] Wydaje się, że nawet przeciwnicy tej decyzji są w stanie\nzaakceptować następujące punkty […], choć nie musi to oczywiście zmienić ich generalnego\nstosunku do decyzji o godzinie „W”:\n– zatrzymanie Sowietów na linii Wisły na prawie pół roku opóźniło marsz Armii Czerwonej\nw głąb III Rzeszy, dzięki czemu w ręce komunistów wpadła mniejsza część Niemiec, co\nmiało zasadniczo wpływ na stosunek sił Zachodu i Związku Sowieckiego w przyszłej\nzimnowojennej rozgrywce;\n– obłudna gra Stalina uświadomiła Ameryce i Zachodowi prawdziwe oblicze sowieckiego\nekspansjonizmu ([…] powstanie stało się jednym z pierwszych katalizatorów zimnej wojny,\nktóre doprowadziły do radykalnej zmiany ocen zamiarów Moskwy […]);\n– powstanie ocaliło odrębność państw satelickich Europy Środkowo-Wschodniej; według tej\nkoncepcji Stalin zmienił decyzję o wcieleniu Polski do Sowietów jako 17 republiki, jak\nrównież innych krajów tej części Europy; […]\n– pamięć tragedii powstania miała powstrzymywać Polaków przed rozlewem krwi w 1956 r.,\na także studzić emocje społeczne podczas innych przełomów; według tej koncepcji\nSierpień 1980 i „Solidarność” są owocami refleksji nad tragedią […].\nPolski wiek XX, red. K. Persak i P. Machcewicz, t. 2, Warszawa 2010, s. 369–375.\nŹródło 2. Fragment opracowania historycznego\nPowstanie Warszawskie odegrało […] istotną rolę w kontekście początków zimnej wojny.\nGdy ludzie Zachodu w latach pięćdziesiątych i sześćdziesiątych oglądali się za siebie,\nzadając sobie pytanie, kiedy właściwie zaczęły się psuć stosunki ze Związkiem Sowieckim,\nnieodmiennie wskazywali na rok 1944. Analizując sytuacje, w których Stalin przejawiał\nwyraźną złą wolę, a ludzie Zachodu mogli byli wykazać więcej rozumu i stanowczości,\nPowstanie Warszawskie umieszcza się u góry listy. Powstanie jako takie nie wywołało zimnej\nwojny. Było natomiast istotnym krokiem w jej kierunku. […] Mimo swojej długiej nieobecności\nw publicznym dyskursie Powstanie Warszawskie wywarło głęboki wpływ na kształtowanie się\npostaw w powojennej Polsce. […] Pamięć o nim łagodziła plany ostrożnych rezydentów\nKremla, którzy nie zapomnieli, jak Polacy potrafią walczyć, i którzy bez tych wspomnień\nmogliby częściej odczuwać pokusę, aby użyć większej siły. Ułatwiała porozumienie między\nKościołem a państwem, co przez dziesięciolecia pozwalało uniknąć społecznego niepokoju.\nDla późniejszych pokoleń stała się źródłem inspiracji, rodząc ideały Solidarności, która\nwskrzesiła dążenia Armii Krajowej, jednocześnie nigdy nie przywracając do życia jej metod.\n„Syndrom Powstania – pisał jeden z jego […] uczestników – uchronił Polskę od losu Węgrów\nw 1956 roku, działał tonizująco w roku 1970 i 1980 i sprawił, że Polska wyzwoliła się bez\nuciekania się do gwałtu i bez masowych strat”.\nN. Davies, Powstanie ’44, Kraków 2004, s. 830–831.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "22.2",
+      "group": 22,
+      "max_points": 2,
+      "question": "Porównaj przedstawione w źródłach 1. i 2. opinie na temat skutków powstania\nwarszawskiego – podaj dwa podobieństwa między tymi opiniami: jedno odnoszące się\ndo skutków międzynarodowych powstania (A), drugie – do jego skutków dla\nwewnętrznych losów Polski (B).\nPodobieństwo A:\nPodobieństwo B:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\nCo więc zostało z powstania? […] Wydaje się, że nawet przeciwnicy tej decyzji są w stanie\nzaakceptować następujące punkty […], choć nie musi to oczywiście zmienić ich generalnego\nstosunku do decyzji o godzinie „W”:\n– zatrzymanie Sowietów na linii Wisły na prawie pół roku opóźniło marsz Armii Czerwonej\nw głąb III Rzeszy, dzięki czemu w ręce komunistów wpadła mniejsza część Niemiec, co\nmiało zasadniczo wpływ na stosunek sił Zachodu i Związku Sowieckiego w przyszłej\nzimnowojennej rozgrywce;\n– obłudna gra Stalina uświadomiła Ameryce i Zachodowi prawdziwe oblicze sowieckiego\nekspansjonizmu ([…] powstanie stało się jednym z pierwszych katalizatorów zimnej wojny,\nktóre doprowadziły do radykalnej zmiany ocen zamiarów Moskwy […]);\n– powstanie ocaliło odrębność państw satelickich Europy Środkowo-Wschodniej; według tej\nkoncepcji Stalin zmienił decyzję o wcieleniu Polski do Sowietów jako 17 republiki, jak\nrównież innych krajów tej części Europy; […]\n– pamięć tragedii powstania miała powstrzymywać Polaków przed rozlewem krwi w 1956 r.,\na także studzić emocje społeczne podczas innych przełomów; według tej koncepcji\nSierpień 1980 i „Solidarność” są owocami refleksji nad tragedią […].\nPolski wiek XX, red. K. Persak i P. Machcewicz, t. 2, Warszawa 2010, s. 369–375.\nŹródło 2. Fragment opracowania historycznego\nPowstanie Warszawskie odegrało […] istotną rolę w kontekście początków zimnej wojny.\nGdy ludzie Zachodu w latach pięćdziesiątych i sześćdziesiątych oglądali się za siebie,\nzadając sobie pytanie, kiedy właściwie zaczęły się psuć stosunki ze Związkiem Sowieckim,\nnieodmiennie wskazywali na rok 1944. Analizując sytuacje, w których Stalin przejawiał\nwyraźną złą wolę, a ludzie Zachodu mogli byli wykazać więcej rozumu i stanowczości,\nPowstanie Warszawskie umieszcza się u góry listy. Powstanie jako takie nie wywołało zimnej\nwojny. Było natomiast istotnym krokiem w jej kierunku. […] Mimo swojej długiej nieobecności\nw publicznym dyskursie Powstanie Warszawskie wywarło głęboki wpływ na kształtowanie się\npostaw w powojennej Polsce. […] Pamięć o nim łagodziła plany ostrożnych rezydentów\nKremla, którzy nie zapomnieli, jak Polacy potrafią walczyć, i którzy bez tych wspomnień\nmogliby częściej odczuwać pokusę, aby użyć większej siły. Ułatwiała porozumienie między\nKościołem a państwem, co przez dziesięciolecia pozwalało uniknąć społecznego niepokoju.\nDla późniejszych pokoleń stała się źródłem inspiracji, rodząc ideały Solidarności, która\nwskrzesiła dążenia Armii Krajowej, jednocześnie nigdy nie przywracając do życia jej metod.\n„Syndrom Powstania – pisał jeden z jego […] uczestników – uchronił Polskę od losu Węgrów\nw 1956 roku, działał tonizująco w roku 1970 i 1980 i sprawił, że Polska wyzwoliła się bez\nuciekania się do gwałtu i bez masowych strat”.\nN. Davies, Powstanie ’44, Kraków 2004, s. 830–831.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "23.1",
+      "group": 23,
+      "max_points": 1,
+      "question": "Wymień dwie metody zobrazowane w źródłach 1. i 2., które stosowali komuniści\nw celu przejęcia władzy w Polsce.",
+      "source_text": "Źródło 1. Plakat\n[Obraz: images/Z23-S1.png]\n\nhttps://ank.gov.pl\nŹródło 2. Tabela przedstawiająca wyniki referendum (procent głosów na „tak”)\n| | Pytanie 1. | Pytanie 2. | Pytanie 3. |\n|---|---:|---:|---:|\n| Wyniki oficjalne | 68% | 77% | 91% |\n| Wyniki rzeczywiste | 27% | 42% | 67% |\n\nNa podstawie: https://zpe.gov.pl",
+      "images": [
+        {
+          "path": "images/Z23-S1.png",
+          "source_page": 26,
+          "sha256": "c51c5c863a652a8edb31f16feecf7a7cdd252b932bb9b8565c06b01974f8d1cf"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "23.2",
+      "group": 23,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy w świetle przedstawionych w źródle 2. rzeczywistych wyników\nreferendum najwięcej odpowiedzi pozytywnych uzyskało pytanie, do którego\nnawiązuje plakat ze źródła 1. Odpowiedź uzasadnij, odwołując się do informacji z obu\nźródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Plakat\n[Obraz: images/Z23-S1.png]\n\nhttps://ank.gov.pl\nŹródło 2. Tabela przedstawiająca wyniki referendum (procent głosów na „tak”)\n| | Pytanie 1. | Pytanie 2. | Pytanie 3. |\n|---|---:|---:|---:|\n| Wyniki oficjalne | 68% | 77% | 91% |\n| Wyniki rzeczywiste | 27% | 42% | 67% |\n\nNa podstawie: https://zpe.gov.pl",
+      "images": [
+        {
+          "path": "images/Z23-S1.png",
+          "source_page": 26,
+          "sha256": "c51c5c863a652a8edb31f16feecf7a7cdd252b932bb9b8565c06b01974f8d1cf"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "24",
+      "group": 24,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy źródła 1. i 2. odnoszą się do tego samego kryzysu\nmiędzynarodowego z okresu zimnej wojny. Odpowiedź uzasadnij, odwołując się do\ninformacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Mapa przedstawiająca rozmieszczenie wojsk\n[Obraz: images/Z24-S1.png]\n\nhttps://dzieje.pl\nŹródło 2. Fragment opracowania historycznego\nChruszczow obawiał się, że wycofanie wojsk […] zostanie potraktowane przez państwa\nzachodnie jako objaw słabości ZSRR i za namową Pekinu wstrzymał ten proces, kierując\nw stronę [stolicy] nowe oddziały. W odpowiedzi, na początku listopada Nagy ogłosił\nwystąpienie [swego państwa] z Układu Warszawskiego, deklarując neutralność kraju.\n4 listopada wojska radzieckie uderzyły na [stolicę], po jednodniowej walce zajmując miasto.\nW rezultacie krwawych walk w całym kraju zginęło co najmniej 2,5–3 tys. [bojowników],\na pięć razy tyle było rannych.\nJ. Tyszkiewicz, E. Czapiewski, Historia powszechna. Wiek XX, Warszawa 2012, s. 613.",
+      "images": [
+        {
+          "path": "images/Z24-S1.png",
+          "source_page": 27,
+          "sha256": "393ef9be026cca6d9cb8481c585128df1f9ce7af69f875f2b2edf42f3a5beb1c"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "25",
+      "group": 25,
+      "max_points": 3,
+      "question": "Wyjaśnij przesłanie rysunku, interpretując jego elementy graficzne. W odpowiedzi\nuwzględnij kontekst historyczny.",
+      "source_text": "Rysunek z epoki\n[Obraz: images/Z25.png]\n\nhttps://papers.gceguide.com",
+      "images": [
+        {
+          "path": "images/Z25.png",
+          "source_page": 28,
+          "sha256": "9175d84bdde726ca4203df82fa87baf200bd11fdba472409b2fe1b13d1b06b07"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "26",
+      "group": 26,
+      "max_points": 15,
+      "question": "Zadanie zawiera trzy tematy. Wybierz jeden z nich do opracowania. Twoja wypowiedź\npowinna liczyć minimum 300 wyrazów.\n1. Najbardziej udaną próbą odnowienia tradycji imperium rzymskiego w średniowieczu było\npaństwo Karola Wielkiego. Zajmij stanowisko wobec powyższej tezy i je uzasadnij,\nuwzględniając w swojej argumentacji aspekty: polityczny, społeczno-gospodarczy\ni kulturowy.\n2. To właśnie wojny z Turcją, spośród wszystkich XVII-wiecznych konfliktów zbrojnych\nRzeczypospolitej, w największym stopniu przyczyniły się do upadku jej znaczenia w tym\nstuleciu. Zajmij stanowisko wobec powyższej tezy i je uzasadnij, uwzględniając w swojej\nargumentacji aspekty: militarny, polityczny i społeczno-gospodarczy.\n3. Niepodległość Polska zawdzięczała przede wszystkim przywództwu Józefa Piłsudskiego.\nZajmij stanowisko wobec powyższej tezy i je uzasadnij, uwzględniając w swojej\nargumentacji aspekty: dyplomatyczny, militarny i polityczno-ustrojowy.",
+      "source_text": "",
+      "images": [],
+      "answer_format": "Jeden tekst: numer wybranego tematu i całe wypracowanie. Minimum 300 wyrazów zgodnie z poleceniem."
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "exam_id": "history-2025-mock-v1",
+  "title": "Historia — matura rozszerzona, maj 2025",
+  "source_exam_id": "MHIP-R0-100-2505",
+  "source_url": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2025/Historia/MHIP-R0-100-A-2505-arkusz.pdf",
+  "input_format": "separate-text-and-images-v1",
+  "language": "pl",
+  "max_points": 60,
+  "instructions": "Rozwiąż zadania po polsku. Czytaj question, source_text i wszystkie powiązane images. Wzory answer_format pokazują tylko składnię, nie poprawne odpowiedzi.",
+  "items": [
+    {
+      "id": "1.1",
+      "group": 1,
+      "max_points": 1,
+      "question": "Rozstrzygnij, która fotografia ze źródła 1. – A, B czy C – przedstawia naczynie\nwykorzystywane podczas rytuału opisanego w źródle 2. Odpowiedź uzasadnij,\nodwołując się do obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fotografie naczyń\n[Obraz: images/Z01-S1.png]\n\nNa podstawie: https://www.metmuseum.org; https://www.memphistours.com\nŹródło 2. Fragment opracowania historycznego\nZmarłego zabierano do domu oczyszczenia. Ciało kładziono na stole i wydobywano mózg.\nJeden z kapłanów-chirurgów wyspecjalizowanych w preparowaniu zwłok nacinał prawy bok,\nposługując się nożem. Potem przez tę ranę wyciągał wnętrzności, w tym celu przerywał\nprzeponę. Organy wydobyte w ten sposób umieszczano w naczyniach. Znajdowały się one\npod opieką czterech synów Horusa.\nNa podstawie: N. Grimal, Dzieje […], Warszawa 2016, s. 139.",
+      "images": [
+        {
+          "path": "images/Z01-S1.png",
+          "source_page": 4,
+          "sha256": "f229d5ea17264ff62444e434c77024dc216b91974ba44203a05a23d81cf3ba11"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "1.2",
+      "group": 1,
+      "max_points": 1,
+      "question": "Wyjaśnij wpływ wierzeń religijnych na praktyki przedstawione w źródle 2.",
+      "source_text": "Źródło 1. Fotografie naczyń\n[Obraz: images/Z01-S1.png]\n\nNa podstawie: https://www.metmuseum.org; https://www.memphistours.com\nŹródło 2. Fragment opracowania historycznego\nZmarłego zabierano do domu oczyszczenia. Ciało kładziono na stole i wydobywano mózg.\nJeden z kapłanów-chirurgów wyspecjalizowanych w preparowaniu zwłok nacinał prawy bok,\nposługując się nożem. Potem przez tę ranę wyciągał wnętrzności, w tym celu przerywał\nprzeponę. Organy wydobyte w ten sposób umieszczano w naczyniach. Znajdowały się one\npod opieką czterech synów Horusa.\nNa podstawie: N. Grimal, Dzieje […], Warszawa 2016, s. 139.",
+      "images": [
+        {
+          "path": "images/Z01-S1.png",
+          "source_page": 4,
+          "sha256": "f229d5ea17264ff62444e434c77024dc216b91974ba44203a05a23d81cf3ba11"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "2",
+      "group": 2,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy wydarzenia opisane w źródle 1. miały miejsce przed reformą opisaną\nw źródle 2. czy po niej. Odpowiedź uzasadnij, odwołując się do treści obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment tekstu religijnego\nCzekając na nich w Atenach, obruszał się Paweł w duchu swoim na widok miasta oddanego\nbałwochwalstwu. Rozprawiał więc w synagodze z Żydami i z pobożnymi, a na rynku każdego\ndnia z tymi, którzy się tam przypadkiem znaleźli. Niektórzy zaś z filozofów epikurejskich\ni stoickich ścierali się z nim. Jedni mówili: Cóż to chce powiedzieć ten bajarz? Drudzy zaś:\nZdaje się, że jest zwiastunem obcych bogów. Zwiastował im bowiem dobrą nowinę o Jezusie\ni zmartwychwstaniu. Zabrali go i zaprowadzili na Areopag, mówiąc: Czy możemy dowiedzieć\nsię, co to za nowa nauka, którą głosisz?\nNa podstawie: Biblia […] z apokryfami, Warszawa 1990, s. 1403.\nŹródło 2. Fragment opracowania historycznego\nRada Areopagu stała na straży praw i ustroju, miała nadzór nad władzą wykonawczą\ni kontrolowała generalnie administrację spraw państwowych. Do jej kompetencji należało\nrównież wymierzanie kar doraźnych, od których nie było apelacji. Efialtes i Perykles\nprzeprowadzili na Zgromadzeniu reformę demokratyczną. Heliaja przejęła niektóre\nsądownicze funkcje Areopagu, jak sprawy o bezbożność.\nNa podstawie: N.G.L. Hammond, Dzieje Grecji, Warszawa 1977, s. 207, 352.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "3.1",
+      "group": 3,
+      "max_points": 1,
+      "question": "Podaj – inną niż most – funkcję budowli zaprezentowanej na fotografii, jaką pełniła ta\nbudowla w starożytności.",
+      "source_text": "Współczesna fotografia budowli starożytnej\n[Obraz: images/Z03.png]\n\nNa podstawie: https://pl.wikipedia.org",
+      "images": [
+        {
+          "path": "images/Z03.png",
+          "source_page": 6,
+          "sha256": "ed1ffdd3cb98923c0d34ae79c197de4dbc661559d084e368a34d78e6f2ecfb27"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "3.2",
+      "group": 3,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy zaprezentowana budowla jest typowa dla cywilizacji starożytnej\nGrecji czy starożytnego Rzymu. Odpowiedź uzasadnij, odwołując się do jednego\nwidocznego na fotografii elementu architektonicznego.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Współczesna fotografia budowli starożytnej\n[Obraz: images/Z03.png]\n\nNa podstawie: https://pl.wikipedia.org",
+      "images": [
+        {
+          "path": "images/Z03.png",
+          "source_page": 6,
+          "sha256": "ed1ffdd3cb98923c0d34ae79c197de4dbc661559d084e368a34d78e6f2ecfb27"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "4",
+      "group": 4,
+      "max_points": 2,
+      "question": "Uzupełnij tabelę – wpisz obok każdego z opisów stosowaną w historiografii nazwę\nzakonu, którego dany opis dotyczy.\nA. Bracia mniejsi, zakon żebrzący, założony w 1209 r.\nwe Włoszech. Reguła zakonu głosiła potrzebę ubóstwa\nindywidualnego i wspólnotowego. Zakładali klasztory\nw miastach, gdzie prowadzili działalność wśród plebsu,\nw której kładli nacisk na umiłowanie natury.\nB. Męski zakon mniszy, założony w VI w. we Włoszech.\nOkoło 529 r. powstał pierwszy klasztor zakonny na Monte\nCassino. Reguła zakonu kładła duży nacisk na modlitwę\noraz pracę umysłową. Zakonnicy prowadzili kancelarie\ndworskie, skryptoria klasztorne, szkoły, biblioteki, szpitale.\nC. Męski zakon kleryków regularnych, założony w 1534 r.\nNa czele zakonu stał wybierany dożywotnio generalny\nprzełożony (zwany generałem), bezpośrednio\npodległy papieżowi. Celem zakonu, obok nauczania\ni prowadzenia misji, było wspieranie papieża w trudnych\nzadaniach. Zakonnicy składali dodatkowy ślub –\nbezwzględnego posłuszeństwa papieżowi.",
+      "source_text": "Na podstawie: Encyklopedia szkolna. Historia, Warszawa 2004, s. 70–71, 228–229, 334–335.",
+      "images": [],
+      "answer_format": "A: nazwa zakonu\nB: nazwa zakonu\nC: nazwa zakonu"
+    },
+    {
+      "id": "5.1",
+      "group": 5,
+      "max_points": 1,
+      "question": "Każdemu wydarzeniu opisanemu we fragmentach A–B (źródło 2.) przyporządkuj\nwładcę ze źródła 1., który był związany z tym wydarzeniem. Odpowiedzi zapisz poniżej.\nFragment A –\nFragment B –",
+      "source_text": "Źródło 1. Fragment tablicy genealogicznej dynastii Przemyślidów\n[Obraz: images/Z05-S1.png]\n\nNa podstawie: Dynastie Europy, red. A. Mączak, Wrocław 2009, s. 266–267.\nŹródło 2. Fragmenty opracowań historycznych\nFragment A:\nKoronacji dokonał arcybiskup Jakub Świnka, a w samej Wielkopolsce jego kandydatura\nzyskała uznanie. Trudno więc mówić tu o uzurpacji, zwłaszcza że po gwałtownej śmierci\nPrzemysła II idea królewskiej korony polskiej znów przeszła w sferę wizji i planów, a nie\nfaktów. […] Pod bezpośrednim władaniem nowego króla znajdowały się Małopolska\ni większość ziem Wielkopolski. Wkrótce też rozciągnął swą władzę na Pomorze Gdańskie,\ngdzie poparł go najbardziej znaczący ród Święców.\nFragment B:\nZ wielkim wojskiem uderzył wprost w serce piastowskiego państwa. Spotkał wprawdzie opór,\nale zbyt słaby, aby powstrzymać najeźdźców. Giecz i Kruszwica poddały się bez walki, padły\nGniezno, Poznań i Ostrów (gdzie archeologicznie mamy uchwytne ślady zaciekłej obrony\npiastowskiej drużyny). W Poznaniu zbezczeszczono groby Piastów, z Gniezna wywieziono\n[relikwie świętego], a także ogromne skarby.\nT. Jurek, E. Kizik, Historia Polski do 1572, Warszawa 2013, s. 85;\nS. Rosik, P. Wiszewski, Poczet polskich królów i książąt, Wrocław 2005, s. 212–213.",
+      "images": [
+        {
+          "path": "images/Z05-S1.png",
+          "source_page": 8,
+          "sha256": "004da82d3c37579fd5871d0a1fd9b99be8c4ecd52dc3f84307591e3336b30211"
+        }
+      ],
+      "answer_format": "A: władca\nB: władca"
+    },
+    {
+      "id": "5.2",
+      "group": 5,
+      "max_points": 1,
+      "question": "Rozstrzygnij, o którym świętym – Stanisławie czy Wojciechu – jest mowa\nwe fragmencie B ze źródła 2. Odpowiedź uzasadnij, odwołując się do treści źródła.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment tablicy genealogicznej dynastii Przemyślidów\n[Obraz: images/Z05-S1.png]\n\nNa podstawie: Dynastie Europy, red. A. Mączak, Wrocław 2009, s. 266–267.\nŹródło 2. Fragmenty opracowań historycznych\nFragment A:\nKoronacji dokonał arcybiskup Jakub Świnka, a w samej Wielkopolsce jego kandydatura\nzyskała uznanie. Trudno więc mówić tu o uzurpacji, zwłaszcza że po gwałtownej śmierci\nPrzemysła II idea królewskiej korony polskiej znów przeszła w sferę wizji i planów, a nie\nfaktów. […] Pod bezpośrednim władaniem nowego króla znajdowały się Małopolska\ni większość ziem Wielkopolski. Wkrótce też rozciągnął swą władzę na Pomorze Gdańskie,\ngdzie poparł go najbardziej znaczący ród Święców.\nFragment B:\nZ wielkim wojskiem uderzył wprost w serce piastowskiego państwa. Spotkał wprawdzie opór,\nale zbyt słaby, aby powstrzymać najeźdźców. Giecz i Kruszwica poddały się bez walki, padły\nGniezno, Poznań i Ostrów (gdzie archeologicznie mamy uchwytne ślady zaciekłej obrony\npiastowskiej drużyny). W Poznaniu zbezczeszczono groby Piastów, z Gniezna wywieziono\n[relikwie świętego], a także ogromne skarby.\nT. Jurek, E. Kizik, Historia Polski do 1572, Warszawa 2013, s. 85;\nS. Rosik, P. Wiszewski, Poczet polskich królów i książąt, Wrocław 2005, s. 212–213.",
+      "images": [
+        {
+          "path": "images/Z05-S1.png",
+          "source_page": 8,
+          "sha256": "004da82d3c37579fd5871d0a1fd9b99be8c4ecd52dc3f84307591e3336b30211"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "6",
+      "group": 6,
+      "max_points": 1,
+      "question": "Rozstrzygnij, którą cyfrą – 1, 2 czy 3 – oznaczono w legendzie obszar miasta\nlokowanego na prawie niemieckim. Odpowiedź uzasadnij, odwołując się do informacji\nz planu.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Plan miasta\n[Obraz: images/Z06.png]\n\nNa podstawie: M. Tymowski, Człowiek i historia […], Warszawa 2002, s. 79.",
+      "images": [
+        {
+          "path": "images/Z06.png",
+          "source_page": 10,
+          "sha256": "46ad9a51ec76824aada1c03f5ecad39bc3e24d7b920ee783010150a9502e37fd"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "7.1",
+      "group": 7,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy źródła 1. i 2. odnoszą się do tej samej wojny. Odpowiedź uzasadnij,\nodwołując się do informacji z obu źródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment dokumentu\n[W]szystkich mieszkańców ziemi pruskiej, chełmińskiej, królewieckiej, elbląskiej i pomorskiej\n[…] przyjęliśmy i objęliśmy w dobrowolne i samorzutne poddanie się. Przyjęliśmy ich pod\nrządy, opiekę, w panowanie, poddaństwo i posłuszeństwo, a brzmieniem niniejszego nie\nprzez pomyłkę lub nieopatrznie, lecz z całą naszą wiedzą i wolą w imię Boże podejmujemy\ni przyjmujemy, ziemie i państwa wymienione do Królestwa Polskiego przyłączamy, ponownie\nwłączamy, wcielamy i inkorporujemy oraz dopuszczamy, przyłączamy, włączamy do\nużytkowania i uczestnictwa we wszystkich dobrach, prawach, wolnościach i prerogatywach,\nktóre dotąd posiadają prałaci, panowie, szlachta Królestwa Polskiego […].\nL. Matusik, Teksy źródłowe […], Wrocław 1975, s. 282.\nŹródło 2. Mapa\n[Obraz: images/Z07-S2.png]\n\nNa podstawie: https://mapyonline.[…].pl",
+      "images": [
+        {
+          "path": "images/Z07-S2.png",
+          "source_page": 11,
+          "sha256": "74dc423872199e6ac24586123d0a02150692e61eab92b07bec44d3190c51b4e5"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "7.2",
+      "group": 7,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nWystawcą dokumentu cytowanego w źródle 1. był\nA. Jan Olbracht.\nB. Władysław Jagiełło.\nC. Kazimierz Jagiellończyk.\nD. Władysław Warneńczyk.",
+      "source_text": "Źródło 1. Fragment dokumentu\n[W]szystkich mieszkańców ziemi pruskiej, chełmińskiej, królewieckiej, elbląskiej i pomorskiej\n[…] przyjęliśmy i objęliśmy w dobrowolne i samorzutne poddanie się. Przyjęliśmy ich pod\nrządy, opiekę, w panowanie, poddaństwo i posłuszeństwo, a brzmieniem niniejszego nie\nprzez pomyłkę lub nieopatrznie, lecz z całą naszą wiedzą i wolą w imię Boże podejmujemy\ni przyjmujemy, ziemie i państwa wymienione do Królestwa Polskiego przyłączamy, ponownie\nwłączamy, wcielamy i inkorporujemy oraz dopuszczamy, przyłączamy, włączamy do\nużytkowania i uczestnictwa we wszystkich dobrach, prawach, wolnościach i prerogatywach,\nktóre dotąd posiadają prałaci, panowie, szlachta Królestwa Polskiego […].\nL. Matusik, Teksy źródłowe […], Wrocław 1975, s. 282.\nŹródło 2. Mapa\n[Obraz: images/Z07-S2.png]\n\nNa podstawie: https://mapyonline.[…].pl",
+      "images": [
+        {
+          "path": "images/Z07-S2.png",
+          "source_page": 11,
+          "sha256": "74dc423872199e6ac24586123d0a02150692e61eab92b07bec44d3190c51b4e5"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "8",
+      "group": 8,
+      "max_points": 2,
+      "question": "Podaj nazwy dwóch stylów architektonicznych, które reprezentuje kościół\nprzedstawiony na fotografii, oraz wymień po jednej widocznej cesze każdego z tych\nstylów.\nNazwa stylu 1.:\nCecha:\nNazwa stylu 2.:\nCecha:",
+      "source_text": "Kościół św. Jana Chrzciciela w Gnieźnie\n[Obraz: images/Z08.png]\n\nN podstawie: https://wzgorzelecha.pl",
+      "images": [
+        {
+          "path": "images/Z08.png",
+          "source_page": 12,
+          "sha256": "33d4c10632f447f269cb3c30fa8e83512e176d797c78bb5588330160b39cfa75"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9.1",
+      "group": 9,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nDokument został uchwalony w okresie bezkrólewia po śmierci\nA. Zygmunta Augusta.\nB. Stefana Batorego.\nC. Zygmunta III.\nD. Władysława IV.",
+      "source_text": "Fragmenty dokumentu\nMy, Rady Koronne […] jednej a nierozerwalnej Rzeczypospolitej […] oznajmujemy […],\niż pod tym niebezpiecznym czasem, bez króla pana zwierzchniego mieszkając, staraliśmy\nsię o to wszyscy pilnie na zjeździe warszawskim, jako byśmy przykładem przodków swych\nsami między sobą pokój, sprawiedliwość, porządek i obronę Rzeczypospolitej zatrzymać\ni zachować mogli. […] A iż w Rzeczypospolitej naszej jest dissidium [różność] niemałe\nin causa religionis christianae [w sprawie religii chrześcijańskiej], zabiegając temu, aby się\nz tej przyczyny między ludźmi seditio [bunt] jaka szkodliwa nie wszczęła, którą po inszych\nkrólestwach […] widziemy, obiecujemy to sobie spólnie […], iż którzy jesteśmy dissidentes\nde religione [rozróżnieni w wierze], pokój między sobą zachować, a dla różnej wiary\ni odmiany w kościele krwie nie przelewać […].\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 146.",
+      "images": [],
+      "answer_format": "A"
+    },
+    {
+      "id": "9.2",
+      "group": 9,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę dokumentu zacytowanego w źródle.",
+      "source_text": "Fragmenty dokumentu\nMy, Rady Koronne […] jednej a nierozerwalnej Rzeczypospolitej […] oznajmujemy […],\niż pod tym niebezpiecznym czasem, bez króla pana zwierzchniego mieszkając, staraliśmy\nsię o to wszyscy pilnie na zjeździe warszawskim, jako byśmy przykładem przodków swych\nsami między sobą pokój, sprawiedliwość, porządek i obronę Rzeczypospolitej zatrzymać\ni zachować mogli. […] A iż w Rzeczypospolitej naszej jest dissidium [różność] niemałe\nin causa religionis christianae [w sprawie religii chrześcijańskiej], zabiegając temu, aby się\nz tej przyczyny między ludźmi seditio [bunt] jaka szkodliwa nie wszczęła, którą po inszych\nkrólestwach […] widziemy, obiecujemy to sobie spólnie […], iż którzy jesteśmy dissidentes\nde religione [rozróżnieni w wierze], pokój między sobą zachować, a dla różnej wiary\ni odmiany w kościele krwie nie przelewać […].\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 146.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "9.3",
+      "group": 9,
+      "max_points": 1,
+      "question": "Podaj stosowaną w historiografii nazwę wydarzeń we Francji, do których nawiązali\nautorzy dokumentu.",
+      "source_text": "Fragmenty dokumentu\nMy, Rady Koronne […] jednej a nierozerwalnej Rzeczypospolitej […] oznajmujemy […],\niż pod tym niebezpiecznym czasem, bez króla pana zwierzchniego mieszkając, staraliśmy\nsię o to wszyscy pilnie na zjeździe warszawskim, jako byśmy przykładem przodków swych\nsami między sobą pokój, sprawiedliwość, porządek i obronę Rzeczypospolitej zatrzymać\ni zachować mogli. […] A iż w Rzeczypospolitej naszej jest dissidium [różność] niemałe\nin causa religionis christianae [w sprawie religii chrześcijańskiej], zabiegając temu, aby się\nz tej przyczyny między ludźmi seditio [bunt] jaka szkodliwa nie wszczęła, którą po inszych\nkrólestwach […] widziemy, obiecujemy to sobie spólnie […], iż którzy jesteśmy dissidentes\nde religione [rozróżnieni w wierze], pokój między sobą zachować, a dla różnej wiary\ni odmiany w kościele krwie nie przelewać […].\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 146.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "10",
+      "group": 10,
+      "max_points": 1,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Traktat upamiętniony na medalu został podpisany za panowania\nJana III Sobieskiego.\n2. Traktat upamiętniony na medalu kończył wojny Rzeczypospolitej\nz Portą Ottomańską.",
+      "source_text": "Rewers medalu upamiętniającego podpisanie traktatu\n[Obraz: images/Z10.png]\n\nhttps://www.wilanow-palac.pl\n\nTekst w ramce objaśnienia na ilustracji (strzałki wskazują napis na medalu): Szczęśliwie odzyskany 22 września Kamieniec na Podolu.",
+      "images": [
+        {
+          "path": "images/Z10.png",
+          "source_page": 13,
+          "sha256": "213e5ad5e59910d83f40d9870cb30b988aae13eecdfd84efca5d3843741864f7"
+        }
+      ],
+      "answer_format": "1: P\n2: F"
+    },
+    {
+      "id": "11.1",
+      "group": 11,
+      "max_points": 2,
+      "question": "Każdemu fragmentowi dokumentu (A–C) przyporządkuj nazwę państwa, w którym\ndokument ten został uchwalony. Odpowiedzi zapisz poniżej.\nFragment A –\nFragment B –\nFragment C –",
+      "source_text": "Fragmenty dokumentów\nFragment dokumentu A: §1. Wszelka niniejszym przyznana władza ustawodawcza\nprzysługuje Kongresowi […], który składa się z Senatu i z Izby Reprezentantów.\n§2. W skład Izby Reprezentantów wchodzą członkowie wybierani co dwa lata przez ludność\nposzczególnych stanów […].\nFragment dokumentu B: Władzę wykonawczą powierza się Dyrektoriatowi [złożonemu]\nz pięciu członków, wybieranych przez ciało prawodawcze w celu wykonywania czynności\nzgromadzenia wyborczego w imieniu narodu.\nFragment dokumentu C: Osoba króla jest święta i bezpieczna od wszystkiego […]. Dochody\ntak, jak […] i prerogatywy tronowi właściwe, niniejszą konstytucją […] zawarowane, tkniętymi\nbyć nie będą mogły. […] Straż, czyli rada królewska, do dozoru całości i egzekucji praw\nkrólowi dodana, składać się będzie: I-mo, z prymasa jako głowy duchowieństwa […]; 2-do,\nz pięciu ministrów […].\nT. Maresz, K. Juszczyk, Historia w tekstach źródłowych […], t. 2, Rzeszów 2000, s. 28, 39–41;\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 436.",
+      "images": [],
+      "answer_format": "A: nazwa państwa\nB: nazwa państwa\nC: nazwa państwa"
+    },
+    {
+      "id": "11.2",
+      "group": 11,
+      "max_points": 1,
+      "question": "Rozstrzygnij, który z dokumentów zacytowanych we fragmentach A–C powstał\nnajwcześniej. Odpowiedź uzasadnij, odwołując się do źródeł i wiedzy własnej.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragmenty dokumentów\nFragment dokumentu A: §1. Wszelka niniejszym przyznana władza ustawodawcza\nprzysługuje Kongresowi […], który składa się z Senatu i z Izby Reprezentantów.\n§2. W skład Izby Reprezentantów wchodzą członkowie wybierani co dwa lata przez ludność\nposzczególnych stanów […].\nFragment dokumentu B: Władzę wykonawczą powierza się Dyrektoriatowi [złożonemu]\nz pięciu członków, wybieranych przez ciało prawodawcze w celu wykonywania czynności\nzgromadzenia wyborczego w imieniu narodu.\nFragment dokumentu C: Osoba króla jest święta i bezpieczna od wszystkiego […]. Dochody\ntak, jak […] i prerogatywy tronowi właściwe, niniejszą konstytucją […] zawarowane, tkniętymi\nbyć nie będą mogły. […] Straż, czyli rada królewska, do dozoru całości i egzekucji praw\nkrólowi dodana, składać się będzie: I-mo, z prymasa jako głowy duchowieństwa […]; 2-do,\nz pięciu ministrów […].\nT. Maresz, K. Juszczyk, Historia w tekstach źródłowych […], t. 2, Rzeszów 2000, s. 28, 39–41;\nWiek XVI–XVIII w źródłach […], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 1999, s. 436.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "12",
+      "group": 12,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy banknot zaprezentowany w źródle 2. został wyemitowany przez\nbank, o którym mowa w źródle 1. Odpowiedź uzasadnij, odwołując się do informacji\nzawartych w obu źródłach.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment dekretu\nZ Bożej Łaski, My, Mikołaj I, [...] Król Polski etc. postanowiliśmy i stanowimy:\n[…] W mieście Naszym stołecznym Warszawie ustanawiamy Bank pod nazwiskiem Banku\nPolskiego […]. […] Bank mocen jest wypuszczać bilety bankowe […].\nWiek XIX w źródłach [...], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2002, s. 153–154.\nŹródło 2. Banknot\n[Obraz: images/Z12-S2.png]\n\nhttps://[…]monet.pl",
+      "images": [
+        {
+          "path": "images/Z12-S2.png",
+          "source_page": 15,
+          "sha256": "b1bc2426a0697a063250576b986ee52c368ca6f659826a264329159286ba2f40"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "13",
+      "group": 13,
+      "max_points": 1,
+      "question": "Wyjaśnij społeczne motywy nazwania przez autora listu maszyn parowych\nnienawistnymi.",
+      "source_text": "List do fabrykanta, początek XIX wieku\nDopiero co dostarczono mi informacji, że jest Pan posiadaczem tych nienawistnych maszyn\n[włókienniczych]. Moi ludzie pragną, bym napisał do Pana i ostrzegł, jak należy, aby Pan\nzniszczył je, i z tego powodu pragnę, aby Pan zrozumiał dobrze to, co piszę do Pana. Proszę\nprzyjąć do wiadomości, że jeśli nie zostaną one zniszczone do końca następnego tygodnia,\npolecę jednemu z mych poruczników, by na czele 300 ludzi zburzył je.\nWiek XIX w źródłach [...], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 133.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.1",
+      "group": 14,
+      "max_points": 1,
+      "question": "Rozstrzygnij, który z herbów przedstawionych w źródle 2. (A czy B) został\nustanowiony podczas powstania zilustrowanego w źródle 1. Odpowiedź uzasadnij,\nodwołując się do źródeł i wiedzy własnej.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Mapa ziem polskich w czasie jednego z powstań narodowych\n[Obraz: images/Z14-S1.png]\n\nNa podstawie: Wielka Encyklopedia PWN, red. J. Wojnowski, t. 22, Warszawa 2004, s. 176.\nŹródło 2. Herby powstańcze na szablach\n[Obraz: images/Z14-S2.png]\n\nNa podstawie: https://muzeumwp.pl; J. Jarosławski, Szable powstańców […], Warszawa 2023, s. 96.",
+      "images": [
+        {
+          "path": "images/Z14-S1.png",
+          "source_page": 16,
+          "sha256": "f3ee8bf84aea5a9e919cacb137a51d36a9615cd2638c9314fed2e512ad63d05b"
+        },
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 17,
+          "sha256": "dce237ccc96656c6d8a1835e597571e2ba269084cb1ac4a104a4906fe6c2853a"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "14.2",
+      "group": 14,
+      "max_points": 2,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Działania zbrojne ukazane w źródle 1. toczyły się m.in. na tzw. ziemiach\nzabranych.\n2. Układ granic widocznych na mapie był efektem postanowień\npokoju w Tylży.\n3. Jedną z bohaterek powstania, którego przebieg przedstawiono na mapie,\nbyła Emilia Plater.",
+      "source_text": "Źródło 1. Mapa ziem polskich w czasie jednego z powstań narodowych\n[Obraz: images/Z14-S1.png]\n\nNa podstawie: Wielka Encyklopedia PWN, red. J. Wojnowski, t. 22, Warszawa 2004, s. 176.\nŹródło 2. Herby powstańcze na szablach\n[Obraz: images/Z14-S2.png]\n\nNa podstawie: https://muzeumwp.pl; J. Jarosławski, Szable powstańców […], Warszawa 2023, s. 96.",
+      "images": [
+        {
+          "path": "images/Z14-S1.png",
+          "source_page": 16,
+          "sha256": "f3ee8bf84aea5a9e919cacb137a51d36a9615cd2638c9314fed2e512ad63d05b"
+        },
+        {
+          "path": "images/Z14-S2.png",
+          "source_page": 17,
+          "sha256": "dce237ccc96656c6d8a1835e597571e2ba269084cb1ac4a104a4906fe6c2853a"
+        }
+      ],
+      "answer_format": "1: P\n2: F\n3: P"
+    },
+    {
+      "id": "15.1",
+      "group": 15,
+      "max_points": 1,
+      "question": "Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\n1. Głód bawełniany był społeczno-gospodarczą konsekwencją wybuchu\nwojny secesyjnej.\n2. Autor tekstu tłumaczy wysokie bezrobocie zmianą technologii produkcji\nwłókienniczej.",
+      "source_text": "Fragment opracowania historycznego\nPort w Liverpoolu był głównym ośrodkiem odpowiedzialnym za dostawy importowanej\nbawełny dla brytyjskiego przemysłu włókienniczego. Ponad 80% tego importu pochodziło ze\nStanów Zjednoczonych. Przywódcy konfederatów wierzyli, że jest to skuteczne narzędzie\nnacisku, które pozwoli im skłonić Wielką Brytanię do udziału w wojnie, i nałożyli embargo na\ndostawy bawełny. Ceny bawełny podskoczyły z 6,25 do 27,25 pensów za funt. Import spadł\nz 2,6 mln bel w 1860 r. do niecałych 72 tys. w 1862 r. Pozbawieni dostaw bawełny, robotnicy\nnie mieli żadnego zajęcia. Pod koniec 1862 r. połowa z nich znalazła się na bruku. Blisko\njedna czwarta wszystkich mieszkańców hrabstwa żyła dzięki dobroczynności społecznej.\nTen okres nazwano „głodem bawełnianym”.\nNa podstawie: N. Ferguson, Potęga pieniądza […], Kraków 2015, s. 96–97.",
+      "images": [],
+      "answer_format": "1: P\n2: F"
+    },
+    {
+      "id": "15.2",
+      "group": 15,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy – zdaniem autora – o wprowadzeniu zakazu eksportu bawełny do\nWielkiej Brytanii zdecydowała strona zwolenników czy strona przeciwników\nabolicjonizmu. Odpowiedź uzasadnij, odwołując się do treści źródła.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Fragment opracowania historycznego\nPort w Liverpoolu był głównym ośrodkiem odpowiedzialnym za dostawy importowanej\nbawełny dla brytyjskiego przemysłu włókienniczego. Ponad 80% tego importu pochodziło ze\nStanów Zjednoczonych. Przywódcy konfederatów wierzyli, że jest to skuteczne narzędzie\nnacisku, które pozwoli im skłonić Wielką Brytanię do udziału w wojnie, i nałożyli embargo na\ndostawy bawełny. Ceny bawełny podskoczyły z 6,25 do 27,25 pensów za funt. Import spadł\nz 2,6 mln bel w 1860 r. do niecałych 72 tys. w 1862 r. Pozbawieni dostaw bawełny, robotnicy\nnie mieli żadnego zajęcia. Pod koniec 1862 r. połowa z nich znalazła się na bruku. Blisko\njedna czwarta wszystkich mieszkańców hrabstwa żyła dzięki dobroczynności społecznej.\nTen okres nazwano „głodem bawełnianym”.\nNa podstawie: N. Ferguson, Potęga pieniądza […], Kraków 2015, s. 96–97.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.1",
+      "group": 16,
+      "max_points": 1,
+      "question": "Rozstrzygnij, które z czasopism ukazanych w źródle 2. – A czy B – prezentowało treści\nzbieżne z poglądami autora źródła 1. Odpowiedź uzasadnij, odwołując się do\ninformacji z tekstu i właściwej strony tytułowej czasopisma.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment artykułu\nA gdym się zastanowił nad narodem, z którym mię wiązało wszystko, co cieszy, i wszystko,\nco boli, wszystko, co we mnie myśli, i wszystko, co czuje, przychodziłem do przekonania, że\nmoje dziecinne marzenia i rojenia zespalają się z moim młodzieńczym światopoglądem.\nSocjalista w Polsce dążyć musi do niepodległości kraju, a niepodległość jest znamiennym\nwarunkiem zwycięstwa socjalizmu w Polsce.\n[…], Myśli, mowy i rozkazy, Warszawa 1989, s. 75.\nŹródło 2. Strony tytułowe czasopism\n[Obraz: images/Z16-S2.png]\n\nHistoria Polskiego Rewolucyjnego Ruchu Robotniczego, Warszawa 1975, faksymile.\n\nTranskrypcja stron tytułowych:\nA: Warszawa. Czerwiec 1894 r. Nr. 1. / Proletaryusze wszystkich krajów, łączcie się! / ROBOTNIK / ORGAN POLSKIEJ PARTYI SOCYALISTYCZNEJ / Towarzysze, upraszamy Was o rozpowszechnianie „Robotnika”.\nB: Nr. 1. 25 stycznia 1905. / Z POLA WALKI / Dodatek do Nru 23 „Czerwonego Sztandaru” organu Socjaldemokracji Królestwa Polskiego i Litwy / Rewolucya w Petersburgu!",
+      "images": [
+        {
+          "path": "images/Z16-S2.png",
+          "source_page": 19,
+          "sha256": "2fce2bd7986c48a68feb033c478aae953829ae68961ae0a7f4999124263dd0a8"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "16.2",
+      "group": 16,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy rewolucja, o której informuje czasopismo B, zakończyła się\nobaleniem monarchii w Rosji. Odpowiedź uzasadnij, odwołując się do faktografii.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment artykułu\nA gdym się zastanowił nad narodem, z którym mię wiązało wszystko, co cieszy, i wszystko,\nco boli, wszystko, co we mnie myśli, i wszystko, co czuje, przychodziłem do przekonania, że\nmoje dziecinne marzenia i rojenia zespalają się z moim młodzieńczym światopoglądem.\nSocjalista w Polsce dążyć musi do niepodległości kraju, a niepodległość jest znamiennym\nwarunkiem zwycięstwa socjalizmu w Polsce.\n[…], Myśli, mowy i rozkazy, Warszawa 1989, s. 75.\nŹródło 2. Strony tytułowe czasopism\n[Obraz: images/Z16-S2.png]\n\nHistoria Polskiego Rewolucyjnego Ruchu Robotniczego, Warszawa 1975, faksymile.\n\nTranskrypcja stron tytułowych:\nA: Warszawa. Czerwiec 1894 r. Nr. 1. / Proletaryusze wszystkich krajów, łączcie się! / ROBOTNIK / ORGAN POLSKIEJ PARTYI SOCYALISTYCZNEJ / Towarzysze, upraszamy Was o rozpowszechnianie „Robotnika”.\nB: Nr. 1. 25 stycznia 1905. / Z POLA WALKI / Dodatek do Nru 23 „Czerwonego Sztandaru” organu Socjaldemokracji Królestwa Polskiego i Litwy / Rewolucya w Petersburgu!",
+      "images": [
+        {
+          "path": "images/Z16-S2.png",
+          "source_page": 19,
+          "sha256": "2fce2bd7986c48a68feb033c478aae953829ae68961ae0a7f4999124263dd0a8"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "17.1",
+      "group": 17,
+      "max_points": 1,
+      "question": "Podaj nazwę ruchu społeczno-politycznego, do którego osiągnięć odnoszą się źródła.",
+      "source_text": "Źródło 1. Przebudzenie – amerykańska ilustracja z 1915 roku\n[Obraz: images/Z17-S1.png]\n\nNa podstawie: https://www.loc.gov\n\nTeksty w ramkach objaśnień na ilustracji (strzałki wskazują elementy rysunku): „Głosy dla kobiet”; „Kalifornia, Nevada, Oregon, Waszyngton, Idaho, Utah, Arizona, Montana, Wyoming, Kolorado, Kansas”.\nŹródło 2. XIX poprawka do Konstytucji Stanów Zjednoczonych [18 sierpnia 1920 roku]\nStany Zjednoczone ani którykolwiek ze stanów nie może obywateli Stanów Zjednoczonych\npozbawić praw wyborczych ani ograniczyć ich ze względu na płeć.\nhttp://libr.sejm.gov.pl",
+      "images": [
+        {
+          "path": "images/Z17-S1.png",
+          "source_page": 20,
+          "sha256": "1291134595d6a2c53439aaf669e462c3352fc2b8e8598c85ca57d4a246bb6b44"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "17.2",
+      "group": 17,
+      "max_points": 1,
+      "question": "Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.\nW Polsce prawo, do którego nawiązują oba źródła, zostało wprowadzone w roku\nA. odzyskania niepodległości.\nB. uchwalenia konstytucji marcowej.\nC. uchwalenia konstytucji kwietniowej.\nD. zakończenia II wojny światowej.",
+      "source_text": "Źródło 1. Przebudzenie – amerykańska ilustracja z 1915 roku\n[Obraz: images/Z17-S1.png]\n\nNa podstawie: https://www.loc.gov\n\nTeksty w ramkach objaśnień na ilustracji (strzałki wskazują elementy rysunku): „Głosy dla kobiet”; „Kalifornia, Nevada, Oregon, Waszyngton, Idaho, Utah, Arizona, Montana, Wyoming, Kolorado, Kansas”.\nŹródło 2. XIX poprawka do Konstytucji Stanów Zjednoczonych [18 sierpnia 1920 roku]\nStany Zjednoczone ani którykolwiek ze stanów nie może obywateli Stanów Zjednoczonych\npozbawić praw wyborczych ani ograniczyć ich ze względu na płeć.\nhttp://libr.sejm.gov.pl",
+      "images": [
+        {
+          "path": "images/Z17-S1.png",
+          "source_page": 20,
+          "sha256": "1291134595d6a2c53439aaf669e462c3352fc2b8e8598c85ca57d4a246bb6b44"
+        }
+      ],
+      "answer_format": "A"
+    },
+    {
+      "id": "18",
+      "group": 18,
+      "max_points": 3,
+      "question": "Wyjaśnij przesłanie rysunku, interpretując jego dwa elementy graficzne i tytuł.\nW odpowiedzi uwzględnij kontekst historyczny z roku powstania tego rysunku.",
+      "source_text": "Twoja kolej, Germanio! – francuski rysunek z 1919 roku\n[Obraz: images/Z18.png]\n\nNa podstawie: https://gallica.bnf.fr",
+      "images": [
+        {
+          "path": "images/Z18.png",
+          "source_page": 21,
+          "sha256": "36c671468567a87fe9517724161dc9727a1ef165c558de05a85880a0cb3b470d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "19",
+      "group": 19,
+      "max_points": 2,
+      "question": "Wymień dwa wydarzenia z dziejów II Rzeczypospolitej, które spowodowały\nkonieczność zastosowania zacytowanych zapisów konstytucji.\nWydarzenie 1.:\nWydarzenie 2.:",
+      "source_text": "Fragment konstytucji marcowej\nArt. 40. Jeżeli Prezydent Rzeczypospolitej nie może sprawować urzędu, oraz w razie\nopróżnienia urzędu Prezydenta Rzeczypospolitej wskutek śmierci, zrzeczenia się lub innej\nprzyczyny, zastępuje go Marszałek Sejmu.\nArt. 41. W razie opróżnienia urzędu Prezydenta Rzeczypospolitej Sejm i Senat łączą się\nnatychmiast na zaproszenie Marszałka Sejmu i pod jego przewodnictwem z samego prawa\nw Zgromadzenie Narodowe celem wyboru Prezydenta.\nhttp://libr.sejm.gov.pl",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "20",
+      "group": 20,
+      "max_points": 1,
+      "question": "Podaj stosowane w historiografii nazwy dwóch totalitaryzmów, do których nawiązuje\ntytuł książki.",
+      "source_text": "Fragment okładki książki\n[Obraz: images/Z20.png]\n\nNa podstawie: www.profinfo.pl",
+      "images": [
+        {
+          "path": "images/Z20.png",
+          "source_page": 22,
+          "sha256": "1fb23da7d5b29b301459fd4f15d918ce6d5061ac5fbe3b9b104901eb76f0f355"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "21.1",
+      "group": 21,
+      "max_points": 1,
+      "question": "Podaj nazwisko polskiego ekonomisty związanego z inwestycjami, do których\nodnoszą się źródła 1. i 2.",
+      "source_text": "Źródło1. Fragment strony tytułowej czasopisma\n[Obraz: images/Z21-S1.png]\n\nNa podstawie: https://www.jbc.bj.uj.edu.pl\n\nTranskrypcja: C.O.P. / PISMO CENTRALNEGO OKRĘGU PRZEMYSŁOWEGO\nŹródło 2. Fragment plakatu\n[Obraz: images/Z21-S2.png]\n\nNa podstawie: https://muzeumplock.eu\n\nTranskrypcja: GDYNIA / NOWY PORT NAD BAŁTYKIEM",
+      "images": [
+        {
+          "path": "images/Z21-S1.png",
+          "source_page": 23,
+          "sha256": "53f21c8efb68ab8e04be93504d8d14f2344d31dc599ee4593a0003da083076c0"
+        },
+        {
+          "path": "images/Z21-S2.png",
+          "source_page": 23,
+          "sha256": "7c9237e81cb238243ea559b9f9754962a063225069112a613ede5cfa3639388d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "21.2",
+      "group": 21,
+      "max_points": 1,
+      "question": "Rozstrzygnij, które źródło – 1. czy 2. – nawiązuje do inwestycji rozpoczętej w okresie\nrządów sanacji w Polsce. Odpowiedź uzasadnij, odwołując się do faktografii.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło1. Fragment strony tytułowej czasopisma\n[Obraz: images/Z21-S1.png]\n\nNa podstawie: https://www.jbc.bj.uj.edu.pl\n\nTranskrypcja: C.O.P. / PISMO CENTRALNEGO OKRĘGU PRZEMYSŁOWEGO\nŹródło 2. Fragment plakatu\n[Obraz: images/Z21-S2.png]\n\nNa podstawie: https://muzeumplock.eu\n\nTranskrypcja: GDYNIA / NOWY PORT NAD BAŁTYKIEM",
+      "images": [
+        {
+          "path": "images/Z21-S1.png",
+          "source_page": 23,
+          "sha256": "53f21c8efb68ab8e04be93504d8d14f2344d31dc599ee4593a0003da083076c0"
+        },
+        {
+          "path": "images/Z21-S2.png",
+          "source_page": 23,
+          "sha256": "7c9237e81cb238243ea559b9f9754962a063225069112a613ede5cfa3639388d"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "22",
+      "group": 22,
+      "max_points": 1,
+      "question": "Rozstrzygnij, czy źródło 2. przedstawia losy formacji wojskowej, która powstała na\nmocy traktatu przytoczonego w źródle 1. Odpowiedź uzasadnij, odwołując się do obu\nźródeł.\nRozstrzygnięcie:\nUzasadnienie:",
+      "source_text": "Źródło 1. Fragment dokumentu traktatowego\n30 lipca 1941 […]. Rząd Związku Socjalistycznych Republik Rad oświadcza swą zgodę na\ntworzenie na terytorium Związku Socjalistycznych Republik Rad Armii Polskiej, której\ndowódca będzie mianowany przez rząd Rzeczypospolitej Polskiej w porozumieniu z rządem\nZwiązku Socjalistycznych Republik Rad. Armia Polska na terytorium Związku\nSocjalistycznych Republik Rad podlegać będzie w sprawach operacyjnych Naczelnemu\nDowództwu Związku Socjalistycznych Republik Rad, w składzie którego będzie się\nznajdować przedstawiciel Armii Polskiej.\nWiek XX w źródłach [...], oprac. M. Sobańska-Bondaruk, S.B. Lenard, Warszawa 2001, s. 257–258.\nŹródło 2. Fragment opracowania historycznego\nNikt się nie spodziewał, że ocena udziału 1. dywizji w bitwie pod Lenino do południa drugiego\ndnia stanowiła podstawę do podjęcia przez Wodza Naczelnego Radzieckich Sił Zbrojnych,\nmarszałka Józefa Stalina, decyzji o wycofaniu kościuszkowców z dalszej walki. Marszałek\nStalin w rozmowie z Wandą Wasilewską uznał, że kościuszkowcy w ciągu dwóch dni\npokazali już, że nie tylko chcą walczyć u boku Armii Radzieckiej przeciwko wspólnemu\nwrogowi, ale także umieją walczyć.\nK. Sobczak, […], Warszawa 1988, s. 189–190.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "23",
+      "group": 23,
+      "max_points": 1,
+      "question": "Podaj nazwę stylu w sztuce reprezentowanego przez przedstawiony obraz. Odpowiedź\nuzasadnij, charakteryzując jedną widoczną cechę tego stylu.\nNazwa:\nUzasadnienie:",
+      "source_text": "W. Dobrowolski – Armia pokoju\n[Obraz: images/Z23.png]\n\nhttps://encyklopediateatru.pl",
+      "images": [
+        {
+          "path": "images/Z23.png",
+          "source_page": 25,
+          "sha256": "9ae1249d102765ff2e39bbdfadfa3525553daf441d97dd880be342f6f01facde"
+        }
+      ],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "24.1",
+      "group": 24,
+      "max_points": 2,
+      "question": "Porównaj oceny porozumienia okrągłego stołu zaprezentowane w źródłach 1. i 2. –\nprzedstaw jedno podobieństwo i jedną różnicę między tymi ocenami.\nPodobieństwo:\nRóżnica:",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\n[Bilans porozumienia] wydaje się następujący: ekipa Jaruzelskiego, nie rezygnując z kontroli\nnad najistotniejszymi narzędziami sprawowania władzy, postanowiła zbudować dla\numiarkowanej części opozycji reglamentowane miejsce w systemie politycznym,\na równocześnie przesunąć rzeczywiste centrum dyspozycji politycznej z Komitetu\nCentralnego PZPR do urzędu prezydenta, którym zostać miał Jaruzelski. W stosunku do\nofert składanych opozycji jeszcze przed okrągłym stołem, najważniejszy sukces strony\nsolidarnościowej stanowiła decyzja o wolnych wyborach do Senatu. Jednak to nie okrągły\nstół, ale wydarzenia czterech następnych miesięcy przesądziły o tym, że Polską co najmniej\ndo 1995 r. nie rządził – jako prezydent PRL – generał Jaruzelski. W kwietniu 1989 r., gdy\nskładano podpisy pod porozumieniami okrągłego stołu, ta ostatnia perspektywa wydawała\nsię całkiem realna.\nA. Dudek, Historia polityczna Polski […], Warszawa 2007, s. 28.\nŹródło 2. Fragment opracowania historycznego\nPorozumienie Okrągłego Stołu zadziwiało świat jako niezwykły przykład rozwiązania\ngłębokiego, wieloletniego konfliktu politycznego. Polska jako pierwszy kraj „realnego\nsocjalizmu” wychodziła ku tworzeniu systemu pluralistycznego i demokratycznego. Ułożone\nprzy Okrągłym Stole zręby ustroju konstytucyjnego oznaczały bardzo głęboką zmianę\nistniejącego porządku. Pierwszą instytucją prawdziwej demokracji parlamentarnej miał być\nSenat, który – choć zachowywał ograniczone kompetencje – nie był jednak instytucją\n„malowaną”. […] Zapisy […] dotyczące poszerzenia wolności słowa i druku, możliwości\nzrzeszania się w organizacjach społecznych i zawodowych dawały podstawę do budowania\ndemokratycznego społeczeństwa. Uprawniony jest więc pogląd, że Okrągły Stół był wielkim\nzwycięstwem solidarnościowej opozycji. Zwycięstwem ponadto osiągniętym bezkrwawo oraz\notwierającym drogę do budowy państwa demokratycznego i stabilnego wewnętrznie.\nWspółautorami Okrągłego Stołu byli również przedstawiciele władz; bez ich współdziałania,\nwykazanej zdolności do cofania się ta droga przemian byłaby zablokowana.\nA. Friszke, Polska. Losy państwa i narodu […], Warszawa 2003, s. 458–459.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "24.2",
+      "group": 24,
+      "max_points": 1,
+      "question": "Podaj nazwę państwa europejskiego, w którym w 1989 roku doszło do krwawego\nobalenia dyktatury komunistycznej.",
+      "source_text": "Źródło 1. Fragment opracowania historycznego\n[Bilans porozumienia] wydaje się następujący: ekipa Jaruzelskiego, nie rezygnując z kontroli\nnad najistotniejszymi narzędziami sprawowania władzy, postanowiła zbudować dla\numiarkowanej części opozycji reglamentowane miejsce w systemie politycznym,\na równocześnie przesunąć rzeczywiste centrum dyspozycji politycznej z Komitetu\nCentralnego PZPR do urzędu prezydenta, którym zostać miał Jaruzelski. W stosunku do\nofert składanych opozycji jeszcze przed okrągłym stołem, najważniejszy sukces strony\nsolidarnościowej stanowiła decyzja o wolnych wyborach do Senatu. Jednak to nie okrągły\nstół, ale wydarzenia czterech następnych miesięcy przesądziły o tym, że Polską co najmniej\ndo 1995 r. nie rządził – jako prezydent PRL – generał Jaruzelski. W kwietniu 1989 r., gdy\nskładano podpisy pod porozumieniami okrągłego stołu, ta ostatnia perspektywa wydawała\nsię całkiem realna.\nA. Dudek, Historia polityczna Polski […], Warszawa 2007, s. 28.\nŹródło 2. Fragment opracowania historycznego\nPorozumienie Okrągłego Stołu zadziwiało świat jako niezwykły przykład rozwiązania\ngłębokiego, wieloletniego konfliktu politycznego. Polska jako pierwszy kraj „realnego\nsocjalizmu” wychodziła ku tworzeniu systemu pluralistycznego i demokratycznego. Ułożone\nprzy Okrągłym Stole zręby ustroju konstytucyjnego oznaczały bardzo głęboką zmianę\nistniejącego porządku. Pierwszą instytucją prawdziwej demokracji parlamentarnej miał być\nSenat, który – choć zachowywał ograniczone kompetencje – nie był jednak instytucją\n„malowaną”. […] Zapisy […] dotyczące poszerzenia wolności słowa i druku, możliwości\nzrzeszania się w organizacjach społecznych i zawodowych dawały podstawę do budowania\ndemokratycznego społeczeństwa. Uprawniony jest więc pogląd, że Okrągły Stół był wielkim\nzwycięstwem solidarnościowej opozycji. Zwycięstwem ponadto osiągniętym bezkrwawo oraz\notwierającym drogę do budowy państwa demokratycznego i stabilnego wewnętrznie.\nWspółautorami Okrągłego Stołu byli również przedstawiciele władz; bez ich współdziałania,\nwykazanej zdolności do cofania się ta droga przemian byłaby zablokowana.\nA. Friszke, Polska. Losy państwa i narodu […], Warszawa 2003, s. 458–459.",
+      "images": [],
+      "answer_format": "Tekst po polsku. Podaj wszystkie wymagane elementy odpowiedzi."
+    },
+    {
+      "id": "25",
+      "group": 25,
+      "max_points": 15,
+      "question": "Zadanie zawiera trzy tematy. Wybierz jeden z nich do opracowania. Twoja wypowiedź\npowinna liczyć minimum 300 wyrazów.\n1. Władysław Jagiełło był najwybitniejszym władcą Polski z dynastii Jagiellonów. Zajmij\nstanowisko wobec powyższej tezy i je uzasadnij, uwzględniając w swojej argumentacji\naspekty: militarny, ustrojowy i społeczno-gospodarczy.\n2. Lata 1871–1914 są niesłusznie określane jako belle époque (piękna epoka). Zajmij\nstanowisko wobec powyższej tezy i je uzasadnij, uwzględniając w swojej argumentacji\naspekty: polityczny, społeczno-gospodarczy i kulturowy.\n3. Rok 1956 był przełomem w systemie komunistycznym. Zajmij stanowisko wobec\npowyższej tezy i je uzasadnij, uwzględniając w swojej argumentacji wydarzenia z trzech\nwybranych państw bloku komunistycznego.",
+      "source_text": "",
+      "images": [],
+      "answer_format": "Jeden tekst: numer wybranego tematu i całe wypracowanie. Minimum 300 wyrazów zgodnie z poleceniem."
+    }
+  ]
+}

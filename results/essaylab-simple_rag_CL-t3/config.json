@@ -1,0 +1,31 @@
+{
+  "run": "essaylab-simple_rag_CL-t3",
+  "phase": "judge",
+  "solver_url": "http://localhost:8000/v1",
+  "solver_model": "solver",
+  "solver_api": "local",
+  "solver_reasoning": "none",
+  "judge": "gpt-6-sol-v4",
+  "judge_url": "http://localhost:8000/v1",
+  "judge_model": null,
+  "judge_key_env": null,
+  "model_id": null,
+  "years": [
+    "2023_f2023",
+    "2024_f2023",
+    "2025_f2023",
+    "2026_f2023"
+  ],
+  "img_desc": null,
+  "rag": null,
+  "rag_k": 5,
+  "rag_skip_closed": false,
+  "images": false,
+  "think": null,
+  "skip_images": false,
+  "limit": null,
+  "concurrency": 4,
+  "temperature": 0.0,
+  "max_tokens": 1500,
+  "api_key": "EMPTY"
+}

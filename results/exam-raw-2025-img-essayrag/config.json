@@ -1,0 +1,6 @@
+{
+  "run": "exam-raw-2025-img-essayrag",
+  "source": "results/exam/raw-2025-img-essayrag/answers.json",
+  "exam_id": "history-2025-mock-v1",
+  "note": "odpowiedzi z harnessu egzaminu"
+}
